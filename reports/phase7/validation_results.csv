@@ -1,0 +1,10 @@
+check,expected,actual,status
+Customers = SQL valid customers,792.0,792.0,PASS
+Customer profit = SQL Q18 total,285397.42,285397.3361999999,PASS
+Customer revenue = valid-line revenue,2292294.9163,2292294.9162999997,PASS
+Segment revenue sums to total,2292294.9162999997,2292294.9163,PASS
+Segment profit sums to total,285397.3361999999,285397.33619999996,PASS
+Segment customers sum to total,792.0,792.0,PASS
+Within-BE + beyond-BE profit = profit,285397.3361999999,285397.3361999999,PASS
+Orders sum = distinct valid orders,5000.0,5000.0,PASS
+Persistence matrix covers customers in both periods,710.0,710.0,PASS

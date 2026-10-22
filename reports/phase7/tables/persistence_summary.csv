@@ -1,0 +1,10 @@
+,0
+period_1,2023-2024
+period_2,2025-2026
+customers_in_both,710
+spearman_margin,-0.0042248252868244815
+spearman_revenue,0.0514419748991456
+spearman_profit,0.06863023133534384
+p_low_margin_again_if_low,0.4166666666666667
+p_low_margin_if_previously_high,0.3957345971563981
+same_segment_share,0.2971830985915493

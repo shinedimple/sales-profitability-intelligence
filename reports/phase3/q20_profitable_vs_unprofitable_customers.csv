@@ -1,0 +1,3 @@
+customer_status,customers,share_of_customers,sales,share_of_sales,profit
+Profitable,637,0.8043,1900625.88,0.8291,356609.75
+Unprofitable,155,0.1957,391669.03,0.1709,-71212.42

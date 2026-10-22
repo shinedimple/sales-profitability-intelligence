@@ -1,0 +1,6 @@
+check,status,detail
+Every requested measure exists,PASS,
+Every dashboard measure exists in the library,PASS,
+No unused measures (each is on the dashboard or used by another measure),PASS,
+Every core write-up refers to a library measure,PASS,
+Every measure has a format/usage note,PASS,

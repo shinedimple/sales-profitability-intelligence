@@ -1,0 +1,9 @@
+figure,report,reference,status
+Revenue,2296919.4883,2296919.49,PASS
+Profit,286409.0804999999,286409.08,PASS
+Profit margin,0.12469269469779175,0.1246926946977917,PASS
+Loss-making rules,79.0,79.0,PASS
+Top 10% customer profit share,0.5789661823760218,0.5789661823760217,PASS
+Beyond break-even revenue share,0.2039365268073423,0.2039365268073423,PASS
+Unprofitable customers,155.0,155.0,PASS
+Loss-making products,306.0,306.0,PASS

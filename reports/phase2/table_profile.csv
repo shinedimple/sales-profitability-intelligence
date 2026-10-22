@@ -1,0 +1,8 @@
+table,rows,columns
+dim_date,1826,15
+dim_customer,804,7
+dim_product,1894,6
+dim_location,655,8
+dim_ship_mode,4,3
+dim_discount,12,5
+fct_sales,10192,26

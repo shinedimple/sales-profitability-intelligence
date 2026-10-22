@@ -1,0 +1,656 @@
+location_key,country,region,regional_manager,state_province,city,city_state,postal_code
+1,Canada,West,Sadie Pawthorne,Alberta,Calgary,"Calgary, Alberta",T1Y
+2,Canada,West,Sadie Pawthorne,Alberta,Calgary,"Calgary, Alberta",T2C
+3,Canada,West,Sadie Pawthorne,Alberta,Edmonton,"Edmonton, Alberta",T5A
+4,Canada,West,Sadie Pawthorne,British Columbia,Vancouver,"Vancouver, British Columbia",V5K
+5,Canada,West,Sadie Pawthorne,British Columbia,Vancouver,"Vancouver, British Columbia",V6B
+6,Canada,West,Sadie Pawthorne,British Columbia,Vancouver,"Vancouver, British Columbia",V6E
+7,Canada,West,Sadie Pawthorne,British Columbia,Vancouver,"Vancouver, British Columbia",V6G
+8,Canada,West,Sadie Pawthorne,British Columbia,Vancouver,"Vancouver, British Columbia",V6Z
+9,Canada,Central,Roxanne Rodriguez,Manitoba,Winnipeg,"Winnipeg, Manitoba",R0H
+10,Canada,Central,Roxanne Rodriguez,Manitoba,Winnipeg,"Winnipeg, Manitoba",R3R
+11,Canada,East,Chuck Magee,New Brunswick,Moncton,"Moncton, New Brunswick",E1A
+12,Canada,East,Chuck Magee,Newfoundland and Labrador,St. John's,"St. John's, Newfoundland and Labrador",A0A
+13,Canada,East,Chuck Magee,Nova Scotia,Halifax,"Halifax, Nova Scotia",B3H
+14,Canada,East,Chuck Magee,Ontario,Toronto,"Toronto, Ontario",M2N
+15,Canada,East,Chuck Magee,Ontario,Toronto,"Toronto, Ontario",M3C
+16,Canada,East,Chuck Magee,Ontario,Toronto,"Toronto, Ontario",M5H
+17,Canada,East,Chuck Magee,Ontario,Toronto,"Toronto, Ontario",M7A
+18,Canada,East,Chuck Magee,Prince Edward Island,Charlottetown,"Charlottetown, Prince Edward Island",C0A
+19,Canada,East,Chuck Magee,Quebec,Montreal,"Montreal, Quebec",H1A
+20,Canada,East,Chuck Magee,Quebec,Montreal,"Montreal, Quebec",H1B
+21,Canada,East,Chuck Magee,Quebec,Montreal,"Montreal, Quebec",H1C
+22,Canada,East,Chuck Magee,Quebec,Quebec City,"Quebec City, Quebec",G1B
+23,Canada,West,Sadie Pawthorne,Saskatchewan,Regina,"Regina, Saskatchewan",S0G
+24,United States,South,Fred Suzuki,Alabama,Auburn,"Auburn, Alabama",36830
+25,United States,South,Fred Suzuki,Alabama,Decatur,"Decatur, Alabama",35601
+26,United States,South,Fred Suzuki,Alabama,Florence,"Florence, Alabama",35630
+27,United States,South,Fred Suzuki,Alabama,Hoover,"Hoover, Alabama",35244
+28,United States,South,Fred Suzuki,Alabama,Huntsville,"Huntsville, Alabama",35810
+29,United States,South,Fred Suzuki,Alabama,Mobile,"Mobile, Alabama",36608
+30,United States,South,Fred Suzuki,Alabama,Montgomery,"Montgomery, Alabama",36116
+31,United States,South,Fred Suzuki,Alabama,Tuscaloosa,"Tuscaloosa, Alabama",35401
+32,United States,West,Sadie Pawthorne,Arizona,Avondale,"Avondale, Arizona",85323
+33,United States,West,Sadie Pawthorne,Arizona,Bullhead City,"Bullhead City, Arizona",86442
+34,United States,West,Sadie Pawthorne,Arizona,Chandler,"Chandler, Arizona",85224
+35,United States,West,Sadie Pawthorne,Arizona,Gilbert,"Gilbert, Arizona",85234
+36,United States,West,Sadie Pawthorne,Arizona,Glendale,"Glendale, Arizona",85301
+37,United States,West,Sadie Pawthorne,Arizona,Mesa,"Mesa, Arizona",85204
+38,United States,West,Sadie Pawthorne,Arizona,Peoria,"Peoria, Arizona",85345
+39,United States,West,Sadie Pawthorne,Arizona,Phoenix,"Phoenix, Arizona",85023
+40,United States,West,Sadie Pawthorne,Arizona,Scottsdale,"Scottsdale, Arizona",85254
+41,United States,West,Sadie Pawthorne,Arizona,Sierra Vista,"Sierra Vista, Arizona",85635
+42,United States,West,Sadie Pawthorne,Arizona,Tempe,"Tempe, Arizona",85281
+43,United States,West,Sadie Pawthorne,Arizona,Tucson,"Tucson, Arizona",85705
+44,United States,West,Sadie Pawthorne,Arizona,Yuma,"Yuma, Arizona",85364
+45,United States,South,Fred Suzuki,Arkansas,Conway,"Conway, Arkansas",72032
+46,United States,South,Fred Suzuki,Arkansas,Fayetteville,"Fayetteville, Arkansas",72701
+47,United States,South,Fred Suzuki,Arkansas,Hot Springs,"Hot Springs, Arkansas",71901
+48,United States,South,Fred Suzuki,Arkansas,Jonesboro,"Jonesboro, Arkansas",72401
+49,United States,South,Fred Suzuki,Arkansas,Little Rock,"Little Rock, Arkansas",72209
+50,United States,South,Fred Suzuki,Arkansas,Pine Bluff,"Pine Bluff, Arkansas",71603
+51,United States,South,Fred Suzuki,Arkansas,Rogers,"Rogers, Arkansas",72756
+52,United States,South,Fred Suzuki,Arkansas,Springdale,"Springdale, Arkansas",72762
+53,United States,South,Fred Suzuki,Arkansas,Texarkana,"Texarkana, Arkansas",71854
+54,United States,West,Sadie Pawthorne,California,Anaheim,"Anaheim, California",92804
+55,United States,West,Sadie Pawthorne,California,Antioch,"Antioch, California",94509
+56,United States,West,Sadie Pawthorne,California,Apple Valley,"Apple Valley, California",92307
+57,United States,West,Sadie Pawthorne,California,Bakersfield,"Bakersfield, California",93309
+58,United States,West,Sadie Pawthorne,California,Brentwood,"Brentwood, California",94513
+59,United States,West,Sadie Pawthorne,California,Burbank,"Burbank, California",91505
+60,United States,West,Sadie Pawthorne,California,Camarillo,"Camarillo, California",93010
+61,United States,West,Sadie Pawthorne,California,Chico,"Chico, California",95928
+62,United States,West,Sadie Pawthorne,California,Chula Vista,"Chula Vista, California",91911
+63,United States,West,Sadie Pawthorne,California,Citrus Heights,"Citrus Heights, California",95610
+64,United States,West,Sadie Pawthorne,California,Coachella,"Coachella, California",92236
+65,United States,West,Sadie Pawthorne,California,Concord,"Concord, California",94521
+66,United States,West,Sadie Pawthorne,California,Costa Mesa,"Costa Mesa, California",92627
+67,United States,West,Sadie Pawthorne,California,Danville,"Danville, California",94526
+68,United States,West,Sadie Pawthorne,California,Davis,"Davis, California",95616
+69,United States,West,Sadie Pawthorne,California,Dublin,"Dublin, California",94568
+70,United States,West,Sadie Pawthorne,California,El Cajon,"El Cajon, California",92020
+71,United States,West,Sadie Pawthorne,California,Encinitas,"Encinitas, California",92024
+72,United States,West,Sadie Pawthorne,California,Escondido,"Escondido, California",92025
+73,United States,West,Sadie Pawthorne,California,Fairfield,"Fairfield, California",94533
+74,United States,West,Sadie Pawthorne,California,Fresno,"Fresno, California",93727
+75,United States,West,Sadie Pawthorne,California,Hesperia,"Hesperia, California",92345
+76,United States,West,Sadie Pawthorne,California,Huntington Beach,"Huntington Beach, California",92646
+77,United States,West,Sadie Pawthorne,California,Inglewood,"Inglewood, California",90301
+78,United States,West,Sadie Pawthorne,California,La Mesa,"La Mesa, California",91941
+79,United States,West,Sadie Pawthorne,California,La Quinta,"La Quinta, California",92253
+80,United States,West,Sadie Pawthorne,California,Laguna Niguel,"Laguna Niguel, California",92677
+81,United States,West,Sadie Pawthorne,California,Lake Elsinore,"Lake Elsinore, California",92530
+82,United States,West,Sadie Pawthorne,California,Lake Forest,"Lake Forest, California",92630
+83,United States,West,Sadie Pawthorne,California,Lakewood,"Lakewood, California",90712
+84,United States,West,Sadie Pawthorne,California,Lancaster,"Lancaster, California",93534
+85,United States,West,Sadie Pawthorne,California,Lodi,"Lodi, California",95240
+86,United States,West,Sadie Pawthorne,California,Long Beach,"Long Beach, California",90805
+87,United States,West,Sadie Pawthorne,California,Los Angeles,"Los Angeles, California",90004
+88,United States,West,Sadie Pawthorne,California,Los Angeles,"Los Angeles, California",90008
+89,United States,West,Sadie Pawthorne,California,Los Angeles,"Los Angeles, California",90032
+90,United States,West,Sadie Pawthorne,California,Los Angeles,"Los Angeles, California",90036
+91,United States,West,Sadie Pawthorne,California,Los Angeles,"Los Angeles, California",90045
+92,United States,West,Sadie Pawthorne,California,Los Angeles,"Los Angeles, California",90049
+93,United States,West,Sadie Pawthorne,California,Manteca,"Manteca, California",95336
+94,United States,West,Sadie Pawthorne,California,Mission Viejo,"Mission Viejo, California",92691
+95,United States,West,Sadie Pawthorne,California,Modesto,"Modesto, California",95351
+96,United States,West,Sadie Pawthorne,California,Montebello,"Montebello, California",90640
+97,United States,West,Sadie Pawthorne,California,Moreno Valley,"Moreno Valley, California",92553
+98,United States,West,Sadie Pawthorne,California,Morgan Hill,"Morgan Hill, California",95037
+99,United States,West,Sadie Pawthorne,California,Murrieta,"Murrieta, California",92563
+100,United States,West,Sadie Pawthorne,California,Oakland,"Oakland, California",94601
+101,United States,West,Sadie Pawthorne,California,Oceanside,"Oceanside, California",92054
+102,United States,West,Sadie Pawthorne,California,Ontario,"Ontario, California",91761
+103,United States,West,Sadie Pawthorne,California,Oxnard,"Oxnard, California",93030
+104,United States,West,Sadie Pawthorne,California,Pasadena,"Pasadena, California",91104
+105,United States,West,Sadie Pawthorne,California,Pico Rivera,"Pico Rivera, California",90660
+106,United States,West,Sadie Pawthorne,California,Pomona,"Pomona, California",91767
+107,United States,West,Sadie Pawthorne,California,Rancho Cucamonga,"Rancho Cucamonga, California",91730
+108,United States,West,Sadie Pawthorne,California,Redding,"Redding, California",96003
+109,United States,West,Sadie Pawthorne,California,Redlands,"Redlands, California",92374
+110,United States,West,Sadie Pawthorne,California,Redondo Beach,"Redondo Beach, California",90278
+111,United States,West,Sadie Pawthorne,California,Redwood City,"Redwood City, California",94061
+112,United States,West,Sadie Pawthorne,California,Riverside,"Riverside, California",92503
+113,United States,West,Sadie Pawthorne,California,Roseville,"Roseville, California",95661
+114,United States,West,Sadie Pawthorne,California,Sacramento,"Sacramento, California",95823
+115,United States,West,Sadie Pawthorne,California,Salinas,"Salinas, California",93905
+116,United States,West,Sadie Pawthorne,California,San Bernardino,"San Bernardino, California",92404
+117,United States,West,Sadie Pawthorne,California,San Clemente,"San Clemente, California",92672
+118,United States,West,Sadie Pawthorne,California,San Diego,"San Diego, California",92024
+119,United States,West,Sadie Pawthorne,California,San Diego,"San Diego, California",92037
+120,United States,West,Sadie Pawthorne,California,San Diego,"San Diego, California",92105
+121,United States,West,Sadie Pawthorne,California,San Francisco,"San Francisco, California",94109
+122,United States,West,Sadie Pawthorne,California,San Francisco,"San Francisco, California",94110
+123,United States,West,Sadie Pawthorne,California,San Francisco,"San Francisco, California",94122
+124,United States,West,Sadie Pawthorne,California,San Gabriel,"San Gabriel, California",91776
+125,United States,West,Sadie Pawthorne,California,San Jose,"San Jose, California",95123
+126,United States,West,Sadie Pawthorne,California,San Luis Obispo,"San Luis Obispo, California",93405
+127,United States,West,Sadie Pawthorne,California,San Mateo,"San Mateo, California",94403
+128,United States,West,Sadie Pawthorne,California,Santa Ana,"Santa Ana, California",92704
+129,United States,West,Sadie Pawthorne,California,Santa Barbara,"Santa Barbara, California",93101
+130,United States,West,Sadie Pawthorne,California,Santa Clara,"Santa Clara, California",95051
+131,United States,West,Sadie Pawthorne,California,Santa Maria,"Santa Maria, California",93454
+132,United States,West,Sadie Pawthorne,California,Stockton,"Stockton, California",95207
+133,United States,West,Sadie Pawthorne,California,Sunnyvale,"Sunnyvale, California",94086
+134,United States,West,Sadie Pawthorne,California,Temecula,"Temecula, California",92592
+135,United States,West,Sadie Pawthorne,California,Thousand Oaks,"Thousand Oaks, California",91360
+136,United States,West,Sadie Pawthorne,California,Torrance,"Torrance, California",90503
+137,United States,West,Sadie Pawthorne,California,Vacaville,"Vacaville, California",95687
+138,United States,West,Sadie Pawthorne,California,Vallejo,"Vallejo, California",94591
+139,United States,West,Sadie Pawthorne,California,Visalia,"Visalia, California",93277
+140,United States,West,Sadie Pawthorne,California,Westminster,"Westminster, California",92683
+141,United States,West,Sadie Pawthorne,California,Whittier,"Whittier, California",90604
+142,United States,West,Sadie Pawthorne,California,Woodland,"Woodland, California",95695
+143,United States,West,Sadie Pawthorne,California,Yucaipa,"Yucaipa, California",92399
+144,United States,West,Sadie Pawthorne,Colorado,Arvada,"Arvada, Colorado",80004
+145,United States,West,Sadie Pawthorne,Colorado,Aurora,"Aurora, Colorado",80013
+146,United States,West,Sadie Pawthorne,Colorado,Broomfield,"Broomfield, Colorado",80020
+147,United States,West,Sadie Pawthorne,Colorado,Colorado Springs,"Colorado Springs, Colorado",80906
+148,United States,West,Sadie Pawthorne,Colorado,Commerce City,"Commerce City, Colorado",80022
+149,United States,West,Sadie Pawthorne,Colorado,Denver,"Denver, Colorado",80219
+150,United States,West,Sadie Pawthorne,Colorado,Englewood,"Englewood, Colorado",80112
+151,United States,West,Sadie Pawthorne,Colorado,Fort Collins,"Fort Collins, Colorado",80525
+152,United States,West,Sadie Pawthorne,Colorado,Greeley,"Greeley, Colorado",80634
+153,United States,West,Sadie Pawthorne,Colorado,Littleton,"Littleton, Colorado",80122
+154,United States,West,Sadie Pawthorne,Colorado,Longmont,"Longmont, Colorado",80501
+155,United States,West,Sadie Pawthorne,Colorado,Louisville,"Louisville, Colorado",80027
+156,United States,West,Sadie Pawthorne,Colorado,Loveland,"Loveland, Colorado",80538
+157,United States,West,Sadie Pawthorne,Colorado,Parker,"Parker, Colorado",80134
+158,United States,West,Sadie Pawthorne,Colorado,Pueblo,"Pueblo, Colorado",81001
+159,United States,West,Sadie Pawthorne,Colorado,Thornton,"Thornton, Colorado",80229
+160,United States,East,Chuck Magee,Connecticut,Bristol,"Bristol, Connecticut",06010
+161,United States,East,Chuck Magee,Connecticut,Danbury,"Danbury, Connecticut",06810
+162,United States,East,Chuck Magee,Connecticut,Fairfield,"Fairfield, Connecticut",06824
+163,United States,East,Chuck Magee,Connecticut,Manchester,"Manchester, Connecticut",06040
+164,United States,East,Chuck Magee,Connecticut,Meriden,"Meriden, Connecticut",06450
+165,United States,East,Chuck Magee,Connecticut,Middletown,"Middletown, Connecticut",06457
+166,United States,East,Chuck Magee,Connecticut,Milford,"Milford, Connecticut",06460
+167,United States,East,Chuck Magee,Connecticut,Norwich,"Norwich, Connecticut",06360
+168,United States,East,Chuck Magee,Connecticut,Shelton,"Shelton, Connecticut",06484
+169,United States,East,Chuck Magee,Connecticut,Waterbury,"Waterbury, Connecticut",06708
+170,United States,East,Chuck Magee,Delaware,Dover,"Dover, Delaware",19901
+171,United States,East,Chuck Magee,Delaware,Newark,"Newark, Delaware",19711
+172,United States,East,Chuck Magee,Delaware,Wilmington,"Wilmington, Delaware",19805
+173,United States,East,Chuck Magee,District of Columbia,Washington,"Washington, District of Columbia",20016
+174,United States,South,Fred Suzuki,Florida,Apopka,"Apopka, Florida",32712
+175,United States,South,Fred Suzuki,Florida,Boca Raton,"Boca Raton, Florida",33433
+176,United States,South,Fred Suzuki,Florida,Boynton Beach,"Boynton Beach, Florida",33437
+177,United States,South,Fred Suzuki,Florida,Coral Gables,"Coral Gables, Florida",33134
+178,United States,South,Fred Suzuki,Florida,Coral Springs,"Coral Springs, Florida",33065
+179,United States,South,Fred Suzuki,Florida,Daytona Beach,"Daytona Beach, Florida",32114
+180,United States,South,Fred Suzuki,Florida,Delray Beach,"Delray Beach, Florida",33445
+181,United States,South,Fred Suzuki,Florida,Deltona,"Deltona, Florida",32725
+182,United States,South,Fred Suzuki,Florida,Fort Lauderdale,"Fort Lauderdale, Florida",33311
+183,United States,South,Fred Suzuki,Florida,Hialeah,"Hialeah, Florida",33012
+184,United States,South,Fred Suzuki,Florida,Hollywood,"Hollywood, Florida",33021
+185,United States,South,Fred Suzuki,Florida,Homestead,"Homestead, Florida",33030
+186,United States,South,Fred Suzuki,Florida,Jacksonville,"Jacksonville, Florida",32216
+187,United States,South,Fred Suzuki,Florida,Jupiter,"Jupiter, Florida",33458
+188,United States,South,Fred Suzuki,Florida,Kissimmee,"Kissimmee, Florida",34741
+189,United States,South,Fred Suzuki,Florida,Lakeland,"Lakeland, Florida",33801
+190,United States,South,Fred Suzuki,Florida,Margate,"Margate, Florida",33063
+191,United States,South,Fred Suzuki,Florida,Melbourne,"Melbourne, Florida",32935
+192,United States,South,Fred Suzuki,Florida,Miami,"Miami, Florida",33142
+193,United States,South,Fred Suzuki,Florida,Miami,"Miami, Florida",33178
+194,United States,South,Fred Suzuki,Florida,Miami,"Miami, Florida",33180
+195,United States,South,Fred Suzuki,Florida,Miramar,"Miramar, Florida",33023
+196,United States,South,Fred Suzuki,Florida,North Miami,"North Miami, Florida",33161
+197,United States,South,Fred Suzuki,Florida,Orlando,"Orlando, Florida",32839
+198,United States,South,Fred Suzuki,Florida,Ormond Beach,"Ormond Beach, Florida",32174
+199,United States,South,Fred Suzuki,Florida,Palm Coast,"Palm Coast, Florida",32137
+200,United States,South,Fred Suzuki,Florida,Pembroke Pines,"Pembroke Pines, Florida",33024
+201,United States,South,Fred Suzuki,Florida,Pensacola,"Pensacola, Florida",32503
+202,United States,South,Fred Suzuki,Florida,Plantation,"Plantation, Florida",33317
+203,United States,South,Fred Suzuki,Florida,Pompano Beach,"Pompano Beach, Florida",33068
+204,United States,South,Fred Suzuki,Florida,Port Orange,"Port Orange, Florida",32127
+205,United States,South,Fred Suzuki,Florida,Port Saint Lucie,"Port Saint Lucie, Florida",34952
+206,United States,South,Fred Suzuki,Florida,Saint Petersburg,"Saint Petersburg, Florida",33710
+207,United States,South,Fred Suzuki,Florida,Sanford,"Sanford, Florida",32771
+208,United States,South,Fred Suzuki,Florida,Tallahassee,"Tallahassee, Florida",32303
+209,United States,South,Fred Suzuki,Florida,Tamarac,"Tamarac, Florida",33319
+210,United States,South,Fred Suzuki,Florida,Tampa,"Tampa, Florida",33614
+211,United States,South,Fred Suzuki,Florida,West Palm Beach,"West Palm Beach, Florida",33407
+212,United States,South,Fred Suzuki,Georgia,Athens,"Athens, Georgia",30605
+213,United States,South,Fred Suzuki,Georgia,Atlanta,"Atlanta, Georgia",30318
+214,United States,South,Fred Suzuki,Georgia,Columbus,"Columbus, Georgia",31907
+215,United States,South,Fred Suzuki,Georgia,East Point,"East Point, Georgia",30344
+216,United States,South,Fred Suzuki,Georgia,Macon,"Macon, Georgia",31204
+217,United States,South,Fred Suzuki,Georgia,Marietta,"Marietta, Georgia",30062
+218,United States,South,Fred Suzuki,Georgia,Roswell,"Roswell, Georgia",30076
+219,United States,South,Fred Suzuki,Georgia,Sandy Springs,"Sandy Springs, Georgia",30328
+220,United States,South,Fred Suzuki,Georgia,Smyrna,"Smyrna, Georgia",30080
+221,United States,South,Fred Suzuki,Georgia,Warner Robins,"Warner Robins, Georgia",31088
+222,United States,South,Fred Suzuki,Georgia,Woodstock,"Woodstock, Georgia",30188
+223,United States,West,Sadie Pawthorne,Idaho,Boise,"Boise, Idaho",83704
+224,United States,West,Sadie Pawthorne,Idaho,Caldwell,"Caldwell, Idaho",83605
+225,United States,West,Sadie Pawthorne,Idaho,Lewiston,"Lewiston, Idaho",83501
+226,United States,West,Sadie Pawthorne,Idaho,Meridian,"Meridian, Idaho",83642
+227,United States,West,Sadie Pawthorne,Idaho,Pocatello,"Pocatello, Idaho",83201
+228,United States,West,Sadie Pawthorne,Idaho,Twin Falls,"Twin Falls, Idaho",83301
+229,United States,Central,Roxanne Rodriguez,Illinois,Arlington Heights,"Arlington Heights, Illinois",60004
+230,United States,Central,Roxanne Rodriguez,Illinois,Aurora,"Aurora, Illinois",60505
+231,United States,Central,Roxanne Rodriguez,Illinois,Bloomington,"Bloomington, Illinois",61701
+232,United States,Central,Roxanne Rodriguez,Illinois,Bolingbrook,"Bolingbrook, Illinois",60440
+233,United States,Central,Roxanne Rodriguez,Illinois,Buffalo Grove,"Buffalo Grove, Illinois",60089
+234,United States,Central,Roxanne Rodriguez,Illinois,Carol Stream,"Carol Stream, Illinois",60188
+235,United States,Central,Roxanne Rodriguez,Illinois,Champaign,"Champaign, Illinois",61821
+236,United States,Central,Roxanne Rodriguez,Illinois,Chicago,"Chicago, Illinois",60610
+237,United States,Central,Roxanne Rodriguez,Illinois,Chicago,"Chicago, Illinois",60623
+238,United States,Central,Roxanne Rodriguez,Illinois,Chicago,"Chicago, Illinois",60653
+239,United States,Central,Roxanne Rodriguez,Illinois,Danville,"Danville, Illinois",61832
+240,United States,Central,Roxanne Rodriguez,Illinois,Decatur,"Decatur, Illinois",62521
+241,United States,Central,Roxanne Rodriguez,Illinois,Des Plaines,"Des Plaines, Illinois",60016
+242,United States,Central,Roxanne Rodriguez,Illinois,Elmhurst,"Elmhurst, Illinois",60126
+243,United States,Central,Roxanne Rodriguez,Illinois,Evanston,"Evanston, Illinois",60201
+244,United States,Central,Roxanne Rodriguez,Illinois,Frankfort,"Frankfort, Illinois",60423
+245,United States,Central,Roxanne Rodriguez,Illinois,Freeport,"Freeport, Illinois",61032
+246,United States,Central,Roxanne Rodriguez,Illinois,Glenview,"Glenview, Illinois",60025
+247,United States,Central,Roxanne Rodriguez,Illinois,Highland Park,"Highland Park, Illinois",60035
+248,United States,Central,Roxanne Rodriguez,Illinois,Naperville,"Naperville, Illinois",60540
+249,United States,Central,Roxanne Rodriguez,Illinois,Normal,"Normal, Illinois",61761
+250,United States,Central,Roxanne Rodriguez,Illinois,Oak Park,"Oak Park, Illinois",60302
+251,United States,Central,Roxanne Rodriguez,Illinois,Orland Park,"Orland Park, Illinois",60462
+252,United States,Central,Roxanne Rodriguez,Illinois,Oswego,"Oswego, Illinois",60543
+253,United States,Central,Roxanne Rodriguez,Illinois,Palatine,"Palatine, Illinois",60067
+254,United States,Central,Roxanne Rodriguez,Illinois,Park Ridge,"Park Ridge, Illinois",60068
+255,United States,Central,Roxanne Rodriguez,Illinois,Peoria,"Peoria, Illinois",61604
+256,United States,Central,Roxanne Rodriguez,Illinois,Quincy,"Quincy, Illinois",62301
+257,United States,Central,Roxanne Rodriguez,Illinois,Rockford,"Rockford, Illinois",61107
+258,United States,Central,Roxanne Rodriguez,Illinois,Romeoville,"Romeoville, Illinois",60441
+259,United States,Central,Roxanne Rodriguez,Illinois,Saint Charles,"Saint Charles, Illinois",60174
+260,United States,Central,Roxanne Rodriguez,Illinois,Skokie,"Skokie, Illinois",60076
+261,United States,Central,Roxanne Rodriguez,Illinois,Tinley Park,"Tinley Park, Illinois",60477
+262,United States,Central,Roxanne Rodriguez,Illinois,Wheeling,"Wheeling, Illinois",60090
+263,United States,Central,Roxanne Rodriguez,Illinois,Woodstock,"Woodstock, Illinois",60098
+264,United States,Central,Roxanne Rodriguez,Indiana,Bloomington,"Bloomington, Indiana",47401
+265,United States,Central,Roxanne Rodriguez,Indiana,Columbus,"Columbus, Indiana",47201
+266,United States,Central,Roxanne Rodriguez,Indiana,Elkhart,"Elkhart, Indiana",46514
+267,United States,Central,Roxanne Rodriguez,Indiana,Greenwood,"Greenwood, Indiana",46142
+268,United States,Central,Roxanne Rodriguez,Indiana,Indianapolis,"Indianapolis, Indiana",46203
+269,United States,Central,Roxanne Rodriguez,Indiana,La Porte,"La Porte, Indiana",46350
+270,United States,Central,Roxanne Rodriguez,Indiana,Lafayette,"Lafayette, Indiana",47905
+271,United States,Central,Roxanne Rodriguez,Indiana,Lawrence,"Lawrence, Indiana",46226
+272,United States,Central,Roxanne Rodriguez,Indiana,Mishawaka,"Mishawaka, Indiana",46544
+273,United States,Central,Roxanne Rodriguez,Indiana,New Albany,"New Albany, Indiana",47150
+274,United States,Central,Roxanne Rodriguez,Indiana,New Castle,"New Castle, Indiana",47362
+275,United States,Central,Roxanne Rodriguez,Indiana,Noblesville,"Noblesville, Indiana",46060
+276,United States,Central,Roxanne Rodriguez,Indiana,Portage,"Portage, Indiana",46368
+277,United States,Central,Roxanne Rodriguez,Indiana,Richmond,"Richmond, Indiana",47374
+278,United States,Central,Roxanne Rodriguez,Indiana,South Bend,"South Bend, Indiana",46614
+279,United States,Central,Roxanne Rodriguez,Iowa,Burlington,"Burlington, Iowa",52601
+280,United States,Central,Roxanne Rodriguez,Iowa,Cedar Rapids,"Cedar Rapids, Iowa",52402
+281,United States,Central,Roxanne Rodriguez,Iowa,Des Moines,"Des Moines, Iowa",50315
+282,United States,Central,Roxanne Rodriguez,Iowa,Dubuque,"Dubuque, Iowa",52001
+283,United States,Central,Roxanne Rodriguez,Iowa,Iowa City,"Iowa City, Iowa",52240
+284,United States,Central,Roxanne Rodriguez,Iowa,Marion,"Marion, Iowa",52302
+285,United States,Central,Roxanne Rodriguez,Iowa,Urbandale,"Urbandale, Iowa",50322
+286,United States,Central,Roxanne Rodriguez,Iowa,Waterloo,"Waterloo, Iowa",50701
+287,United States,Central,Roxanne Rodriguez,Kansas,Garden City,"Garden City, Kansas",67846
+288,United States,Central,Roxanne Rodriguez,Kansas,Manhattan,"Manhattan, Kansas",66502
+289,United States,Central,Roxanne Rodriguez,Kansas,Olathe,"Olathe, Kansas",66062
+290,United States,Central,Roxanne Rodriguez,Kansas,Overland Park,"Overland Park, Kansas",66212
+291,United States,Central,Roxanne Rodriguez,Kansas,Wichita,"Wichita, Kansas",67212
+292,United States,South,Fred Suzuki,Kentucky,Bowling Green,"Bowling Green, Kentucky",42104
+293,United States,South,Fred Suzuki,Kentucky,Florence,"Florence, Kentucky",41042
+294,United States,South,Fred Suzuki,Kentucky,Georgetown,"Georgetown, Kentucky",40324
+295,United States,South,Fred Suzuki,Kentucky,Henderson,"Henderson, Kentucky",42420
+296,United States,South,Fred Suzuki,Kentucky,Louisville,"Louisville, Kentucky",40214
+297,United States,South,Fred Suzuki,Kentucky,Murray,"Murray, Kentucky",42071
+298,United States,South,Fred Suzuki,Kentucky,Owensboro,"Owensboro, Kentucky",42301
+299,United States,South,Fred Suzuki,Kentucky,Richmond,"Richmond, Kentucky",40475
+300,United States,South,Fred Suzuki,Louisiana,Bossier City,"Bossier City, Louisiana",71111
+301,United States,South,Fred Suzuki,Louisiana,Kenner,"Kenner, Louisiana",70065
+302,United States,South,Fred Suzuki,Louisiana,Lafayette,"Lafayette, Louisiana",70506
+303,United States,South,Fred Suzuki,Louisiana,Lake Charles,"Lake Charles, Louisiana",70601
+304,United States,South,Fred Suzuki,Louisiana,Monroe,"Monroe, Louisiana",71203
+305,United States,East,Chuck Magee,Maine,Bangor,"Bangor, Maine",04401
+306,United States,East,Chuck Magee,Maine,Lewiston,"Lewiston, Maine",04240
+307,United States,East,Chuck Magee,Maryland,Baltimore,"Baltimore, Maryland",21215
+308,United States,East,Chuck Magee,Maryland,Clinton,"Clinton, Maryland",20735
+309,United States,East,Chuck Magee,Maryland,Columbia,"Columbia, Maryland",21044
+310,United States,East,Chuck Magee,Maryland,Gaithersburg,"Gaithersburg, Maryland",20877
+311,United States,East,Chuck Magee,Maryland,Hagerstown,"Hagerstown, Maryland",21740
+312,United States,East,Chuck Magee,Maryland,Laurel,"Laurel, Maryland",20707
+313,United States,East,Chuck Magee,Maryland,Rockville,"Rockville, Maryland",20852
+314,United States,East,Chuck Magee,Massachusetts,Andover,"Andover, Massachusetts",01810
+315,United States,East,Chuck Magee,Massachusetts,Beverly,"Beverly, Massachusetts",01915
+316,United States,East,Chuck Magee,Massachusetts,Cambridge,"Cambridge, Massachusetts",02138
+317,United States,East,Chuck Magee,Massachusetts,Everett,"Everett, Massachusetts",02149
+318,United States,East,Chuck Magee,Massachusetts,Franklin,"Franklin, Massachusetts",02038
+319,United States,East,Chuck Magee,Massachusetts,Holyoke,"Holyoke, Massachusetts",01040
+320,United States,East,Chuck Magee,Massachusetts,Lawrence,"Lawrence, Massachusetts",01841
+321,United States,East,Chuck Magee,Massachusetts,Leominster,"Leominster, Massachusetts",01453
+322,United States,East,Chuck Magee,Massachusetts,Lowell,"Lowell, Massachusetts",01852
+323,United States,East,Chuck Magee,Massachusetts,Malden,"Malden, Massachusetts",02148
+324,United States,East,Chuck Magee,Massachusetts,Marlborough,"Marlborough, Massachusetts",01752
+325,United States,East,Chuck Magee,Massachusetts,New Bedford,"New Bedford, Massachusetts",02740
+326,United States,East,Chuck Magee,Massachusetts,Quincy,"Quincy, Massachusetts",02169
+327,United States,East,Chuck Magee,Massachusetts,Revere,"Revere, Massachusetts",02151
+328,United States,Central,Roxanne Rodriguez,Michigan,Ann Arbor,"Ann Arbor, Michigan",48104
+329,United States,Central,Roxanne Rodriguez,Michigan,Canton,"Canton, Michigan",48187
+330,United States,Central,Roxanne Rodriguez,Michigan,Dearborn,"Dearborn, Michigan",48126
+331,United States,Central,Roxanne Rodriguez,Michigan,Dearborn Heights,"Dearborn Heights, Michigan",48127
+332,United States,Central,Roxanne Rodriguez,Michigan,Detroit,"Detroit, Michigan",48205
+333,United States,Central,Roxanne Rodriguez,Michigan,Detroit,"Detroit, Michigan",48227
+334,United States,Central,Roxanne Rodriguez,Michigan,Detroit,"Detroit, Michigan",48234
+335,United States,Central,Roxanne Rodriguez,Michigan,Grand Rapids,"Grand Rapids, Michigan",49505
+336,United States,Central,Roxanne Rodriguez,Michigan,Holland,"Holland, Michigan",49423
+337,United States,Central,Roxanne Rodriguez,Michigan,Jackson,"Jackson, Michigan",49201
+338,United States,Central,Roxanne Rodriguez,Michigan,Lansing,"Lansing, Michigan",48911
+339,United States,Central,Roxanne Rodriguez,Michigan,Lincoln Park,"Lincoln Park, Michigan",48146
+340,United States,Central,Roxanne Rodriguez,Michigan,Midland,"Midland, Michigan",48640
+341,United States,Central,Roxanne Rodriguez,Michigan,Mount Pleasant,"Mount Pleasant, Michigan",48858
+342,United States,Central,Roxanne Rodriguez,Michigan,Oak Park,"Oak Park, Michigan",48237
+343,United States,Central,Roxanne Rodriguez,Michigan,Rochester Hills,"Rochester Hills, Michigan",48307
+344,United States,Central,Roxanne Rodriguez,Michigan,Roseville,"Roseville, Michigan",48066
+345,United States,Central,Roxanne Rodriguez,Michigan,Royal Oak,"Royal Oak, Michigan",48073
+346,United States,Central,Roxanne Rodriguez,Michigan,Saginaw,"Saginaw, Michigan",48601
+347,United States,Central,Roxanne Rodriguez,Michigan,Sterling Heights,"Sterling Heights, Michigan",48310
+348,United States,Central,Roxanne Rodriguez,Michigan,Taylor,"Taylor, Michigan",48180
+349,United States,Central,Roxanne Rodriguez,Michigan,Trenton,"Trenton, Michigan",48183
+350,United States,Central,Roxanne Rodriguez,Michigan,Westland,"Westland, Michigan",48185
+351,United States,Central,Roxanne Rodriguez,Minnesota,Apple Valley,"Apple Valley, Minnesota",55124
+352,United States,Central,Roxanne Rodriguez,Minnesota,Coon Rapids,"Coon Rapids, Minnesota",55433
+353,United States,Central,Roxanne Rodriguez,Minnesota,Cottage Grove,"Cottage Grove, Minnesota",55016
+354,United States,Central,Roxanne Rodriguez,Minnesota,Eagan,"Eagan, Minnesota",55122
+355,United States,Central,Roxanne Rodriguez,Minnesota,Lakeville,"Lakeville, Minnesota",55044
+356,United States,Central,Roxanne Rodriguez,Minnesota,Maple Grove,"Maple Grove, Minnesota",55369
+357,United States,Central,Roxanne Rodriguez,Minnesota,Minneapolis,"Minneapolis, Minnesota",55407
+358,United States,Central,Roxanne Rodriguez,Minnesota,Moorhead,"Moorhead, Minnesota",56560
+359,United States,Central,Roxanne Rodriguez,Minnesota,Rochester,"Rochester, Minnesota",55901
+360,United States,Central,Roxanne Rodriguez,Minnesota,Roseville,"Roseville, Minnesota",55113
+361,United States,Central,Roxanne Rodriguez,Minnesota,Saint Cloud,"Saint Cloud, Minnesota",56301
+362,United States,Central,Roxanne Rodriguez,Minnesota,Saint Paul,"Saint Paul, Minnesota",55106
+363,United States,Central,Roxanne Rodriguez,Minnesota,Woodbury,"Woodbury, Minnesota",55125
+364,United States,South,Fred Suzuki,Mississippi,Gulfport,"Gulfport, Mississippi",39503
+365,United States,South,Fred Suzuki,Mississippi,Hattiesburg,"Hattiesburg, Mississippi",39401
+366,United States,South,Fred Suzuki,Mississippi,Jackson,"Jackson, Mississippi",39212
+367,United States,South,Fred Suzuki,Mississippi,Southaven,"Southaven, Mississippi",38671
+368,United States,Central,Roxanne Rodriguez,Missouri,Columbia,"Columbia, Missouri",65203
+369,United States,Central,Roxanne Rodriguez,Missouri,Gladstone,"Gladstone, Missouri",64118
+370,United States,Central,Roxanne Rodriguez,Missouri,Independence,"Independence, Missouri",64055
+371,United States,Central,Roxanne Rodriguez,Missouri,Jefferson City,"Jefferson City, Missouri",65109
+372,United States,Central,Roxanne Rodriguez,Missouri,Kirkwood,"Kirkwood, Missouri",63122
+373,United States,Central,Roxanne Rodriguez,Missouri,Saint Charles,"Saint Charles, Missouri",63301
+374,United States,Central,Roxanne Rodriguez,Missouri,Saint Louis,"Saint Louis, Missouri",63116
+375,United States,Central,Roxanne Rodriguez,Missouri,Saint Peters,"Saint Peters, Missouri",63376
+376,United States,Central,Roxanne Rodriguez,Missouri,Springfield,"Springfield, Missouri",65807
+377,United States,West,Sadie Pawthorne,Montana,Billings,"Billings, Montana",59102
+378,United States,West,Sadie Pawthorne,Montana,Bozeman,"Bozeman, Montana",59715
+379,United States,West,Sadie Pawthorne,Montana,Great Falls,"Great Falls, Montana",59405
+380,United States,West,Sadie Pawthorne,Montana,Helena,"Helena, Montana",59601
+381,United States,West,Sadie Pawthorne,Montana,Missoula,"Missoula, Montana",59801
+382,United States,Central,Roxanne Rodriguez,Nebraska,Fremont,"Fremont, Nebraska",68025
+383,United States,Central,Roxanne Rodriguez,Nebraska,Grand Island,"Grand Island, Nebraska",68801
+384,United States,Central,Roxanne Rodriguez,Nebraska,Norfolk,"Norfolk, Nebraska",68701
+385,United States,Central,Roxanne Rodriguez,Nebraska,Omaha,"Omaha, Nebraska",68104
+386,United States,West,Sadie Pawthorne,Nevada,Henderson,"Henderson, Nevada",89015
+387,United States,West,Sadie Pawthorne,Nevada,Las Vegas,"Las Vegas, Nevada",89115
+388,United States,West,Sadie Pawthorne,Nevada,North Las Vegas,"North Las Vegas, Nevada",89031
+389,United States,West,Sadie Pawthorne,Nevada,Reno,"Reno, Nevada",89502
+390,United States,West,Sadie Pawthorne,Nevada,Sparks,"Sparks, Nevada",89431
+391,United States,East,Chuck Magee,New Hampshire,Concord,"Concord, New Hampshire",03301
+392,United States,East,Chuck Magee,New Hampshire,Dover,"Dover, New Hampshire",03820
+393,United States,East,Chuck Magee,New Hampshire,Nashua,"Nashua, New Hampshire",03060
+394,United States,East,Chuck Magee,New Jersey,Atlantic City,"Atlantic City, New Jersey",08401
+395,United States,East,Chuck Magee,New Jersey,Bayonne,"Bayonne, New Jersey",07002
+396,United States,East,Chuck Magee,New Jersey,Belleville,"Belleville, New Jersey",07109
+397,United States,East,Chuck Magee,New Jersey,Bridgeton,"Bridgeton, New Jersey",08302
+398,United States,East,Chuck Magee,New Jersey,Clifton,"Clifton, New Jersey",07011
+399,United States,East,Chuck Magee,New Jersey,East Orange,"East Orange, New Jersey",07017
+400,United States,East,Chuck Magee,New Jersey,Hackensack,"Hackensack, New Jersey",07601
+401,United States,East,Chuck Magee,New Jersey,Lakewood,"Lakewood, New Jersey",08701
+402,United States,East,Chuck Magee,New Jersey,Linden,"Linden, New Jersey",07036
+403,United States,East,Chuck Magee,New Jersey,Morristown,"Morristown, New Jersey",07960
+404,United States,East,Chuck Magee,New Jersey,New Brunswick,"New Brunswick, New Jersey",08901
+405,United States,East,Chuck Magee,New Jersey,Orange,"Orange, New Jersey",07050
+406,United States,East,Chuck Magee,New Jersey,Passaic,"Passaic, New Jersey",07055
+407,United States,East,Chuck Magee,New Jersey,Paterson,"Paterson, New Jersey",07501
+408,United States,East,Chuck Magee,New Jersey,Perth Amboy,"Perth Amboy, New Jersey",08861
+409,United States,East,Chuck Magee,New Jersey,Plainfield,"Plainfield, New Jersey",07060
+410,United States,East,Chuck Magee,New Jersey,Vineland,"Vineland, New Jersey",08360
+411,United States,East,Chuck Magee,New Jersey,Westfield,"Westfield, New Jersey",07090
+412,United States,West,Sadie Pawthorne,New Mexico,Albuquerque,"Albuquerque, New Mexico",87105
+413,United States,West,Sadie Pawthorne,New Mexico,Carlsbad,"Carlsbad, New Mexico",88220
+414,United States,West,Sadie Pawthorne,New Mexico,Clovis,"Clovis, New Mexico",88101
+415,United States,West,Sadie Pawthorne,New Mexico,Farmington,"Farmington, New Mexico",87401
+416,United States,West,Sadie Pawthorne,New Mexico,Las Cruces,"Las Cruces, New Mexico",88001
+417,United States,West,Sadie Pawthorne,New Mexico,Rio Rancho,"Rio Rancho, New Mexico",87124
+418,United States,West,Sadie Pawthorne,New Mexico,Santa Fe,"Santa Fe, New Mexico",87505
+419,United States,East,Chuck Magee,New York,Auburn,"Auburn, New York",13021
+420,United States,East,Chuck Magee,New York,Buffalo,"Buffalo, New York",14215
+421,United States,East,Chuck Magee,New York,Freeport,"Freeport, New York",11520
+422,United States,East,Chuck Magee,New York,Hempstead,"Hempstead, New York",11550
+423,United States,East,Chuck Magee,New York,Jamestown,"Jamestown, New York",14701
+424,United States,East,Chuck Magee,New York,Lindenhurst,"Lindenhurst, New York",11757
+425,United States,East,Chuck Magee,New York,Long Beach,"Long Beach, New York",11561
+426,United States,East,Chuck Magee,New York,Mount Vernon,"Mount Vernon, New York",10550
+427,United States,East,Chuck Magee,New York,New Rochelle,"New Rochelle, New York",10801
+428,United States,East,Chuck Magee,New York,New York City,"New York City, New York",10009
+429,United States,East,Chuck Magee,New York,New York City,"New York City, New York",10011
+430,United States,East,Chuck Magee,New York,New York City,"New York City, New York",10024
+431,United States,East,Chuck Magee,New York,New York City,"New York City, New York",10035
+432,United States,East,Chuck Magee,New York,Niagara Falls,"Niagara Falls, New York",14304
+433,United States,East,Chuck Magee,New York,Oceanside,"Oceanside, New York",11572
+434,United States,East,Chuck Magee,New York,Rochester,"Rochester, New York",14609
+435,United States,East,Chuck Magee,New York,Rome,"Rome, New York",13440
+436,United States,East,Chuck Magee,New York,Troy,"Troy, New York",12180
+437,United States,East,Chuck Magee,New York,Utica,"Utica, New York",13501
+438,United States,East,Chuck Magee,New York,Watertown,"Watertown, New York",13601
+439,United States,East,Chuck Magee,New York,Yonkers,"Yonkers, New York",10701
+440,United States,South,Fred Suzuki,North Carolina,Asheville,"Asheville, North Carolina",28806
+441,United States,South,Fred Suzuki,North Carolina,Burlington,"Burlington, North Carolina",27217
+442,United States,South,Fred Suzuki,North Carolina,Cary,"Cary, North Carolina",27511
+443,United States,South,Fred Suzuki,North Carolina,Chapel Hill,"Chapel Hill, North Carolina",27514
+444,United States,South,Fred Suzuki,North Carolina,Charlotte,"Charlotte, North Carolina",28205
+445,United States,South,Fred Suzuki,North Carolina,Concord,"Concord, North Carolina",28027
+446,United States,South,Fred Suzuki,North Carolina,Durham,"Durham, North Carolina",27707
+447,United States,South,Fred Suzuki,North Carolina,Fayetteville,"Fayetteville, North Carolina",28314
+448,United States,South,Fred Suzuki,North Carolina,Gastonia,"Gastonia, North Carolina",28052
+449,United States,South,Fred Suzuki,North Carolina,Goldsboro,"Goldsboro, North Carolina",27534
+450,United States,South,Fred Suzuki,North Carolina,Greensboro,"Greensboro, North Carolina",27405
+451,United States,South,Fred Suzuki,North Carolina,Greenville,"Greenville, North Carolina",27834
+452,United States,South,Fred Suzuki,North Carolina,Hickory,"Hickory, North Carolina",28601
+453,United States,South,Fred Suzuki,North Carolina,Jacksonville,"Jacksonville, North Carolina",28540
+454,United States,South,Fred Suzuki,North Carolina,Monroe,"Monroe, North Carolina",28110
+455,United States,South,Fred Suzuki,North Carolina,Raleigh,"Raleigh, North Carolina",27604
+456,United States,South,Fred Suzuki,North Carolina,Thomasville,"Thomasville, North Carolina",27360
+457,United States,South,Fred Suzuki,North Carolina,Wilmington,"Wilmington, North Carolina",28403
+458,United States,South,Fred Suzuki,North Carolina,Wilson,"Wilson, North Carolina",27893
+459,United States,Central,Roxanne Rodriguez,North Dakota,Fargo,"Fargo, North Dakota",58103
+460,United States,East,Chuck Magee,Ohio,Akron,"Akron, Ohio",44312
+461,United States,East,Chuck Magee,Ohio,Bowling Green,"Bowling Green, Ohio",43402
+462,United States,East,Chuck Magee,Ohio,Cincinnati,"Cincinnati, Ohio",45231
+463,United States,East,Chuck Magee,Ohio,Cleveland,"Cleveland, Ohio",44105
+464,United States,East,Chuck Magee,Ohio,Columbus,"Columbus, Ohio",43229
+465,United States,East,Chuck Magee,Ohio,Cuyahoga Falls,"Cuyahoga Falls, Ohio",44221
+466,United States,East,Chuck Magee,Ohio,Dublin,"Dublin, Ohio",43017
+467,United States,East,Chuck Magee,Ohio,Elyria,"Elyria, Ohio",44035
+468,United States,East,Chuck Magee,Ohio,Fairfield,"Fairfield, Ohio",45014
+469,United States,East,Chuck Magee,Ohio,Grove City,"Grove City, Ohio",43123
+470,United States,East,Chuck Magee,Ohio,Hamilton,"Hamilton, Ohio",45011
+471,United States,East,Chuck Magee,Ohio,Kent,"Kent, Ohio",44240
+472,United States,East,Chuck Magee,Ohio,Lakewood,"Lakewood, Ohio",44107
+473,United States,East,Chuck Magee,Ohio,Lancaster,"Lancaster, Ohio",43130
+474,United States,East,Chuck Magee,Ohio,Lorain,"Lorain, Ohio",44052
+475,United States,East,Chuck Magee,Ohio,Marion,"Marion, Ohio",43302
+476,United States,East,Chuck Magee,Ohio,Mason,"Mason, Ohio",45040
+477,United States,East,Chuck Magee,Ohio,Medina,"Medina, Ohio",44256
+478,United States,East,Chuck Magee,Ohio,Mentor,"Mentor, Ohio",44060
+479,United States,East,Chuck Magee,Ohio,Newark,"Newark, Ohio",43055
+480,United States,East,Chuck Magee,Ohio,Parma,"Parma, Ohio",44134
+481,United States,East,Chuck Magee,Ohio,Springfield,"Springfield, Ohio",45503
+482,United States,East,Chuck Magee,Ohio,Toledo,"Toledo, Ohio",43615
+483,United States,East,Chuck Magee,Ohio,Troy,"Troy, Ohio",45373
+484,United States,Central,Roxanne Rodriguez,Oklahoma,Broken Arrow,"Broken Arrow, Oklahoma",74012
+485,United States,Central,Roxanne Rodriguez,Oklahoma,Edmond,"Edmond, Oklahoma",73034
+486,United States,Central,Roxanne Rodriguez,Oklahoma,Lawton,"Lawton, Oklahoma",73505
+487,United States,Central,Roxanne Rodriguez,Oklahoma,Muskogee,"Muskogee, Oklahoma",74403
+488,United States,Central,Roxanne Rodriguez,Oklahoma,Norman,"Norman, Oklahoma",73071
+489,United States,Central,Roxanne Rodriguez,Oklahoma,Oklahoma City,"Oklahoma City, Oklahoma",73120
+490,United States,Central,Roxanne Rodriguez,Oklahoma,Tulsa,"Tulsa, Oklahoma",74133
+491,United States,West,Sadie Pawthorne,Oregon,Eugene,"Eugene, Oregon",97405
+492,United States,West,Sadie Pawthorne,Oregon,Gresham,"Gresham, Oregon",97030
+493,United States,West,Sadie Pawthorne,Oregon,Hillsboro,"Hillsboro, Oregon",97123
+494,United States,West,Sadie Pawthorne,Oregon,Medford,"Medford, Oregon",97504
+495,United States,West,Sadie Pawthorne,Oregon,Portland,"Portland, Oregon",97206
+496,United States,West,Sadie Pawthorne,Oregon,Redmond,"Redmond, Oregon",97756
+497,United States,West,Sadie Pawthorne,Oregon,Salem,"Salem, Oregon",97301
+498,United States,West,Sadie Pawthorne,Oregon,Springfield,"Springfield, Oregon",97477
+499,United States,West,Sadie Pawthorne,Oregon,Tigard,"Tigard, Oregon",97224
+500,United States,East,Chuck Magee,Pennsylvania,Allentown,"Allentown, Pennsylvania",18103
+501,United States,East,Chuck Magee,Pennsylvania,Altoona,"Altoona, Pennsylvania",16602
+502,United States,East,Chuck Magee,Pennsylvania,Bethlehem,"Bethlehem, Pennsylvania",18018
+503,United States,East,Chuck Magee,Pennsylvania,Chester,"Chester, Pennsylvania",19013
+504,United States,East,Chuck Magee,Pennsylvania,Lancaster,"Lancaster, Pennsylvania",17602
+505,United States,East,Chuck Magee,Pennsylvania,Philadelphia,"Philadelphia, Pennsylvania",19120
+506,United States,East,Chuck Magee,Pennsylvania,Philadelphia,"Philadelphia, Pennsylvania",19134
+507,United States,East,Chuck Magee,Pennsylvania,Philadelphia,"Philadelphia, Pennsylvania",19140
+508,United States,East,Chuck Magee,Pennsylvania,Philadelphia,"Philadelphia, Pennsylvania",19143
+509,United States,East,Chuck Magee,Pennsylvania,Reading,"Reading, Pennsylvania",19601
+510,United States,East,Chuck Magee,Pennsylvania,York,"York, Pennsylvania",17403
+511,United States,East,Chuck Magee,Rhode Island,Cranston,"Cranston, Rhode Island",02920
+512,United States,East,Chuck Magee,Rhode Island,Providence,"Providence, Rhode Island",02908
+513,United States,East,Chuck Magee,Rhode Island,Warwick,"Warwick, Rhode Island",02886
+514,United States,East,Chuck Magee,Rhode Island,Woonsocket,"Woonsocket, Rhode Island",02895
+515,United States,South,Fred Suzuki,South Carolina,Columbia,"Columbia, South Carolina",29203
+516,United States,South,Fred Suzuki,South Carolina,Florence,"Florence, South Carolina",29501
+517,United States,South,Fred Suzuki,South Carolina,Mount Pleasant,"Mount Pleasant, South Carolina",29464
+518,United States,South,Fred Suzuki,South Carolina,North Charleston,"North Charleston, South Carolina",29406
+519,United States,South,Fred Suzuki,South Carolina,Rock Hill,"Rock Hill, South Carolina",29730
+520,United States,South,Fred Suzuki,South Carolina,Summerville,"Summerville, South Carolina",29483
+521,United States,Central,Roxanne Rodriguez,South Dakota,Aberdeen,"Aberdeen, South Dakota",57401
+522,United States,Central,Roxanne Rodriguez,South Dakota,Rapid City,"Rapid City, South Dakota",57701
+523,United States,Central,Roxanne Rodriguez,South Dakota,Sioux Falls,"Sioux Falls, South Dakota",57103
+524,United States,South,Fred Suzuki,Tennessee,Bartlett,"Bartlett, Tennessee",38134
+525,United States,South,Fred Suzuki,Tennessee,Bristol,"Bristol, Tennessee",37620
+526,United States,South,Fred Suzuki,Tennessee,Chattanooga,"Chattanooga, Tennessee",37421
+527,United States,South,Fred Suzuki,Tennessee,Clarksville,"Clarksville, Tennessee",37042
+528,United States,South,Fred Suzuki,Tennessee,Columbia,"Columbia, Tennessee",38401
+529,United States,South,Fred Suzuki,Tennessee,Franklin,"Franklin, Tennessee",37064
+530,United States,South,Fred Suzuki,Tennessee,Hendersonville,"Hendersonville, Tennessee",37075
+531,United States,South,Fred Suzuki,Tennessee,Jackson,"Jackson, Tennessee",38301
+532,United States,South,Fred Suzuki,Tennessee,Johnson City,"Johnson City, Tennessee",37604
+533,United States,South,Fred Suzuki,Tennessee,Knoxville,"Knoxville, Tennessee",37918
+534,United States,South,Fred Suzuki,Tennessee,Lebanon,"Lebanon, Tennessee",37087
+535,United States,South,Fred Suzuki,Tennessee,Memphis,"Memphis, Tennessee",38109
+536,United States,South,Fred Suzuki,Tennessee,Murfreesboro,"Murfreesboro, Tennessee",37130
+537,United States,South,Fred Suzuki,Tennessee,Nashville,"Nashville, Tennessee",37211
+538,United States,South,Fred Suzuki,Tennessee,Smyrna,"Smyrna, Tennessee",37167
+539,United States,Central,Roxanne Rodriguez,Texas,Abilene,"Abilene, Texas",79605
+540,United States,Central,Roxanne Rodriguez,Texas,Allen,"Allen, Texas",75002
+541,United States,Central,Roxanne Rodriguez,Texas,Amarillo,"Amarillo, Texas",79109
+542,United States,Central,Roxanne Rodriguez,Texas,Arlington,"Arlington, Texas",76017
+543,United States,Central,Roxanne Rodriguez,Texas,Austin,"Austin, Texas",78745
+544,United States,Central,Roxanne Rodriguez,Texas,Baytown,"Baytown, Texas",77520
+545,United States,Central,Roxanne Rodriguez,Texas,Beaumont,"Beaumont, Texas",77705
+546,United States,Central,Roxanne Rodriguez,Texas,Bedford,"Bedford, Texas",76021
+547,United States,Central,Roxanne Rodriguez,Texas,Brownsville,"Brownsville, Texas",78521
+548,United States,Central,Roxanne Rodriguez,Texas,Bryan,"Bryan, Texas",77803
+549,United States,Central,Roxanne Rodriguez,Texas,Carrollton,"Carrollton, Texas",75007
+550,United States,Central,Roxanne Rodriguez,Texas,Cedar Hill,"Cedar Hill, Texas",75104
+551,United States,Central,Roxanne Rodriguez,Texas,College Station,"College Station, Texas",77840
+552,United States,Central,Roxanne Rodriguez,Texas,Conroe,"Conroe, Texas",77301
+553,United States,Central,Roxanne Rodriguez,Texas,Coppell,"Coppell, Texas",75019
+554,United States,Central,Roxanne Rodriguez,Texas,Corpus Christi,"Corpus Christi, Texas",78415
+555,United States,Central,Roxanne Rodriguez,Texas,Dallas,"Dallas, Texas",75081
+556,United States,Central,Roxanne Rodriguez,Texas,Dallas,"Dallas, Texas",75217
+557,United States,Central,Roxanne Rodriguez,Texas,Dallas,"Dallas, Texas",75220
+558,United States,Central,Roxanne Rodriguez,Texas,Deer Park,"Deer Park, Texas",77536
+559,United States,Central,Roxanne Rodriguez,Texas,Edinburg,"Edinburg, Texas",78539
+560,United States,Central,Roxanne Rodriguez,Texas,El Paso,"El Paso, Texas",79907
+561,United States,Central,Roxanne Rodriguez,Texas,Fort Worth,"Fort Worth, Texas",76106
+562,United States,Central,Roxanne Rodriguez,Texas,Frisco,"Frisco, Texas",75034
+563,United States,Central,Roxanne Rodriguez,Texas,Garland,"Garland, Texas",75043
+564,United States,Central,Roxanne Rodriguez,Texas,Grand Prairie,"Grand Prairie, Texas",75051
+565,United States,Central,Roxanne Rodriguez,Texas,Grapevine,"Grapevine, Texas",76051
+566,United States,Central,Roxanne Rodriguez,Texas,Haltom City,"Haltom City, Texas",76117
+567,United States,Central,Roxanne Rodriguez,Texas,Harlingen,"Harlingen, Texas",78550
+568,United States,Central,Roxanne Rodriguez,Texas,Houston,"Houston, Texas",77036
+569,United States,Central,Roxanne Rodriguez,Texas,Houston,"Houston, Texas",77041
+570,United States,Central,Roxanne Rodriguez,Texas,Houston,"Houston, Texas",77070
+571,United States,Central,Roxanne Rodriguez,Texas,Houston,"Houston, Texas",77095
+572,United States,Central,Roxanne Rodriguez,Texas,Huntsville,"Huntsville, Texas",77340
+573,United States,Central,Roxanne Rodriguez,Texas,Irving,"Irving, Texas",75061
+574,United States,Central,Roxanne Rodriguez,Texas,Keller,"Keller, Texas",76248
+575,United States,Central,Roxanne Rodriguez,Texas,La Porte,"La Porte, Texas",77571
+576,United States,Central,Roxanne Rodriguez,Texas,Laredo,"Laredo, Texas",78041
+577,United States,Central,Roxanne Rodriguez,Texas,League City,"League City, Texas",77573
+578,United States,Central,Roxanne Rodriguez,Texas,Lubbock,"Lubbock, Texas",79424
+579,United States,Central,Roxanne Rodriguez,Texas,Mansfield,"Mansfield, Texas",76063
+580,United States,Central,Roxanne Rodriguez,Texas,Mcallen,"Mcallen, Texas",78501
+581,United States,Central,Roxanne Rodriguez,Texas,Mesquite,"Mesquite, Texas",75150
+582,United States,Central,Roxanne Rodriguez,Texas,Missouri City,"Missouri City, Texas",77489
+583,United States,Central,Roxanne Rodriguez,Texas,Odessa,"Odessa, Texas",79762
+584,United States,Central,Roxanne Rodriguez,Texas,Pasadena,"Pasadena, Texas",77506
+585,United States,Central,Roxanne Rodriguez,Texas,Pearland,"Pearland, Texas",77581
+586,United States,Central,Roxanne Rodriguez,Texas,Pharr,"Pharr, Texas",78577
+587,United States,Central,Roxanne Rodriguez,Texas,Plano,"Plano, Texas",75023
+588,United States,Central,Roxanne Rodriguez,Texas,Port Arthur,"Port Arthur, Texas",77642
+589,United States,Central,Roxanne Rodriguez,Texas,Richardson,"Richardson, Texas",75080
+590,United States,Central,Roxanne Rodriguez,Texas,Round Rock,"Round Rock, Texas",78664
+591,United States,Central,Roxanne Rodriguez,Texas,San Angelo,"San Angelo, Texas",76903
+592,United States,Central,Roxanne Rodriguez,Texas,San Antonio,"San Antonio, Texas",78207
+593,United States,Central,Roxanne Rodriguez,Texas,San Marcos,"San Marcos, Texas",78666
+594,United States,Central,Roxanne Rodriguez,Texas,Texas City,"Texas City, Texas",77590
+595,United States,Central,Roxanne Rodriguez,Texas,The Colony,"The Colony, Texas",75056
+596,United States,Central,Roxanne Rodriguez,Texas,Tyler,"Tyler, Texas",75701
+597,United States,Central,Roxanne Rodriguez,Texas,Waco,"Waco, Texas",76706
+598,United States,West,Sadie Pawthorne,Utah,Draper,"Draper, Utah",84020
+599,United States,West,Sadie Pawthorne,Utah,Layton,"Layton, Utah",84041
+600,United States,West,Sadie Pawthorne,Utah,Lehi,"Lehi, Utah",84043
+601,United States,West,Sadie Pawthorne,Utah,Logan,"Logan, Utah",84321
+602,United States,West,Sadie Pawthorne,Utah,Murray,"Murray, Utah",84107
+603,United States,West,Sadie Pawthorne,Utah,Orem,"Orem, Utah",84057
+604,United States,West,Sadie Pawthorne,Utah,Pleasant Grove,"Pleasant Grove, Utah",84062
+605,United States,West,Sadie Pawthorne,Utah,Provo,"Provo, Utah",84604
+606,United States,West,Sadie Pawthorne,Utah,Salt Lake City,"Salt Lake City, Utah",84106
+607,United States,West,Sadie Pawthorne,Utah,West Jordan,"West Jordan, Utah",84084
+608,United States,East,Chuck Magee,Vermont,Burlington,"Burlington, Vermont",05401
+609,United States,South,Fred Suzuki,Virginia,Alexandria,"Alexandria, Virginia",22304
+610,United States,South,Fred Suzuki,Virginia,Arlington,"Arlington, Virginia",22204
+611,United States,South,Fred Suzuki,Virginia,Charlottesville,"Charlottesville, Virginia",22901
+612,United States,South,Fred Suzuki,Virginia,Chesapeake,"Chesapeake, Virginia",23320
+613,United States,South,Fred Suzuki,Virginia,Hampton,"Hampton, Virginia",23666
+614,United States,South,Fred Suzuki,Virginia,Harrisonburg,"Harrisonburg, Virginia",22801
+615,United States,South,Fred Suzuki,Virginia,Newport News,"Newport News, Virginia",23602
+616,United States,South,Fred Suzuki,Virginia,Richmond,"Richmond, Virginia",23223
+617,United States,South,Fred Suzuki,Virginia,Salem,"Salem, Virginia",24153
+618,United States,South,Fred Suzuki,Virginia,Springfield,"Springfield, Virginia",22153
+619,United States,South,Fred Suzuki,Virginia,Suffolk,"Suffolk, Virginia",23434
+620,United States,South,Fred Suzuki,Virginia,Virginia Beach,"Virginia Beach, Virginia",23464
+621,United States,South,Fred Suzuki,Virginia,Waynesboro,"Waynesboro, Virginia",22980
+622,United States,West,Sadie Pawthorne,Washington,Auburn,"Auburn, Washington",98002
+623,United States,West,Sadie Pawthorne,Washington,Bellevue,"Bellevue, Washington",98006
+624,United States,West,Sadie Pawthorne,Washington,Bellingham,"Bellingham, Washington",98226
+625,United States,West,Sadie Pawthorne,Washington,Covington,"Covington, Washington",98042
+626,United States,West,Sadie Pawthorne,Washington,Des Moines,"Des Moines, Washington",98198
+627,United States,West,Sadie Pawthorne,Washington,Edmonds,"Edmonds, Washington",98026
+628,United States,West,Sadie Pawthorne,Washington,Everett,"Everett, Washington",98208
+629,United States,West,Sadie Pawthorne,Washington,Kent,"Kent, Washington",98031
+630,United States,West,Sadie Pawthorne,Washington,Longview,"Longview, Washington",98632
+631,United States,West,Sadie Pawthorne,Washington,Marysville,"Marysville, Washington",98270
+632,United States,West,Sadie Pawthorne,Washington,Olympia,"Olympia, Washington",98502
+633,United States,West,Sadie Pawthorne,Washington,Pasco,"Pasco, Washington",99301
+634,United States,West,Sadie Pawthorne,Washington,Redmond,"Redmond, Washington",98052
+635,United States,West,Sadie Pawthorne,Washington,Renton,"Renton, Washington",98059
+636,United States,West,Sadie Pawthorne,Washington,Seattle,"Seattle, Washington",98103
+637,United States,West,Sadie Pawthorne,Washington,Seattle,"Seattle, Washington",98105
+638,United States,West,Sadie Pawthorne,Washington,Seattle,"Seattle, Washington",98115
+639,United States,West,Sadie Pawthorne,Washington,Spokane,"Spokane, Washington",99207
+640,United States,West,Sadie Pawthorne,Washington,Vancouver,"Vancouver, Washington",98661
+641,United States,East,Chuck Magee,West Virginia,Wheeling,"Wheeling, West Virginia",26003
+642,United States,Central,Roxanne Rodriguez,Wisconsin,Appleton,"Appleton, Wisconsin",54915
+643,United States,Central,Roxanne Rodriguez,Wisconsin,Eau Claire,"Eau Claire, Wisconsin",54703
+644,United States,Central,Roxanne Rodriguez,Wisconsin,Franklin,"Franklin, Wisconsin",53132
+645,United States,Central,Roxanne Rodriguez,Wisconsin,Green Bay,"Green Bay, Wisconsin",54302
+646,United States,Central,Roxanne Rodriguez,Wisconsin,Kenosha,"Kenosha, Wisconsin",53142
+647,United States,Central,Roxanne Rodriguez,Wisconsin,La Crosse,"La Crosse, Wisconsin",54601
+648,United States,Central,Roxanne Rodriguez,Wisconsin,Madison,"Madison, Wisconsin",53711
+649,United States,Central,Roxanne Rodriguez,Wisconsin,Milwaukee,"Milwaukee, Wisconsin",53209
+650,United States,Central,Roxanne Rodriguez,Wisconsin,Sheboygan,"Sheboygan, Wisconsin",53081
+651,United States,Central,Roxanne Rodriguez,Wisconsin,Superior,"Superior, Wisconsin",54880
+652,United States,Central,Roxanne Rodriguez,Wisconsin,Waukesha,"Waukesha, Wisconsin",53186
+653,United States,Central,Roxanne Rodriguez,Wisconsin,Wausau,"Wausau, Wisconsin",54401
+654,United States,Central,Roxanne Rodriguez,Wisconsin,West Allis,"West Allis, Wisconsin",53214
+655,United States,West,Sadie Pawthorne,Wyoming,Cheyenne,"Cheyenne, Wyoming",82001

@@ -1,0 +1,6 @@
+order_frequency_band,customers,share_of_customers,share_of_sales,share_of_profit,profit_per_customer
+1 order,12,0.0152,0.0023,0.0027,63.95
+2-3 orders,87,0.1098,0.0432,0.0162,53.11
+4-6 orders,337,0.4255,0.3533,0.3616,306.2
+7-10 orders,307,0.3876,0.4819,0.5012,465.95
+11+ orders,49,0.0619,0.1193,0.1183,689.24

@@ -1,0 +1,5 @@
+group,customers,profit
+Unprofitable customers,155,-71212.41560000001
+... with no line beyond break-even,0,0.0
+... profitable on their within-break-even lines,154,-71209.1
+... profitable if their single worst line is excluded,103,-34500.1457

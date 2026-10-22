@@ -1,0 +1,6 @@
+scenario,reclassified,share_reclassified,c2_customers,c2_profit
+"Base: median revenue, company margin",0,0.0,163,-25657.742100000025
+Revenue cut at 60th percentile,74,0.09919571045576407,125,-24985.638200000016
+Revenue cut at 40th percentile,75,0.10053619302949061,197,-26310.813000000024
+Margin hurdle 10%,54,0.07238605898123325,134,-38529.97500000002
+Margin hurdle 15%,57,0.07640750670241286,186,-10062.521100000024

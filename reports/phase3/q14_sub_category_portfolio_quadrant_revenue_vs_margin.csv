@@ -1,0 +1,18 @@
+category,sub_category,sales,profit,profit_margin,portfolio_quadrant,median_sales_threshold,margin_threshold
+Furniture,Chairs,328167.73,26602.23,0.0811,"Margin leak: high sales, low margin",114880.0,0.1247
+Office Supplies,Storage,223843.61,21278.83,0.0951,"Margin leak: high sales, low margin",114880.0,0.1247
+Furniture,Tables,206965.53,-17725.48,-0.0856,"Margin leak: high sales, low margin",114880.0,0.1247
+Technology,Machines,189238.63,3384.76,0.0179,"Margin leak: high sales, low margin",114880.0,0.1247
+Furniture,Bookcases,114880.0,-3472.56,-0.0302,"Margin leak: high sales, low margin",114880.0,0.1247
+Office Supplies,Appliances,107532.16,18138.01,0.1687,"Niche earner: low sales, high margin",114880.0,0.1247
+Furniture,Furnishings,91705.16,13059.14,0.1424,"Niche earner: low sales, high margin",114880.0,0.1247
+Office Supplies,Paper,78479.21,34053.57,0.4339,"Niche earner: low sales, high margin",114880.0,0.1247
+Office Supplies,Art,27118.79,6527.79,0.2407,"Niche earner: low sales, high margin",114880.0,0.1247
+Office Supplies,Envelopes,16476.4,6964.18,0.4227,"Niche earner: low sales, high margin",114880.0,0.1247
+Office Supplies,Labels,12486.31,5546.25,0.4442,"Niche earner: low sales, high margin",114880.0,0.1247
+Office Supplies,Fasteners,3024.28,949.52,0.314,"Niche earner: low sales, high margin",114880.0,0.1247
+Office Supplies,Supplies,46673.54,-1189.1,-0.0255,"Review: low sales, low margin",114880.0,0.1247
+Technology,Phones,330007.05,44515.73,0.1349,"Star: high sales, high margin",114880.0,0.1247
+Office Supplies,Binders,203412.73,30221.76,0.1486,"Star: high sales, high margin",114880.0,0.1247
+Technology,Accessories,167380.32,41936.64,0.2505,"Star: high sales, high margin",114880.0,0.1247
+Technology,Copiers,149528.03,55617.82,0.372,"Star: high sales, high margin",114880.0,0.1247

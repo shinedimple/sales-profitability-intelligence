@@ -1,0 +1,6 @@
+measure,value,meaning
+Simple average of line discount rates,0.15618833183228262,"Every line counts equally, a 2-dollar line as much as a 2,000-dollar line."
+Average weighted by net revenue,0.1404044523039367,"Weights by revenue after discount, which under-weights deeply discounted lines."
+Effective discount rate (recommended),0.1978722004845846,Discount given away / list value. Answers: what share of list value did we give up?
+Share of lines discounted,0.5198639047333133,How common discounting is.
+Share of lines at 30%+ discount,0.13929750825577905,How common deep discounting is.

@@ -1,0 +1,30 @@
+measure,filter,expected
+Revenue,All years,2296919.4883
+Profit,All years,286409.0804999999
+Profit Margin %,All years,0.12469269469779175
+Orders,All years,5009.0
+Customers,All years,793.0
+Units Sold,All years,37871.0
+Average Order Value,All years,458.55849237372723
+Valid Customers,All years,792.0
+Profit per Customer,All years,360.3501719696969
+Unprofitable Customers,All years,155.0
+Top 10% Customer Profit Share,All years,0.5789661823760217
+Loss Amount,All years,-156119.22690000004
+Loss-making Products,All years,306.0
+Loss-making Rules,All years,79.0
+Loss from Loss-making Rules,All years,-145722.36980000007
+Effective Discount %,All years,0.1978722004845846
+Discounted Line Share %,All years,0.5198639047333133
+Beyond Break-even Revenue %,All years,0.20393652680734237
+Profit Beyond Break-even,All years,-156119.22690000004
+Revenue,Year = 2026,733215.2552
+Profit,Year = 2026,93439.26959999999
+Profit Margin %,Year = 2026,0.1274377052813944
+Orders,Year = 2026,1687.0
+Average Order Value,Year = 2026,434.62670729104923
+Revenue Growth %,Year = 2026,0.20355961535337053
+Profit Growth %,Year = 2026,0.14235675147891946
+Margin Change pp,Year = 2026,-0.006827597874930147
+Orders Growth %,Year = 2026,0.28288973384030425
+AOV Growth %,Year = 2026,-0.06183705145839824

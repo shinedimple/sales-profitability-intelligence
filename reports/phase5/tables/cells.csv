@@ -1,0 +1,657 @@
+,state_province,region,category,sub_category,discount_rule,sales,profit,profit_margin,lines,orders,profit_destroying
+567,Texas,Central,Office Supplies,Binders,0.8,9042.675999999998,-14705.073800000004,-1.6261860758916948,153,127,True
+464,Ohio,East,Technology,Machines,0.7,8978.238000000001,-11770.944700000002,-1.311052870284793,8,8,True
+161,Illinois,Central,Office Supplies,Binders,0.8,4538.545999999999,-7204.324200000001,-1.5873639266848902,80,76,True
+565,Texas,Central,Office Supplies,Appliances,0.8,2407.8139999999994,-6147.222500000001,-2.5530304666390355,47,45,True
+443,North Carolina,South,Technology,Machines,0.5,12620.654999999999,-5384.808599999999,-0.4266663338788676,4,4,True
+503,Pennsylvania,East,Office Supplies,Binders,0.7,6266.058000000001,-4570.975,-0.7294817571110895,98,81,True
+431,New York,East,Furniture,Tables,0.4,13779.018,-4535.6408,-0.32917010486523784,28,26,True
+73,Colorado,West,Technology,Machines,0.7,3313.6890000000008,-4384.255400000001,-1.3230738913639752,3,3,True
+174,Illinois,Central,Furniture,Tables,0.5,6550.67,-4309.744700000001,-0.6579089925152696,18,17,True
+448,North Carolina,South,Furniture,Tables,0.4,9681.732,-3684.253900000001,-0.38053665397885433,8,8,True
+551,Tennessee,South,Office Supplies,Binders,0.7,5148.042,-3635.9180999999994,-0.7062720350766367,29,23,True
+513,Pennsylvania,East,Technology,Phones,0.4,19702.404,-3606.9276000000004,-0.18307043140522347,62,57,True
+573,Texas,Central,Furniture,Furnishings,0.6,3766.724,-3312.6786,-0.8794588082376091,81,76,True
+504,Pennsylvania,East,Furniture,Bookcases,0.5,5230.755000000001,-2896.7601,-0.5537938787039346,10,10,True
+466,Ohio,East,Technology,Phones,0.4,14634.948,-2778.8578,-0.18987821480472633,47,41,True
+118,Florida,South,Office Supplies,Binders,0.7,3690.498,-2760.7304,-0.7480644617609873,67,56,True
+469,Ohio,East,Furniture,Tables,0.4,7887.1140000000005,-2715.3345000000004,-0.3442747879642668,16,16,True
+575,Texas,Central,Technology,Machines,0.4,19546.224,-2666.843400000003,-0.13643777949132288,13,12,True
+563,Tennessee,South,Furniture,Tables,0.4,6214.356,-2663.4138000000003,-0.42859047663185057,8,8,True
+167,Illinois,Central,Furniture,Furnishings,0.6,2877.976,-2631.9766,-0.9145234706613258,57,51,True
+516,Pennsylvania,East,Furniture,Tables,0.4,8052.186,-2588.753800000001,-0.32149701956710897,15,14,True
+569,Texas,Central,Furniture,Chairs,0.3,26572.447999999997,-2515.6490000000003,-0.09467133024401819,61,58,True
+131,Florida,South,Furniture,Tables,0.45,5484.974,-2493.1111,-0.45453471611715934,11,10,True
+159,Illinois,Central,Office Supplies,Appliances,0.8,974.7199999999998,-2482.4187,-2.546801850787919,20,20,True
+66,Colorado,West,Furniture,Bookcases,0.7,1583.5230000000001,-2408.9163000000003,-1.521238592682266,9,9,True
+568,Texas,Central,Furniture,Bookcases,0.32,14493.458799999999,-2391.1377000000007,-0.1649804738120897,27,27,True
+31,Arizona,West,Furniture,Tables,0.5,3995.35,-2281.8701,-0.5711314653284444,9,9,True
+511,Pennsylvania,East,Technology,Machines,0.7,2133.717,-2219.2455999999993,-1.0400843223351546,7,6,True
+580,Texas,Central,Furniture,Tables,0.3,15760.660999999998,-2216.6766000000002,-0.14064616959910503,33,31,True
+435,North Carolina,South,Office Supplies,Binders,0.7,2562.3210000000004,-2007.8254000000002,-0.7835963565845184,36,33,True
+505,Pennsylvania,East,Furniture,Chairs,0.3,18724.174,-1993.4180000000003,-0.1064622663728718,36,34,True
+126,Florida,South,Technology,Machines,0.5,24573.94,-1976.011000000002,-0.08041083359038079,6,5,True
+19,Arizona,West,Office Supplies,Binders,0.7,2185.3530000000005,-1646.7484,-0.7535388561939419,35,31,True
+163,Illinois,Central,Furniture,Chairs,0.3,14563.178,-1578.6955000000007,-0.10840322764715234,38,37,True
+515,Pennsylvania,East,Office Supplies,Supplies,0.2,6710.2080000000005,-1459.5663000000002,-0.21751431550258948,12,12,True
+514,Pennsylvania,East,Office Supplies,Storage,0.2,11784.624,-1434.3118000000004,-0.12171044235267926,49,47,True
+456,Ohio,East,Office Supplies,Binders,0.7,1917.0870000000002,-1400.6680999999999,-0.7306231276932136,73,65,True
+457,Ohio,East,Furniture,Bookcases,0.5,2077.705,-1359.0516,-0.6541119167543035,8,8,True
+499,Oregon,West,Furniture,Tables,0.5,1671.86,-1048.8971,-0.627383333532712,5,5,True
+78,Colorado,West,Furniture,Tables,0.5,1457.13,-974.8754,-0.6690380405317301,4,4,True
+26,Arizona,West,Technology,Machines,0.7,965.9490000000002,-930.941,-0.9637579209668418,3,3,True
+20,Arizona,West,Furniture,Bookcases,0.7,519.2130000000001,-869.2072999999999,-1.6740861650228323,3,3,True
+579,Texas,Central,Office Supplies,Supplies,0.2,4516.76,-837.2795000000003,-0.18537170449614332,19,18,True
+578,Texas,Central,Office Supplies,Storage,0.2,15723.584,-763.7054000000007,-0.048570694823775594,83,77,True
+458,Ohio,East,Furniture,Chairs,0.3,9864.33,-637.2954000000002,-0.06460605028420584,22,20,True
+488,Oregon,West,Furniture,Bookcases,0.7,356.646,-616.8158,-1.7294903069149798,3,3,True
+162,Illinois,Central,Furniture,Bookcases,0.3,4282.698,-555.8725999999999,-0.12979495635695065,10,9,True
+279,Massachusetts,East,Furniture,Tables,0.3,3966.004,-545.2946999999998,-0.13749222138959008,7,7,True
+497,Oregon,West,Office Supplies,Storage,0.2,1991.1200000000001,-410.7729,-0.20630243280163926,7,7,True
+65,Colorado,West,Office Supplies,Binders,0.7,508.9680000000001,-379.4919,-0.7456105295421321,28,20,True
+561,Tennessee,South,Office Supplies,Storage,0.2,3310.856,-333.5739000000001,-0.10075155790526681,18,17,True
+61,California,West,Furniture,Tables,0.2,45430.232,-303.55800000000136,-0.006681850094888385,71,69,True
+77,Colorado,West,Office Supplies,Supplies,0.2,1403.4,-291.69899999999996,-0.20785164600256514,5,5,True
+467,Ohio,East,Office Supplies,Storage,0.2,7264.4400000000005,-276.3364000000002,-0.03803960112548251,37,32,True
+558,Tennessee,South,Technology,Machines,0.5,740.475,-274.4095000000001,-0.37058577264593684,2,2,True
+494,Oregon,West,Technology,Machines,0.7,209.91600000000005,-273.9323999999999,-1.304961984793917,2,2,True
+29,Arizona,West,Office Supplies,Storage,0.2,2590.384,-271.1709000000001,-0.10468366852173272,21,19,True
+172,Illinois,Central,Office Supplies,Storage,0.2,9080.328,-257.45840000000027,-0.02835342511856403,47,44,True
+529,Rhode Island,East,Furniture,Tables,0.3,1758.2459999999999,-230.16779999999994,-0.1309076204353657,4,3,True
+76,Colorado,West,Office Supplies,Storage,0.2,3387.168,-212.69980000000024,-0.06279576330432982,13,12,True
+129,Florida,South,Office Supplies,Storage,0.2,7419.256,-203.10680000000028,-0.02737562903881471,25,23,True
+487,Oregon,West,Office Supplies,Binders,0.7,281.064,-198.74109999999996,-0.7071026527765916,14,14,True
+130,Florida,South,Office Supplies,Supplies,0.2,1067.896,-197.63149999999996,-0.1850662424056275,7,7,True
+119,Florida,South,Furniture,Bookcases,0.2,2587.056,-116.07059999999998,-0.04486590162717776,8,8,True
+366,Nevada,West,Furniture,Chairs,0.2,674.3520000000001,-109.58220000000011,-0.16250000000000014,1,1,True
+387,New Hampshire,East,Furniture,Tables,0.3,1053.164,-105.31639999999992,-0.09999999999999992,1,1,True
+436,North Carolina,South,Furniture,Bookcases,0.2,959.056,-97.97799999999998,-0.10216087486027925,4,4,True
+446,North Carolina,South,Office Supplies,Storage,0.2,3438.088,-86.2088000000002,-0.025074634506155803,16,15,True
+108,Delaware,East,Furniture,Tables,0.3,510.27900000000005,-85.89630000000007,-0.1683320301246966,2,2,True
+468,Ohio,East,Office Supplies,Supplies,0.2,478.808,-82.90289999999999,-0.17314435013617147,7,7,True
+640,West Virginia,East,Furniture,Tables,0.3,673.3439999999999,-76.9536,-0.11428571428571428,1,1,True
+264,Maryland,East,Furniture,Tables,0.3,789.8030000000001,-71.11700000000002,-0.09004397299073315,2,2,True
+403,New Jersey,East,Furniture,Tables,0.3,418.292,-51.2906,-0.12261912730819619,2,2,True
+120,Florida,South,Furniture,Chairs,0.2,11168.816,-37.55860000000028,-0.003362809450885419,19,18,True
+30,Arizona,West,Office Supplies,Supplies,0.2,282.528,-30.19760000000002,-0.10688356552270932,4,4,True
+447,North Carolina,South,Office Supplies,Supplies,0.2,302.04,-27.980300000000028,-0.09263773010197333,6,6,True
+92,Connecticut,East,Furniture,Tables,0.3,252.35699999999997,-19.6146,-0.0777256030147767,2,2,True
+552,Tennessee,South,Furniture,Bookcases,0.2,518.24,-6.3236000000000345,-0.012202068539672805,2,2,True
+498,Oregon,West,Office Supplies,Supplies,0.2,76.744,-1.684700000000003,-0.021952204732617574,4,4,True
+367,Nevada,West,Office Supplies,Fasteners,0.0,4.71,0.0,0.0,1,1,False
+182,Indiana,Central,Office Supplies,Fasteners,0.0,8.46,0.1008,0.011914893617021275,2,2,False
+491,Oregon,West,Office Supplies,Fasteners,0.2,20.024,0.1695000000000011,0.008464842189372808,2,2,False
+140,Georgia,South,Office Supplies,Fasteners,0.0,15.12,0.3024000000000003,0.02000000000000002,2,2,False
+101,Delaware,East,Office Supplies,Fasteners,0.0,26.18,0.5236000000000014,0.020000000000000052,1,1,False
+647,Wisconsin,Central,Office Supplies,Fasteners,0.0,1.81,0.6516,0.36,1,1,False
+518,Rhode Island,East,Office Supplies,Appliances,0.0,2.22,0.6659999999999999,0.29999999999999993,1,1,False
+600,Vermont,East,Office Supplies,Envelopes,0.0,2.04,0.9588,0.47,1,1,False
+7,Alabama,South,Office Supplies,Fasteners,0.0,3.62,1.1946,0.33,1,1,False
+23,Arizona,West,Office Supplies,Fasteners,0.2,101.232,2.099299999999995,0.020737513829619043,6,6,False
+587,Utah,West,Office Supplies,Fasteners,0.0,10.0,2.5327999999999995,0.25327999999999995,2,2,False
+545,South Dakota,Central,Office Supplies,Fasteners,0.0,6.540000000000001,2.6814000000000004,0.41000000000000003,1,1,False
+597,Vermont,East,Office Supplies,Art,0.0,8.040000000000001,2.7336,0.33999999999999997,1,1,False
+40,Arkansas,South,Office Supplies,Labels,0.0,7.31,3.4357,0.47000000000000003,1,1,False
+451,North Dakota,Central,Office Supplies,Fasteners,0.0,7.41,3.4827000000000004,0.47000000000000003,1,1,False
+198,Iowa,Central,Office Supplies,Storage,0.0,13.48,3.5047999999999995,0.25999999999999995,1,1,False
+152,Idaho,West,Furniture,Chairs,0.2,338.352,4.22939999999997,0.012499999999999912,1,1,False
+110,District of Columbia,East,Office Supplies,Binders,0.0,9.64,4.4344,0.45999999999999996,1,1,False
+229,Louisiana,South,Office Supplies,Appliances,0.0,17.34,4.681800000000001,0.2700000000000001,1,1,False
+414,New Mexico,West,Office Supplies,Supplies,0.0,29.560000000000002,4.7232,0.15978349120433016,2,2,False
+351,Nebraska,Central,Office Supplies,Art,0.0,19.46,5.0596,0.25999999999999995,1,1,False
+360,Nebraska,Central,Office Supplies,Supplies,0.0,16.9,5.069999999999999,0.3,1,1,False
+85,Connecticut,East,Office Supplies,Envelopes,0.0,10.86,5.1042000000000005,0.4700000000000001,1,1,False
+236,Louisiana,South,Office Supplies,Labels,0.0,11.07,5.2029,0.47,1,1,False
+319,Mississippi,South,Office Supplies,Fasteners,0.0,35.019999999999996,5.489399999999999,0.15675042832667047,2,2,False
+653,Wisconsin,Central,Office Supplies,Supplies,0.0,21.81,5.888700000000001,0.2700000000000001,1,1,False
+72,Colorado,West,Office Supplies,Labels,0.2,17.96,5.9832,0.3331403118040089,2,2,False
+482,Oklahoma,Central,Office Supplies,Supplies,0.0,21.96,6.148800000000001,0.28,1,1,False
+193,Iowa,Central,Office Supplies,Envelopes,0.0,13.4,6.370799999999999,0.47543283582089546,2,2,False
+263,Maryland,East,Office Supplies,Supplies,0.0,25.02,6.5052,0.26,1,1,False
+547,South Dakota,Central,Office Supplies,Supplies,0.0,25.5,6.63,0.26,1,1,False
+278,Massachusetts,East,Office Supplies,Supplies,0.0,30.07,6.859,0.2281010974393083,2,2,False
+321,Mississippi,South,Office Supplies,Labels,0.0,14.62,6.8714,0.47000000000000003,1,1,False
+345,Montana,West,Office Supplies,Labels,0.0,14.62,6.8714,0.47000000000000003,1,1,False
+369,Nevada,West,Office Supplies,Labels,0.0,14.94,6.8724,0.46,1,1,False
+335,Missouri,Central,Office Supplies,Labels,0.0,14.94,6.8724,0.46,1,1,False
+380,New Hampshire,East,Office Supplies,Fasteners,0.0,14.82,6.965400000000001,0.47000000000000003,1,1,False
+356,Nebraska,Central,Office Supplies,Labels,0.0,14.4,7.056,0.49,1,1,False
+210,Kansas,Central,Office Supplies,Supplies,0.0,357.93,7.158600000000007,0.020000000000000018,1,1,False
+562,Tennessee,South,Office Supplies,Supplies,0.2,97.792,8.020799999999989,0.0820189790575915,2,2,False
+386,New Hampshire,East,Office Supplies,Supplies,0.0,27.93,8.099699999999999,0.2899999999999999,1,1,False
+410,New Mexico,West,Office Supplies,Labels,0.0,18.45,8.6715,0.47000000000000003,1,1,False
+206,Kansas,Central,Office Supplies,Labels,0.0,18.9,8.693999999999999,0.45999999999999996,1,1,False
+25,Arizona,West,Office Supplies,Labels,0.2,27.464000000000002,9.125599999999999,0.33227497815321866,3,3,False
+377,New Hampshire,East,Office Supplies,Appliances,0.0,33.28,9.3184,0.28,1,1,False
+531,South Carolina,South,Office Supplies,Art,0.0,35.44,9.909600000000001,0.27961625282167046,2,2,False
+147,Georgia,South,Office Supplies,Supplies,0.0,39.519999999999996,10.150399999999996,0.2568421052631578,2,2,False
+354,Nebraska,Central,Office Supplies,Fasteners,0.0,57.64,10.384599999999999,0.18016308119361552,3,3,False
+256,Maryland,East,Office Supplies,Fasteners,0.0,27.32,10.470399999999998,0.38325036603221074,2,2,False
+310,Minnesota,Central,Office Supplies,Supplies,0.0,37.24,10.799599999999998,0.2899999999999999,1,1,False
+204,Kansas,Central,Office Supplies,Fasteners,0.0,24.049999999999997,10.9211,0.4540997920997921,2,2,False
+14,Alabama,South,Office Supplies,Supplies,0.0,484.51,11.50770000000001,0.023751212565272153,2,2,False
+593,Utah,West,Office Supplies,Supplies,0.0,44.400000000000006,12.432000000000002,0.28,1,1,False
+70,Colorado,West,Office Supplies,Fasteners,0.2,44.52,12.605399999999996,0.2831401617250673,4,4,False
+450,North Dakota,Central,Office Supplies,Binders,0.0,25.9,12.691,0.49000000000000005,1,1,False
+408,New Mexico,West,Office Supplies,Envelopes,0.0,28.4,13.347999999999995,0.46999999999999986,1,1,False
+173,Illinois,Central,Office Supplies,Supplies,0.2,178.15200000000002,13.427299999999995,0.0753699088418878,7,7,False
+8,Alabama,South,Furniture,Furnishings,0.0,40.480000000000004,14.348799999999999,0.3544664031620553,3,3,False
+589,Utah,West,Office Supplies,Labels,0.0,30.15,14.616,0.4847761194029851,2,2,False
+303,Minnesota,Central,Office Supplies,Envelopes,0.0,30.56,14.9744,0.49,2,2,False
+395,New Jersey,East,Office Supplies,Fasteners,0.0,54.12,15.110800000000001,0.27920916481892094,5,5,False
+331,Missouri,Central,Furniture,Chairs,0.0,60.89,15.222499999999997,0.24999999999999994,1,1,False
+87,Connecticut,East,Office Supplies,Labels,0.0,33.43,15.6968,0.46954232725097217,3,3,False
+546,South Dakota,Central,Office Supplies,Labels,0.0,34.85,16.3795,0.47,2,2,False
+123,Florida,South,Office Supplies,Fasteners,0.2,49.256,16.508499999999998,0.33515713821666393,5,5,False
+245,Maine,East,Office Supplies,Binders,0.0,38.1,17.310199999999995,0.4543359580052492,2,1,False
+226,Kentucky,South,Office Supplies,Supplies,0.0,86.32000000000001,17.920799999999996,0.20760889712696937,3,3,False
+535,South Carolina,South,Office Supplies,Fasteners,0.0,43.41,17.994,0.41451278507256395,2,2,False
+490,Oregon,West,Office Supplies,Envelopes,0.2,49.52,18.0268,0.3640306946688207,2,2,False
+519,Rhode Island,East,Office Supplies,Art,0.0,49.25,18.715000000000003,0.38000000000000006,1,1,False
+38,Arkansas,South,Office Supplies,Fasteners,0.0,42.67,18.9612,0.44436840871806893,2,2,False
+472,Oklahoma,Central,Office Supplies,Art,0.0,58.91,19.086399999999998,0.3239925309794602,4,4,False
+195,Iowa,Central,Furniture,Furnishings,0.0,49.49000000000001,19.1457,0.3868599717114568,2,2,False
+346,Montana,West,Office Supplies,Paper,0.0,41.0,19.321199999999997,0.47124878048780483,2,2,False
+304,Minnesota,Central,Office Supplies,Fasteners,0.0,42.9,19.328,0.45053613053613056,2,2,False
+382,New Hampshire,East,Office Supplies,Labels,0.0,41.16,19.4264,0.47197278911564633,2,2,False
+295,Michigan,Central,Office Supplies,Supplies,0.0,74.48,21.210399999999993,0.2847798066595058,2,2,False
+194,Iowa,Central,Office Supplies,Fasteners,0.0,45.92,21.5824,0.47,1,1,False
+344,Montana,West,Furniture,Furnishings,0.0,63.98,21.7532,0.34,1,1,False
+219,Kentucky,South,Office Supplies,Fasteners,0.0,76.06,21.8478,0.28724428083092296,4,4,False
+440,North Carolina,South,Office Supplies,Fasteners,0.2,66.33600000000001,21.863699999999998,0.32959026772793043,4,4,False
+109,District of Columbia,East,Office Supplies,Art,0.0,56.66,22.0974,0.39,2,2,False
+185,Indiana,Central,Technology,Machines,0.0,83.9,22.65300000000001,0.2700000000000001,1,1,False
+201,Kansas,Central,Office Supplies,Appliances,0.0,81.96,22.9488,0.28,1,1,False
+33,Arkansas,South,Office Supplies,Art,0.0,78.3,23.731799999999996,0.30308812260536394,6,5,False
+272,Massachusetts,East,Office Supplies,Fasteners,0.0,51.160000000000004,23.8116,0.46543393275996864,3,3,False
+151,Idaho,West,Office Supplies,Binders,0.2,71.656,24.634699999999995,0.34379116891816447,5,5,False
+374,Nevada,West,Office Supplies,Supplies,0.0,86.19999999999999,24.997999999999987,0.28999999999999987,1,1,False
+64,Colorado,West,Office Supplies,Art,0.2,210.624,25.094299999999993,0.11914264281373439,11,10,False
+200,Kansas,Central,Technology,Accessories,0.0,92.35000000000001,26.283999999999995,0.28461288576069294,2,2,False
+69,Colorado,West,Office Supplies,Envelopes,0.2,75.6,27.0597,0.3579325396825397,5,5,False
+362,Nevada,West,Office Supplies,Appliances,0.0,95.98,27.212599999999995,0.28352365076057506,2,2,False
+544,South Dakota,Central,Furniture,Chairs,0.0,182.94,27.440999999999995,0.14999999999999997,1,1,False
+244,Maine,East,Office Supplies,Appliances,0.0,101.96,27.529200000000003,0.2700000000000001,1,1,False
+156,Idaho,West,Office Supplies,Storage,0.0,477.15,28.62899999999996,0.059999999999999915,1,1,False
+583,Utah,West,Office Supplies,Art,0.0,100.05,28.8803,0.28865867066466766,4,4,False
+555,Tennessee,South,Office Supplies,Fasteners,0.2,86.66400000000002,28.894099999999995,0.33340372011446495,3,3,False
+508,Pennsylvania,East,Office Supplies,Fasteners,0.2,154.712,29.32219999999999,0.18952763845079887,14,14,False
+91,Connecticut,East,Office Supplies,Supplies,0.0,114.86,30.4015,0.26468309246038657,4,4,False
+234,Louisiana,South,Office Supplies,Envelopes,0.0,62.3,30.809199999999997,0.494529695024077,2,1,False
+104,Delaware,East,Technology,Machines,0.0,65.97,31.0059,0.47000000000000003,1,1,False
+478,Oklahoma,Central,Office Supplies,Labels,0.0,64.24,31.1852,0.4854483188044832,3,2,False
+235,Louisiana,South,Furniture,Furnishings,0.0,182.48999999999998,31.61859999999999,0.17326209655323577,4,4,False
+43,Arkansas,South,Office Supplies,Storage,0.0,430.0,32.089599999999976,0.07462697674418599,2,1,False
+397,New Jersey,East,Office Supplies,Labels,0.0,66.34,32.1345,0.48439101597829365,5,5,False
+402,New Jersey,East,Office Supplies,Supplies,0.0,114.43,32.674699999999994,0.2855431268024119,3,3,False
+112,District of Columbia,East,Furniture,Furnishings,0.0,79.05,33.201,0.42000000000000004,2,2,False
+241,Louisiana,South,Office Supplies,Supplies,0.0,1665.62,33.312400000000025,0.020000000000000018,1,1,False
+333,Missouri,Central,Office Supplies,Envelopes,0.0,71.17999999999999,33.45459999999999,0.4699999999999999,3,3,False
+385,New Hampshire,East,Office Supplies,Storage,0.0,337.29999999999995,33.71799999999999,0.09996442336199228,2,2,False
+246,Maine,East,Furniture,Furnishings,0.0,109.48,33.9388,0.31,1,1,False
+114,District of Columbia,East,Office Supplies,Paper,0.0,72.22,34.4116,0.47648296870672946,3,2,False
+103,Delaware,East,Office Supplies,Labels,0.0,74.13,34.7388,0.46861999190611087,5,4,False
+528,Rhode Island,East,Office Supplies,Supplies,0.0,695.16,34.75799999999995,0.04999999999999993,1,1,False
+548,Tennessee,South,Technology,Accessories,0.2,410.568,35.21849999999997,0.08577994388262108,9,8,False
+299,Minnesota,Central,Office Supplies,Art,0.0,102.81,36.5706,0.35571053399474756,6,6,False
+205,Kansas,Central,Furniture,Furnishings,0.0,111.12,36.9696,0.3326997840172786,2,2,False
+230,Louisiana,South,Office Supplies,Art,0.0,129.5,36.992000000000004,0.2856525096525097,2,2,False
+149,Idaho,West,Technology,Accessories,0.0,89.97,37.787400000000005,0.42000000000000004,1,1,False
+543,South Dakota,Central,Furniture,Bookcases,0.0,141.96,39.7488,0.28,1,1,False
+612,Virginia,South,Office Supplies,Fasteners,0.0,85.16,40.662400000000005,0.47748238609675914,4,4,False
+530,South Carolina,South,Technology,Accessories,0.0,138.89,40.8828,0.29435380516955867,2,2,False
+365,Nevada,West,Furniture,Bookcases,0.0,141.96,41.16839999999999,0.2899999999999999,1,1,False
+581,Utah,West,Technology,Accessories,0.0,194.73000000000002,41.3223,0.21220305037744566,2,2,False
+557,Tennessee,South,Office Supplies,Labels,0.2,115.36800000000001,41.471199999999996,0.35946883017821224,8,8,False
+215,Kentucky,South,Furniture,Bookcases,0.0,261.96,41.9136,0.16000000000000003,1,1,False
+288,Michigan,Central,Office Supplies,Fasteners,0.0,109.5,42.755399999999995,0.3904602739726027,5,5,False
+601,Vermont,East,Office Supplies,Paper,0.0,92.2,43.333999999999996,0.4699999999999999,2,1,False
+638,West Virginia,East,Office Supplies,Binders,0.0,88.64,43.433600000000006,0.49000000000000005,2,1,False
+318,Mississippi,South,Office Supplies,Envelopes,0.0,91.37,43.490899999999996,0.4759866476961803,2,2,False
+240,Louisiana,South,Office Supplies,Storage,0.0,805.1300000000001,43.65679999999995,0.054223293132785934,2,2,False
+166,Illinois,Central,Office Supplies,Fasteners,0.2,141.336,43.994899999999994,0.31127879662647867,13,13,False
+94,Delaware,East,Office Supplies,Appliances,0.0,140.42,44.364599999999996,0.31594217347956133,2,2,False
+324,Mississippi,South,Office Supplies,Storage,0.0,575.81,44.64479999999998,0.0775339087546239,4,4,False
+643,Wisconsin,Central,Office Supplies,Art,0.0,159.79,44.6698,0.2795531635271294,7,6,False
+406,New Mexico,West,Office Supplies,Binders,0.2,125.63200000000002,45.084,0.3588576158940397,5,4,False
+636,Washington,West,Office Supplies,Supplies,0.0,483.34000000000003,45.274300000000004,0.09366967352174453,9,9,False
+44,Arkansas,South,Furniture,Tables,0.0,301.96,45.29399999999998,0.14999999999999997,1,1,False
+190,Iowa,Central,Office Supplies,Art,0.0,146.57999999999998,45.49379999999999,0.31036839950880063,3,3,False
+202,Kansas,Central,Office Supplies,Art,0.0,162.72,45.95159999999999,0.28239675516224183,4,4,False
+218,Kentucky,South,Office Supplies,Envelopes,0.0,105.35,48.0766,0.4563512102515425,4,3,False
+305,Minnesota,Central,Furniture,Furnishings,0.0,231.51999999999998,49.5342,0.21395214236351073,5,5,False
+238,Louisiana,South,Office Supplies,Paper,0.0,103.68,49.896,0.48124999999999996,5,4,False
+347,Montana,West,Technology,Phones,0.2,445.54400000000004,51.73359999999995,0.11611333560770642,2,2,False
+449,North Dakota,Central,Office Supplies,Art,0.0,181.84,51.8812,0.285312362516498,4,2,False
+6,Alabama,South,Office Supplies,Envelopes,0.0,105.83999999999999,52.62479999999999,0.4972108843537415,2,2,False
+330,Missouri,Central,Furniture,Bookcases,0.0,212.94,53.235000000000014,0.25000000000000006,1,1,False
+485,Oregon,West,Office Supplies,Appliances,0.2,535.768,54.08559999999999,0.10094966478027802,6,6,False
+155,Idaho,West,Technology,Phones,0.2,747.528,54.3099,0.07265266317783414,3,3,False
+588,Utah,West,Furniture,Furnishings,0.0,165.17000000000002,54.570899999999995,0.3303923230610885,3,3,False
+474,Oklahoma,Central,Furniture,Bookcases,0.0,341.96,54.71359999999999,0.15999999999999998,1,1,False
+463,Ohio,East,Office Supplies,Labels,0.2,161.84,55.5222,0.3430684626791893,13,13,False
+542,South Dakota,Central,Office Supplies,Binders,0.0,114.50999999999999,55.6446,0.48593659942363115,3,2,False
+1,Alabama,South,Office Supplies,Appliances,0.0,208.16,56.20320000000001,0.2700000000000001,1,1,False
+232,Louisiana,South,Furniture,Bookcases,0.0,387.70000000000005,57.19280000000002,0.14751818416301268,2,2,False
+363,Nevada,West,Office Supplies,Art,0.0,214.28,59.578799999999994,0.27804181444838527,4,4,False
+352,Nebraska,Central,Office Supplies,Binders,0.0,128.23,60.4036,0.4710566950011698,5,5,False
+461,Ohio,East,Office Supplies,Fasteners,0.2,204.89600000000002,61.119699999999995,0.29829620880837104,14,13,False
+629,Washington,West,Office Supplies,Fasteners,0.0,263.2,62.033199999999994,0.2356884498480243,15,15,False
+554,Tennessee,South,Office Supplies,Envelopes,0.2,177.35200000000003,62.26859999999999,0.35110176372411916,5,5,False
+550,Tennessee,South,Office Supplies,Art,0.2,436.48,62.71349999999998,0.14368012280058645,17,16,False
+486,Oregon,West,Office Supplies,Art,0.2,461.76,65.27599999999998,0.14136347886347883,14,12,False
+150,Idaho,West,Office Supplies,Appliances,0.0,227.84,66.07359999999997,0.28999999999999987,1,1,False
+328,Missouri,Central,Office Supplies,Art,0.0,239.62,66.1596,0.27610216175611385,2,2,False
+267,Massachusetts,East,Office Supplies,Art,0.0,226.05,66.80969999999999,0.2955527538155275,11,10,False
+536,South Carolina,South,Furniture,Furnishings,0.0,540.3100000000001,69.76789999999994,0.1291256871055504,3,3,False
+349,Nebraska,Central,Technology,Accessories,0.0,239.94,69.8835,0.29125406351587896,2,2,False
+81,Connecticut,East,Office Supplies,Art,0.0,191.66,70.4846,0.3677585307315037,8,8,False
+492,Oregon,West,Furniture,Furnishings,0.2,468.464,72.026,0.15374927422384643,5,4,False
+394,New Jersey,East,Office Supplies,Envelopes,0.0,153.7,72.1862,0.4696564736499675,4,4,False
+122,Florida,South,Office Supplies,Envelopes,0.2,211.0,72.56889999999999,0.3439284360189573,9,9,False
+412,New Mexico,West,Technology,Phones,0.2,534.1279999999999,72.94550000000001,0.1365693242069317,4,4,False
+22,Arizona,West,Office Supplies,Envelopes,0.2,214.52,75.1514,0.3503235129591646,7,7,False
+442,North Carolina,South,Office Supplies,Labels,0.2,229.42400000000004,75.86840000000001,0.33069077341516145,9,9,False
+274,Massachusetts,East,Office Supplies,Labels,0.0,165.65,76.66579999999999,0.46281798973739807,5,4,False
+306,Minnesota,Central,Office Supplies,Labels,0.0,161.05,76.8852,0.477399565352375,6,5,False
+168,Illinois,Central,Office Supplies,Labels,0.2,224.872,77.4622,0.3444724109715749,13,13,False
+117,Florida,South,Office Supplies,Art,0.2,710.92,77.93909999999995,0.10963132279300056,29,29,False
+413,New Mexico,West,Office Supplies,Storage,0.0,279.65999999999997,78.1557,0.27946685260673676,4,4,False
+434,North Carolina,South,Office Supplies,Art,0.2,603.392,78.91649999999998,0.1307881112112855,26,24,False
+378,New Hampshire,East,Office Supplies,Art,0.0,266.4,80.30519999999997,0.30144594594594587,2,2,False
+572,Texas,Central,Office Supplies,Fasteners,0.2,332.464,80.7357,0.24284042783579574,24,23,False
+154,Idaho,West,Office Supplies,Paper,0.0,172.86,81.322,0.47045007520536847,4,3,False
+258,Maryland,East,Office Supplies,Labels,0.0,171.51,82.5024,0.4810355081336365,6,6,False
+649,Wisconsin,Central,Office Supplies,Labels,0.0,177.85,82.9425,0.4663621028956986,6,5,False
+17,Arizona,West,Office Supplies,Appliances,0.2,774.432,83.25479999999997,0.10750433866369155,6,6,False
+2,Alabama,South,Office Supplies,Art,0.0,301.21,88.53439999999998,0.29392915241857837,7,7,False
+361,Nevada,West,Technology,Accessories,0.0,229.55,89.4291,0.3895844042692224,2,2,False
+591,Utah,West,Technology,Phones,0.2,615.2239999999999,90.42779999999996,0.14698353770334052,4,4,False
+341,Montana,West,Technology,Accessories,0.0,217.44,91.3248,0.42,1,1,False
+479,Oklahoma,Central,Office Supplies,Paper,0.0,196.62,92.84819999999999,0.472221544095209,7,7,False
+86,Connecticut,East,Furniture,Furnishings,0.0,457.47,92.96109999999999,0.20320698625046446,6,6,False
+213,Kentucky,South,Office Supplies,Art,0.0,350.72,98.606,0.28115305656934303,12,10,False
+339,Missouri,Central,Office Supplies,Supplies,0.0,4216.639999999999,99.05800000000006,0.023492164377324144,2,2,False
+655,Wyoming,West,Furniture,Chairs,0.2,1603.1360000000002,100.19599999999996,0.062499999999999965,1,1,False
+481,Oklahoma,Central,Office Supplies,Storage,0.0,2345.05,100.37230000000001,0.04280177394938274,5,5,False
+209,Kansas,Central,Office Supplies,Storage,0.0,393.67,101.6884,0.2583087357431351,2,2,False
+455,Ohio,East,Office Supplies,Art,0.2,840.104,103.23759999999999,0.12288669021930616,39,37,False
+348,Montana,West,Office Supplies,Storage,0.0,1304.4499999999998,104.9489,0.08045452106251677,4,3,False
+652,Wisconsin,Central,Office Supplies,Storage,0.0,1007.1600000000001,105.39170000000001,0.10464245998649668,9,7,False
+253,Maryland,East,Furniture,Bookcases,0.0,881.8199999999999,105.60539999999997,0.11975845410628018,3,3,False
+489,Oregon,West,Furniture,Chairs,0.2,3841.1600000000003,106.11000000000001,0.027624467608743195,8,7,False
+199,Iowa,Central,Furniture,Tables,0.0,1184.72,106.62480000000004,0.09000000000000002,1,1,False
+153,Idaho,West,Furniture,Furnishings,0.0,432.32,110.03080000000001,0.25451239822353816,3,3,False
+595,Vermont,East,Technology,Accessories,0.0,305.01,110.65129999999999,0.3627792531392413,2,2,False
+541,South Dakota,Central,Office Supplies,Appliances,0.0,416.32,112.40640000000002,0.2700000000000001,1,1,False
+353,Nebraska,Central,Furniture,Chairs,0.0,563.9399999999999,112.788,0.2,1,1,False
+142,Georgia,South,Office Supplies,Labels,0.0,244.92,116.01679999999999,0.473692634329577,7,7,False
+423,New York,East,Office Supplies,Fasteners,0.0,286.51,116.66709999999999,0.40720079578374224,21,21,False
+539,South Carolina,South,Office Supplies,Storage,0.0,2567.21,118.35599999999994,0.04610296781330703,9,6,False
+191,Iowa,Central,Office Supplies,Binders,0.0,247.96,118.7179,0.4787784320051621,8,6,False
+405,New Mexico,West,Office Supplies,Art,0.0,276.7,119.3198,0.43122443079147094,4,4,False
+407,New Mexico,West,Furniture,Chairs,0.2,1114.192,119.58779999999993,0.10733141146229729,2,1,False
+243,Maine,East,Technology,Accessories,0.0,323.4,119.67779999999999,0.3700612244897959,2,2,False
+438,North Carolina,South,Technology,Copiers,0.2,959.968,119.99599999999992,0.12499999999999993,1,1,False
+524,Rhode Island,East,Furniture,Furnishings,0.0,403.49,121.3418,0.30073062529430716,6,4,False
+21,Arizona,West,Furniture,Chairs,0.2,6499.08,121.60489999999946,0.018711094493374363,16,15,False
+177,Indiana,Central,Office Supplies,Art,0.0,389.19,123.6134,0.31761710218659267,12,12,False
+247,Maine,East,Office Supplies,Paper,0.0,259.74,124.6752,0.48,1,1,False
+316,Mississippi,South,Furniture,Bookcases,0.0,504.9,126.22500000000002,0.25000000000000006,1,1,False
+521,Rhode Island,East,Furniture,Bookcases,0.0,562.9399999999999,129.4762,0.23000000000000004,2,2,False
+248,Maine,East,Technology,Phones,0.0,437.85,131.35499999999996,0.2999999999999999,1,1,False
+409,New Mexico,West,Furniture,Furnishings,0.0,587.22,132.0039,0.22479462552365378,2,2,False
+165,Illinois,Central,Office Supplies,Envelopes,0.2,384.104,132.5294,0.34503519880032496,8,8,False
+251,Maryland,East,Office Supplies,Art,0.0,433.69000000000005,132.78640000000001,0.30617814568009405,12,9,False
+383,New Hampshire,East,Office Supplies,Paper,0.0,284.88,132.9606,0.46672493681550126,4,4,False
+540,South Dakota,Central,Technology,Accessories,0.0,392.94000000000005,133.89660000000006,0.34075584058634917,2,2,False
+184,Indiana,Central,Office Supplies,Labels,0.0,276.21000000000004,134.2083,0.4858922558922559,5,5,False
+125,Florida,South,Office Supplies,Labels,0.2,385.808,136.5696,0.35398332849500275,18,17,False
+102,Delaware,East,Furniture,Furnishings,0.0,637.39,137.531,0.215772133230832,10,9,False
+502,Pennsylvania,East,Office Supplies,Art,0.2,1152.16,137.75809999999996,0.11956507776697677,40,38,False
+148,Georgia,South,Furniture,Tables,0.0,864.74,137.94699999999995,0.15952425006360288,2,2,False
+520,Rhode Island,East,Office Supplies,Binders,0.0,292.42,138.0673,0.4721540934272621,6,6,False
+100,Delaware,East,Office Supplies,Envelopes,0.0,299.23,138.33769999999998,0.4623122681549309,4,4,False
+359,Nebraska,Central,Office Supplies,Storage,0.0,1164.5,138.673,0.1190837269214255,3,2,False
+160,Illinois,Central,Office Supplies,Art,0.2,930.032,138.95409999999998,0.14940786983673676,37,35,False
+439,North Carolina,South,Office Supplies,Envelopes,0.2,431.144,139.70609999999996,0.32403582097860567,6,6,False
+18,Arizona,West,Office Supplies,Art,0.2,1389.1519999999998,140.94339999999997,0.10146002741240698,14,12,False
+392,New Jersey,East,Furniture,Bookcases,0.0,2275.88,141.39199999999988,0.062126298398861045,2,2,False
+63,Colorado,West,Office Supplies,Appliances,0.2,1367.296,141.42069999999993,0.10343093229264178,9,9,False
+287,Michigan,Central,Office Supplies,Envelopes,0.0,310.02000000000004,141.629,0.45683826849880643,5,5,False
+437,North Carolina,South,Furniture,Chairs,0.2,2723.592,142.7238999999999,0.05240281951187986,11,11,False
+336,Missouri,Central,Office Supplies,Paper,0.0,301.81,144.0062,0.4771419104734767,11,9,False
+71,Colorado,West,Furniture,Furnishings,0.2,1957.5680000000002,144.13589999999996,0.07363008590250758,24,19,False
+619,Virginia,South,Office Supplies,Supplies,0.0,4575.23,146.57700000000003,0.032037077917394324,6,6,False
+654,Wisconsin,Central,Furniture,Tables,0.0,867.66,147.5021999999999,0.1699999999999999,2,1,False
+207,Kansas,Central,Office Supplies,Paper,0.0,303.0,147.6816,0.4873980198019802,3,3,False
+13,Alabama,South,Office Supplies,Storage,0.0,1249.41,147.85639999999998,0.11834097694111619,3,3,False
+37,Arkansas,South,Office Supplies,Envelopes,0.0,311.7,148.60739999999998,0.4767641963426371,3,3,False
+208,Kansas,Central,Technology,Phones,0.0,756.69,148.70259999999996,0.19651719991013486,3,3,False
+196,Iowa,Central,Office Supplies,Paper,0.0,315.81,149.73549999999997,0.47413159811278927,7,6,False
+534,South Carolina,South,Office Supplies,Envelopes,0.0,318.84999999999997,149.85949999999997,0.47,3,3,False
+553,Tennessee,South,Furniture,Chairs,0.2,5074.888,150.42539999999974,0.02964112705541477,13,12,False
+284,Michigan,Central,Furniture,Bookcases,0.0,810.2,150.6456,0.18593631202172303,4,4,False
+596,Vermont,East,Office Supplies,Appliances,0.0,542.9399999999999,152.02319999999995,0.2799999999999999,1,1,False
+484,Oregon,West,Technology,Accessories,0.2,1160.304,152.1385,0.1311195169541775,10,9,False
+441,North Carolina,South,Furniture,Furnishings,0.2,1791.104,153.04469999999998,0.08544713204816692,19,19,False
+255,Maryland,East,Office Supplies,Envelopes,0.0,337.15,153.08999999999997,0.45407088832863707,2,2,False
+371,Nevada,West,Office Supplies,Paper,0.0,317.78000000000003,153.59199999999998,0.48332808861476484,7,6,False
+592,Utah,West,Office Supplies,Storage,0.0,901.58,153.7654,0.1705510326316023,6,5,False
+307,Minnesota,Central,Office Supplies,Paper,0.0,319.88,155.50740000000002,0.4861429285982244,11,10,False
+368,Nevada,West,Furniture,Furnishings,0.0,463.38,155.79509999999996,0.3362145539298199,5,5,False
+342,Montana,West,Office Supplies,Binders,0.2,502.368,157.39839999999998,0.3133129498694184,3,3,False
+95,Delaware,East,Office Supplies,Art,0.0,535.35,159.63119999999998,0.2981810030820958,11,10,False
+134,Georgia,South,Office Supplies,Art,0.0,526.68,159.71279999999996,0.30324447482342215,17,15,False
+537,South Carolina,South,Office Supplies,Paper,0.0,331.85,159.8973,0.4818360705137863,6,6,False
+227,Kentucky,South,Furniture,Tables,0.0,842.94,160.1586,0.19,1,1,False
+357,Nebraska,Central,Office Supplies,Paper,0.0,332.78999999999996,160.3182,0.48173983593257014,8,7,False
+452,North Dakota,Central,Office Supplies,Storage,0.0,704.76,162.09479999999996,0.22999999999999995,1,1,False
+314,Mississippi,South,Office Supplies,Art,0.0,606.6600000000001,162.55560000000003,0.26795173573335973,5,4,False
+68,Colorado,West,Technology,Copiers,0.2,439.992,164.997,0.375,1,1,False
+350,Nebraska,Central,Office Supplies,Appliances,0.0,500.57000000000005,170.1778,0.3399680364384601,4,3,False
+35,Arkansas,South,Furniture,Bookcases,0.0,638.82,172.4814,0.27,1,1,False
+93,Delaware,East,Technology,Accessories,0.0,561.69,175.7004,0.312806708326657,5,5,False
+82,Connecticut,East,Office Supplies,Binders,0.0,371.87,176.28,0.47403662570253047,14,13,False
+221,Kentucky,South,Office Supplies,Labels,0.0,363.40000000000003,176.8009,0.4865187121629059,6,5,False
+313,Mississippi,South,Office Supplies,Appliances,0.0,615.55,176.9454,0.2874590203882707,3,3,False
+599,Vermont,East,Furniture,Chairs,0.0,715.2,178.79999999999998,0.24999999999999997,1,1,False
+370,Nevada,West,Technology,Machines,0.2,2396.4,179.73000000000013,0.07500000000000005,1,1,False
+183,Indiana,Central,Furniture,Furnishings,0.0,1514.48,180.7913999999999,0.11937523110242453,13,13,False
+526,Rhode Island,East,Technology,Phones,0.0,864.78,181.31130000000002,0.20966176368556166,3,3,False
+239,Louisiana,South,Technology,Phones,0.0,683.0699999999999,181.472,0.26567116108158756,3,2,False
+320,Mississippi,South,Furniture,Furnishings,0.0,430.49,182.163,0.4231526864735534,5,5,False
+308,Minnesota,Central,Technology,Phones,0.0,774.8900000000001,187.08220000000003,0.24143065467356659,3,3,False
+476,Oklahoma,Central,Office Supplies,Envelopes,0.0,407.4,188.2194,0.4620014727540501,2,2,False
+143,Georgia,South,Technology,Machines,0.0,396.0,190.08,0.48000000000000004,1,1,False
+79,Connecticut,East,Technology,Accessories,0.0,657.6899999999999,193.7547,0.2945988231537655,5,5,False
+39,Arkansas,South,Furniture,Furnishings,0.0,573.49,194.13080000000002,0.33850773335193296,5,5,False
+460,Ohio,East,Office Supplies,Envelopes,0.2,562.0,194.6051,0.3462724199288256,12,11,False
+334,Missouri,Central,Furniture,Furnishings,0.0,941.0799999999999,195.236,0.20745951460024653,7,7,False
+53,California,West,Office Supplies,Fasteners,0.0,479.53000000000003,195.7505,0.4082132504744228,42,42,False
+574,Texas,Central,Office Supplies,Labels,0.2,583.6,200.40199999999996,0.34338930774503074,30,29,False
+510,Pennsylvania,East,Office Supplies,Labels,0.2,598.304,201.42079999999999,0.336652938974167,23,22,False
+549,Tennessee,South,Office Supplies,Appliances,0.2,1914.9840000000002,203.16730000000004,0.10609347127704462,10,10,False
+390,New Jersey,East,Office Supplies,Art,0.0,742.8000000000001,203.29289999999997,0.27368457189014533,11,11,False
+259,Maryland,East,Technology,Machines,0.0,464.97,209.2365,0.45,1,1,False
+473,Oklahoma,Central,Office Supplies,Binders,0.0,445.44,209.75369999999998,0.47089102909482755,11,10,False
+105,Delaware,East,Office Supplies,Paper,0.0,440.77,211.0402,0.4787989200716927,12,10,False
+139,Georgia,South,Office Supplies,Envelopes,0.0,446.57,211.05609999999996,0.47261593927043904,8,7,False
+585,Utah,West,Furniture,Bookcases,0.0,2699.8,218.26239999999981,0.0808439143640269,2,2,False
+639,West Virginia,East,Office Supplies,Paper,0.0,447.84,219.4416,0.49,1,1,False
+337,Missouri,Central,Technology,Phones,0.0,564.9200000000001,222.7843,0.39436433477306515,2,2,False
+62,Colorado,West,Technology,Accessories,0.2,2287.992,224.55939999999993,0.09814693408018905,15,14,False
+16,Arizona,West,Technology,Accessories,0.2,3396.16,224.76939999999976,0.06618339536417595,22,19,False
+317,Mississippi,South,Furniture,Chairs,0.0,866.4,225.264,0.26,1,1,False
+3,Alabama,South,Office Supplies,Binders,0.0,466.82,227.7688,0.4879156848464076,10,9,False
+233,Louisiana,South,Furniture,Chairs,0.0,802.34,228.78879999999995,0.2851519306029862,3,3,False
+614,Virginia,South,Office Supplies,Labels,0.0,474.77,230.80349999999999,0.4861374981570023,12,11,False
+323,Mississippi,South,Technology,Phones,0.0,812.6700000000001,231.7521,0.2851736867363136,3,2,False
+373,Nevada,West,Office Supplies,Storage,0.0,1325.85,238.6529999999999,0.17999999999999994,1,1,False
+237,Louisiana,South,Technology,Machines,0.0,479.97,239.985,0.5,1,1,False
+372,Nevada,West,Technology,Phones,0.2,2511.0560000000005,243.68649999999985,0.09704542630670117,3,3,False
+628,Washington,West,Office Supplies,Envelopes,0.0,512.72,245.7604,0.4793267280386956,6,6,False
+532,South Carolina,South,Office Supplies,Binders,0.0,515.08,246.60879999999997,0.4787776656053428,8,6,False
+384,New Hampshire,East,Technology,Phones,0.0,824.95,247.48499999999996,0.29999999999999993,1,1,False
+9,Alabama,South,Office Supplies,Labels,0.0,506.49,247.7319,0.48911508618136584,2,2,False
+496,Oregon,West,Technology,Phones,0.2,4451.336,248.15029999999996,0.0557473756193646,15,14,False
+326,Missouri,Central,Technology,Accessories,0.0,1021.68,254.97930000000002,0.24956865163260517,8,7,False
+606,Virginia,South,Office Supplies,Art,0.0,876.32,258.97529999999995,0.29552594942486754,19,16,False
+273,Massachusetts,East,Furniture,Furnishings,0.0,833.74,259.151,0.3108295151965841,14,10,False
+381,New Hampshire,East,Furniture,Furnishings,0.0,833.3100000000001,259.2534,0.3111127911581524,5,5,False
+584,Utah,West,Office Supplies,Binders,0.2,759.592,262.2578,0.34526140349029477,12,9,False
+404,New Mexico,West,Technology,Accessories,0.0,1163.8,264.3373,0.22713292661969414,5,5,False
+430,New York,East,Office Supplies,Supplies,0.0,2563.63,268.0359,0.1045532701676919,25,24,False
+525,Rhode Island,East,Office Supplies,Paper,0.0,569.68,270.4294,0.47470404437578995,13,11,False
+311,Minnesota,Central,Furniture,Tables,0.0,1300.46,270.43820000000005,0.2079558002552943,2,2,False
+265,Massachusetts,East,Technology,Accessories,0.0,896.91,271.6026,0.3028203498678797,6,6,False
+302,Minnesota,Central,Technology,Copiers,0.0,549.99,274.995,0.5,1,1,False
+608,Virginia,South,Furniture,Bookcases,0.0,1248.13,278.78919999999994,0.22336551481015593,4,4,False
+203,Kansas,Central,Office Supplies,Binders,0.0,611.92,279.44319999999993,0.4566662308798535,3,3,False
+509,Pennsylvania,East,Furniture,Furnishings,0.2,7347.816000000001,282.21199999999965,0.03840760302108812,64,57,False
+644,Wisconsin,Central,Office Supplies,Binders,0.0,588.39,282.7635,0.48057155967980425,13,12,False
+24,Arizona,West,Furniture,Furnishings,0.2,2511.648,284.5496999999999,0.11329202977487288,21,20,False
+231,Louisiana,South,Office Supplies,Binders,0.0,628.52,290.54139999999995,0.46226277604531274,6,6,False
+74,Colorado,West,Office Supplies,Paper,0.2,883.216,298.5882,0.33806928316516,19,16,False
+411,New Mexico,West,Office Supplies,Paper,0.0,625.78,298.9394,0.47770686183642813,7,5,False
+282,Michigan,Central,Office Supplies,Art,0.0,1004.86,301.36519999999996,0.2999076488267022,25,24,False
+648,Wisconsin,Central,Furniture,Furnishings,0.0,1020.04,303.2688,0.29731069369828633,12,12,False
+582,Utah,West,Office Supplies,Appliances,0.0,1089.75,305.1300000000001,0.2800000000000001,1,1,False
+560,Tennessee,South,Technology,Phones,0.2,3656.2400000000002,305.2247,0.08348048815176246,9,8,False
+556,Tennessee,South,Furniture,Furnishings,0.2,1699.248,310.6829000000001,0.18283552489101065,22,20,False
+396,New Jersey,East,Furniture,Furnishings,0.0,950.97,311.3153,0.3273660578146524,14,14,False
+5,Alabama,South,Technology,Copiers,0.0,899.97,314.9895,0.35000000000000003,1,1,False
+566,Texas,Central,Office Supplies,Art,0.2,2369.5280000000002,316.3537999999999,0.13350920520880102,71,66,False
+111,District of Columbia,East,Furniture,Chairs,0.0,1267.53,316.8825,0.25,1,1,False
+197,Iowa,Central,Technology,Phones,0.0,1154.3,318.36819999999994,0.2758106211556787,4,4,False
+623,Washington,West,Office Supplies,Art,0.0,1063.84,320.1679,0.3009549368326064,34,31,False
+493,Oregon,West,Office Supplies,Labels,0.2,902.1120000000001,320.33279999999996,0.35509205065446414,6,5,False
+338,Missouri,Central,Office Supplies,Storage,0.0,1791.94,322.2778,0.17984854403607264,6,5,False
+495,Oregon,West,Office Supplies,Paper,0.2,953.352,324.058,0.3399143233559063,21,16,False
+169,Illinois,Central,Technology,Machines,0.3,3756.305,326.0394999999998,0.0867979304129989,5,5,False
+602,Vermont,East,Technology,Phones,0.0,1294.75,336.635,0.26,1,1,False
+98,Delaware,East,Furniture,Chairs,0.0,1559.92,342.13819999999987,0.2193306066977793,2,2,False
+322,Mississippi,South,Office Supplies,Paper,0.0,725.28,344.0696,0.47439554378998455,7,5,False
+388,New Jersey,East,Technology,Accessories,0.0,1023.56,349.6286,0.34158095275313616,9,9,False
+116,Florida,South,Office Supplies,Appliances,0.2,3558.44,349.75639999999964,0.09828925034565698,18,17,False
+419,New York,East,Furniture,Bookcases,0.2,22777.144000000004,350.87439999999873,0.015404670576785162,32,30,False
+90,Connecticut,East,Office Supplies,Storage,0.0,2428.2599999999998,355.60810000000004,0.1464456442061394,11,10,False
+594,Utah,West,Furniture,Tables,0.0,1957.38,358.92240000000004,0.18336878889127303,2,2,False
+379,New Hampshire,East,Office Supplies,Binders,0.0,763.4799999999999,359.06479999999993,0.47030020432755276,3,3,False
+340,Missouri,Central,Furniture,Tables,0.0,1721.54,361.5233999999999,0.20999999999999996,2,2,False
+559,Tennessee,South,Office Supplies,Paper,0.2,1060.3200000000002,363.8583,0.34315895201448615,26,25,False
+242,Louisiana,South,Furniture,Tables,0.0,1590.5,368.3944000000001,0.23162175416535685,2,2,False
+36,Arkansas,South,Furniture,Chairs,0.0,1673.2800000000002,369.54899999999986,0.22085305507745256,2,2,False
+212,Kentucky,South,Office Supplies,Appliances,0.0,1335.62,371.1852,0.2779122804390471,8,8,False
+88,Connecticut,East,Office Supplies,Paper,0.0,788.22,378.8328,0.48061810154525386,12,11,False
+41,Arkansas,South,Office Supplies,Paper,0.0,805.52,382.76259999999996,0.47517454563511763,12,10,False
+124,Florida,South,Furniture,Furnishings,0.2,3746.192,391.75959999999986,0.1045754195193412,47,38,False
+192,Iowa,Central,Furniture,Chairs,0.0,1408.1,394.268,0.27999999999999997,1,1,False
+470,Oklahoma,Central,Technology,Accessories,0.0,1817.47,395.6858999999999,0.21771247943569902,5,5,False
+121,Florida,South,Technology,Copiers,0.2,1439.968,401.9917999999999,0.27916717593724294,2,2,False
+355,Nebraska,Central,Furniture,Furnishings,0.0,1380.76,405.6483999999999,0.29378632057707343,3,3,False
+603,Vermont,East,Office Supplies,Storage,0.0,1564.29,406.71539999999993,0.25999999999999995,1,1,False
+325,Mississippi,South,Furniture,Tables,0.0,2516.06,411.16760000000016,0.16341724760140863,2,2,False
+181,Indiana,Central,Office Supplies,Envelopes,0.0,889.56,412.1747,0.4633467107333963,7,7,False
+477,Oklahoma,Central,Furniture,Furnishings,0.0,1444.92,412.4663999999999,0.28545967942861883,5,4,False
+538,South Carolina,South,Technology,Phones,0.0,1452.7299999999998,412.70470000000006,0.2840890599078976,4,3,False
+189,Indiana,Central,Furniture,Tables,0.0,3518.84,412.92179999999996,0.11734600038649098,3,3,False
+269,Massachusetts,East,Furniture,Bookcases,0.0,1873.72,414.0936,0.22100078987255298,6,6,False
+137,Georgia,South,Furniture,Chairs,0.0,1858.1599999999999,414.36289999999997,0.22299635122917294,6,6,False
+249,Maryland,East,Technology,Accessories,0.0,1123.8100000000002,415.4555000000001,0.36968482216744825,5,5,False
+507,Pennsylvania,East,Office Supplies,Envelopes,0.2,1234.064,417.10029999999995,0.33798919667051297,18,18,False
+157,Idaho,West,Furniture,Tables,0.0,1824.81,419.70630000000006,0.23000000000000004,2,2,False
+11,Alabama,South,Office Supplies,Paper,0.0,883.02,424.2124,0.48041086272111616,8,7,False
+290,Michigan,Central,Office Supplies,Labels,0.0,880.5600000000001,430.9921,0.48945228036703914,8,8,False
+289,Michigan,Central,Furniture,Furnishings,0.0,1916.26,435.3779,0.227201893271268,18,16,False
+375,Nevada,West,Furniture,Tables,0.0,3355.48,437.18919999999986,0.13029110589245052,2,2,False
+459,Ohio,East,Technology,Copiers,0.4,3839.934,446.99229999999983,0.11640624552401156,4,4,False
+586,Utah,West,Technology,Copiers,0.0,1499.95,449.9849999999999,0.29999999999999993,1,1,False
+220,Kentucky,South,Furniture,Furnishings,0.0,1788.37,456.66049999999996,0.25535012329663326,12,11,False
+83,Connecticut,East,Furniture,Bookcases,0.0,1682.7400000000002,456.677,0.2713889252053199,2,2,False
+315,Mississippi,South,Office Supplies,Binders,0.0,966.85,457.6871,0.4733796348968299,9,7,False
+271,Massachusetts,East,Technology,Copiers,0.0,1199.98,467.9922,0.39,1,1,False
+471,Oklahoma,Central,Office Supplies,Appliances,0.0,1491.2199999999998,471.5794999999999,0.316237376108153,4,4,False
+80,Connecticut,East,Office Supplies,Appliances,0.0,1479.18,471.86969999999997,0.3190076258467529,5,5,False
+97,Delaware,East,Furniture,Bookcases,0.0,2051.73,476.9343,0.2324547089529324,4,4,False
+286,Michigan,Central,Technology,Copiers,0.0,1149.97,484.988,0.4217396975573276,2,2,False
+433,North Carolina,South,Office Supplies,Appliances,0.2,4137.552000000001,485.6745999999998,0.11738211386829694,17,17,False
+454,Ohio,East,Office Supplies,Appliances,0.2,4807.536,486.2552999999997,0.10114439080643384,23,22,False
+250,Maryland,East,Office Supplies,Appliances,0.0,1589.16,494.23019999999997,0.3110009061390923,6,6,False
+223,Kentucky,South,Office Supplies,Paper,0.0,1058.5499999999997,502.2111,0.4744330452033443,13,11,False
+260,Maryland,East,Office Supplies,Paper,0.0,1039.35,504.9161,0.48579987492182614,13,11,False
+611,Virginia,South,Office Supplies,Envelopes,0.0,1084.08,506.40889999999996,0.4671324072024205,10,10,False
+462,Ohio,East,Furniture,Furnishings,0.2,4088.6240000000003,517.4190999999998,0.12655091297218815,46,44,False
+75,Colorado,West,Technology,Phones,0.2,4924.656,523.1144999999998,0.10622356160511512,16,13,False
+393,New Jersey,East,Furniture,Chairs,0.0,2661.9,530.9126,0.19944873962207446,8,7,False
+533,South Carolina,South,Furniture,Chairs,0.0,2537.94,543.076,0.2139829940818144,3,3,False
+618,Virginia,South,Office Supplies,Storage,0.0,3768.58,545.2807999999999,0.1446913160925335,20,19,False
+590,Utah,West,Office Supplies,Paper,0.0,1152.28,553.4284,0.4802898601034471,11,9,False
+188,Indiana,Central,Office Supplies,Storage,0.0,4120.43,555.2860999999999,0.13476411442495076,15,13,False
+15,Alabama,South,Furniture,Tables,0.0,2376.46,556.0730000000001,0.23399215640069687,3,3,False
+67,Colorado,West,Furniture,Chairs,0.2,8244.816,556.5215999999997,0.06749957791659628,14,13,False
+297,Minnesota,Central,Technology,Accessories,0.0,1520.38,556.7236,0.36617398282008445,8,6,False
+631,Washington,West,Office Supplies,Labels,0.0,1153.8899999999999,560.5303,0.4857744672369117,17,17,False
+309,Minnesota,Central,Office Supplies,Storage,0.0,3397.73,561.3061999999999,0.16520035435423058,14,13,False
+625,Washington,West,Furniture,Bookcases,0.0,3144.46,570.0054,0.18127290536371904,10,10,False
+175,Indiana,Central,Technology,Accessories,0.0,2279.03,570.2304,0.2502075005594485,13,11,False
+616,Virginia,South,Office Supplies,Paper,0.0,1205.7,570.4312,0.4731120510906527,26,24,False
+42,Arkansas,South,Technology,Phones,0.0,2136.81,577.7685999999999,0.2703883826825969,4,4,False
+483,Oklahoma,Central,Furniture,Tables,0.0,2533.84,579.883,0.22885541312790073,4,4,False
+89,Connecticut,East,Technology,Phones,0.0,2133.34,587.1789,0.27523924925234605,6,6,False
+622,Washington,West,Office Supplies,Appliances,0.0,1969.35,591.8607999999999,0.3005361159773529,17,16,False
+228,Louisiana,South,Technology,Accessories,0.0,1667.8,593.5581999999999,0.35589291281928287,7,7,False
+425,New York,East,Office Supplies,Labels,0.0,1290.57,611.1723,0.47356772588856083,45,41,False
+141,Georgia,South,Furniture,Furnishings,0.0,1805.08,613.8860999999999,0.34008802933941984,19,18,False
+632,Washington,West,Technology,Machines,0.2,6066.152,615.0637000000002,0.10139272804242297,7,7,False
+217,Kentucky,South,Technology,Copiers,0.0,1399.98,629.991,0.45,1,1,False
+113,District of Columbia,East,Technology,Machines,0.0,1379.92,648.5624,0.47,1,1,False
+645,Wisconsin,Central,Furniture,Bookcases,0.0,3873.96,650.763,0.1679839234271908,6,6,False
+376,New Hampshire,East,Technology,Accessories,0.0,2811.85,655.2223,0.23302178281202768,4,3,False
+4,Alabama,South,Furniture,Chairs,0.0,3915.54,660.9663999999999,0.16880593736751506,5,5,False
+650,Wisconsin,Central,Office Supplies,Paper,0.0,1392.4599999999998,665.3864,0.4778495612082215,9,8,False
+399,New Jersey,East,Office Supplies,Paper,0.0,1421.76,683.3578,0.48064216182759395,18,15,False
+32,Arkansas,South,Technology,Accessories,0.0,1788.44,683.6698,0.3822715886470891,11,8,False
+626,Washington,West,Furniture,Chairs,0.2,16386.872,692.9452999999991,0.0422866121124275,34,31,False
+501,Pennsylvania,East,Office Supplies,Appliances,0.2,4663.280000000001,694.2149999999999,0.1488683930623938,23,18,False
+84,Connecticut,East,Furniture,Chairs,0.0,2782.42,696.2570000000001,0.250234328390394,3,3,False
+261,Maryland,East,Technology,Phones,0.0,2577.26,698.1856,0.2709022760606225,8,7,False
+634,Washington,West,Technology,Phones,0.2,9101.568,698.5819999999998,0.07675402743790959,35,32,False
+211,Kentucky,South,Technology,Accessories,0.0,2976.2999999999997,703.4852000000001,0.2363623290662904,8,8,False
+12,Alabama,South,Technology,Phones,0.0,2706.28,707.1788000000001,0.2613102857058398,6,5,False
+465,Ohio,East,Office Supplies,Paper,0.2,2146.288,744.0522,0.34666931930849915,56,48,False
+115,Florida,South,Technology,Accessories,0.2,5861.944,750.0682999999997,0.12795555535842712,27,25,False
+610,Virginia,South,Technology,Copiers,0.0,1599.92,751.9624,0.47,1,1,False
+312,Mississippi,South,Technology,Accessories,0.0,2009.66,754.6503,0.3755114297940945,8,8,False
+642,Wisconsin,Central,Office Supplies,Appliances,0.0,2710.5699999999997,778.0820000000001,0.2870547523214675,7,7,False
+401,New Jersey,East,Office Supplies,Storage,0.0,4669.08,779.1128000000001,0.16686644906491216,9,9,False
+512,Pennsylvania,East,Office Supplies,Paper,0.2,2378.304,813.0178999999999,0.3418477621027421,66,60,False
+0,Alabama,South,Technology,Accessories,0.0,2322.83,816.4345999999999,0.3514827172027225,6,6,False
+28,Arizona,West,Technology,Phones,0.2,7388.776,818.6727999999997,0.11079951537304687,23,20,False
+432,North Carolina,South,Technology,Accessories,0.2,3506.632,821.0744,0.23414900679626488,19,17,False
+262,Maryland,East,Office Supplies,Storage,0.0,3541.98,822.4622999999997,0.2322041061779004,7,5,False
+422,New York,East,Office Supplies,Envelopes,0.0,1776.8300000000002,831.0267,0.4677018623053415,32,32,False
+275,Massachusetts,East,Office Supplies,Paper,0.0,1774.09,831.8217,0.4688723232755948,27,22,False
+291,Michigan,Central,Technology,Machines,0.1,3410.955,832.0842999999996,0.2439446723864723,2,2,False
+127,Florida,South,Office Supplies,Paper,0.2,2425.56,833.0003999999999,0.34342601296195513,51,45,False
+27,Arizona,West,Office Supplies,Paper,0.2,2440.76,842.0393999999999,0.3449906586473065,31,27,False
+571,Texas,Central,Office Supplies,Envelopes,0.2,2530.648,848.1759999999998,0.3351615870717697,30,30,False
+225,Kentucky,South,Office Supplies,Storage,0.0,4822.43,855.3874,0.17737684113610772,14,14,False
+445,North Carolina,South,Technology,Phones,0.2,8995.864,860.4341999999997,0.09564775545739683,27,27,False
+60,California,West,Office Supplies,Supplies,0.0,15720.95,862.2002999999994,0.05484403296238455,43,42,False
+298,Minnesota,Central,Office Supplies,Appliances,0.0,2844.13,863.8521,0.3037315804833112,6,6,False
+136,Georgia,South,Furniture,Bookcases,0.0,3793.5,883.2619999999997,0.23283563991037293,5,5,False
+132,Georgia,South,Technology,Accessories,0.0,3657.87,887.8450999999999,0.24272188459403968,19,18,False
+186,Indiana,Central,Office Supplies,Paper,0.0,1879.52,888.3797,0.47266307355069376,27,21,False
+358,Nebraska,Central,Technology,Phones,0.0,3045.8,891.6314999999998,0.29274131591043395,6,5,False
+522,Rhode Island,East,Furniture,Chairs,0.0,3194.08,892.7267999999999,0.2794941892501127,4,4,False
+329,Missouri,Central,Office Supplies,Binders,0.0,1875.6200000000001,898.4064000000001,0.478991693413378,11,9,False
+444,North Carolina,South,Office Supplies,Paper,0.2,2594.264,898.8402999999998,0.34647217862175933,36,32,False
+500,Pennsylvania,East,Technology,Accessories,0.2,7299.28,898.9686999999994,0.12315854440437954,45,41,False
+257,Maryland,East,Furniture,Furnishings,0.0,3147.7200000000003,901.648,0.2864447917858005,15,13,False
+417,New York,East,Office Supplies,Art,0.0,2983.6,902.0926,0.3023503820887518,90,80,False
+604,Virginia,South,Technology,Accessories,0.0,2935.8199999999997,917.6551999999999,0.3125720241704192,12,12,False
+517,Rhode Island,East,Technology,Accessories,0.0,2209.7599999999998,924.7622000000001,0.41848988125407294,4,4,False
+277,Massachusetts,East,Office Supplies,Storage,0.0,4288.78,933.1968999999997,0.21759029374320896,12,12,False
+294,Michigan,Central,Office Supplies,Storage,0.0,6187.4800000000005,940.4051999999999,0.1519851700530749,24,20,False
+292,Michigan,Central,Office Supplies,Paper,0.0,2010.74,961.3904,0.47812765449535993,31,26,False
+270,Massachusetts,East,Furniture,Chairs,0.0,4245.6,962.1228000000001,0.22661644997173544,6,6,False
+254,Maryland,East,Furniture,Chairs,0.0,4329.91,969.6909999999998,0.2239517680506061,8,8,False
+158,Illinois,Central,Technology,Accessories,0.2,5535.696,981.8643999999997,0.1773696387951939,33,33,False
+106,Delaware,East,Technology,Phones,0.0,3434.59,992.3589,0.2889308185256464,13,12,False
+266,Massachusetts,East,Office Supplies,Appliances,0.0,3347.75,999.7392999999997,0.2986302143230527,6,6,False
+268,Massachusetts,East,Office Supplies,Binders,0.0,2105.19,1000.7748,0.47538454961309906,17,16,False
+598,Vermont,East,Furniture,Bookcases,0.0,4404.9,1013.127,0.23,1,1,False
+276,Massachusetts,East,Technology,Phones,0.0,3629.7400000000002,1016.1552999999999,0.2799526412360113,12,11,False
+613,Virginia,South,Furniture,Furnishings,0.0,4709.43,1024.62,0.21756773112669683,26,23,False
+630,Washington,West,Furniture,Furnishings,0.0,3426.5,1054.8443,0.30784891288486793,49,48,False
+133,Georgia,South,Office Supplies,Appliances,0.0,3432.1499999999996,1058.5831999999998,0.3084315079469137,9,8,False
+281,Michigan,Central,Office Supplies,Appliances,0.1,4324.149,1086.0807999999997,0.25116636822644167,16,16,False
+296,Michigan,Central,Furniture,Tables,0.0,5716.58,1087.8774999999998,0.19030215618429197,7,7,False
+651,Wisconsin,Central,Technology,Phones,0.0,4002.6800000000003,1095.8977,0.27379098504002314,11,9,False
+564,Texas,Central,Technology,Accessories,0.2,11328.560000000001,1105.8500999999997,0.09761612243745009,81,76,False
+475,Oklahoma,Central,Furniture,Chairs,0.0,3963.38,1106.7991999999997,0.27925639227124316,5,5,False
+146,Georgia,South,Office Supplies,Storage,0.0,7381.29,1109.9142,0.15036859410753403,15,13,False
+400,New Jersey,East,Technology,Phones,0.0,3577.75,1110.6172000000001,0.31042336664104536,9,8,False
+107,Delaware,East,Office Supplies,Storage,0.0,4179.42,1119.3837000000003,0.2678323068751167,7,7,False
+96,Delaware,East,Office Supplies,Binders,0.0,2434.0299999999997,1159.597,0.47641031540285045,16,14,False
+170,Illinois,Central,Office Supplies,Paper,0.2,3455.8160000000003,1183.6765999999998,0.3425172520759206,60,55,False
+480,Oklahoma,Central,Technology,Phones,0.0,4550.98,1185.2144,0.2604305885765264,9,9,False
+389,New Jersey,East,Office Supplies,Appliances,0.0,4204.36,1203.438,0.28623571720785096,13,12,False
+327,Missouri,Central,Office Supplies,Appliances,0.0,3670.4300000000003,1226.0318000000002,0.33402947338595207,7,6,False
+176,Indiana,Central,Office Supplies,Appliances,0.0,4160.15,1259.8645,0.3028411235171809,10,10,False
+527,Rhode Island,East,Office Supplies,Storage,0.0,4626.0599999999995,1311.6043,0.28352513802242085,9,9,False
+128,Florida,South,Technology,Phones,0.2,15092.184000000001,1354.7557,0.08976538451956323,34,33,False
+34,Arkansas,South,Office Supplies,Binders,0.0,2889.83,1356.2051999999999,0.4693027617541516,10,8,False
+609,Virginia,South,Furniture,Chairs,0.0,5321.92,1362.231,0.25596607991100956,9,9,False
+55,California,West,Office Supplies,Labels,0.0,2899.14,1370.1191000000001,0.47259501093427714,83,80,False
+343,Montana,West,Technology,Copiers,0.0,2999.95,1379.977,0.4600000000000001,1,1,False
+224,Kentucky,South,Technology,Phones,0.0,5114.36,1406.3602,0.27498263712370663,13,11,False
+222,Kentucky,South,Technology,Machines,0.0,3080.0,1416.7999999999995,0.45999999999999985,1,1,False
+605,Virginia,South,Office Supplies,Appliances,0.0,4305.53,1417.7424999999998,0.32928408349262456,14,14,False
+144,Georgia,South,Office Supplies,Paper,0.0,2957.24,1417.8822,0.4794613220435271,31,24,False
+49,California,West,Furniture,Bookcases,0.15,27558.5215,1418.9914999999994,0.05149011713128367,52,51,False
+138,Georgia,South,Technology,Copiers,0.0,2999.95,1439.976,0.4800000000000001,1,1,False
+453,Ohio,East,Technology,Accessories,0.2,8222.872,1452.8700999999999,0.17668645456234755,43,41,False
+10,Alabama,South,Technology,Machines,0.0,3040.0,1459.2,0.48000000000000004,1,1,False
+641,Wisconsin,Central,Technology,Accessories,0.0,4795.4800000000005,1501.172,0.31303894500654783,14,14,False
+52,California,West,Office Supplies,Envelopes,0.0,3237.34,1529.4161,0.4724298652597502,46,45,False
+187,Indiana,Central,Technology,Phones,0.0,5460.39,1558.0268999999998,0.28533253119282687,13,11,False
+633,Washington,West,Office Supplies,Paper,0.0,3318.7400000000002,1570.4083,0.4731941339182943,59,51,False
+179,Indiana,Central,Furniture,Chairs,0.0,6463.39,1587.5620999999999,0.2456237516226005,7,7,False
+252,Maryland,East,Office Supplies,Binders,0.0,3225.05,1595.5108,0.4947243608626223,14,12,False
+47,California,West,Office Supplies,Art,0.0,5495.66,1614.8365,0.29383850165403247,165,150,False
+570,Texas,Central,Technology,Copiers,0.2,5639.872,1629.9615000000001,0.2890068249775882,5,5,False
+391,New Jersey,East,Office Supplies,Binders,0.0,3529.5200000000004,1649.0787999999998,0.46722466511026983,15,14,False
+280,Michigan,Central,Technology,Accessories,0.0,4932.55,1655.0608000000002,0.3355385753819019,15,14,False
+171,Illinois,Central,Technology,Phones,0.2,16771.784,1682.6886999999992,0.10032854584819356,42,40,False
+301,Minnesota,Central,Furniture,Chairs,0.0,6079.37,1703.9146999999996,0.2802781702709326,6,6,False
+635,Washington,West,Office Supplies,Storage,0.0,13163.2,1731.6766,0.13155437887443783,49,44,False
+506,Pennsylvania,East,Technology,Copiers,0.4,13079.867999999999,1735.9828999999988,0.13272174459252944,5,5,False
+214,Kentucky,South,Office Supplies,Binders,0.0,3695.82,1740.0312,0.470810591424907,22,17,False
+364,Nevada,West,Office Supplies,Binders,0.2,4897.184,1768.4430000000002,0.3611142648509838,7,7,False
+293,Michigan,Central,Technology,Phones,0.0,6731.28,1810.1694,0.26891904660034943,27,24,False
+178,Indiana,Central,Office Supplies,Binders,0.0,4011.88,1827.1562,0.45543640388047496,19,18,False
+164,Illinois,Central,Technology,Copiers,0.2,5919.888000000001,1831.9665999999997,0.3094596722100147,4,4,False
+145,Georgia,South,Technology,Phones,0.0,7004.7300000000005,1881.7586000000001,0.2686411324919019,16,13,False
+607,Virginia,South,Office Supplies,Binders,0.0,4794.240000000001,2268.9879,0.47327374098918695,25,23,False
+576,Texas,Central,Office Supplies,Paper,0.2,6983.456,2422.9703,0.3469586262160168,147,130,False
+50,California,West,Furniture,Chairs,0.2,63079.368,2435.971499999998,0.03861756351141625,130,121,False
+332,Missouri,Central,Technology,Copiers,0.0,5499.92,2536.9631999999997,0.4612727457853932,2,2,False
+620,Virginia,South,Furniture,Tables,0.0,14042.470000000001,2538.6862999999994,0.1807863075370643,13,12,False
+216,Kentucky,South,Furniture,Chairs,0.0,9233.57,2552.2605,0.27641101978974547,16,14,False
+398,New Jersey,East,Technology,Machines,0.0,9899.85,2709.9522,0.27373669298019665,3,3,False
+646,Wisconsin,Central,Furniture,Chairs,0.0,11494.95,2737.4205,0.23814114023984445,12,10,False
+617,Virginia,South,Technology,Phones,0.0,10649.5,2847.8657,0.2674177848725292,21,19,False
+615,Virginia,South,Technology,Machines,0.0,8959.92,2890.2710999999995,0.3225777797123188,2,2,False
+424,New York,East,Furniture,Furnishings,0.0,10182.32,2931.4346,0.2878945662678054,100,91,False
+285,Michigan,Central,Furniture,Chairs,0.0,13878.06,3001.6506,0.21628747822101937,21,17,False
+577,Texas,Central,Technology,Phones,0.2,28589.568000000003,3222.4607999999994,0.11271456777521084,80,74,False
+523,Rhode Island,East,Technology,Copiers,0.0,7399.87,3491.9388,0.4718919116146635,2,2,False
+416,New York,East,Office Supplies,Appliances,0.0,13276.38,3807.7644999999998,0.2868074354605698,44,44,False
+427,New York,East,Office Supplies,Paper,0.0,8457.26,4023.0798999999997,0.4756954261782184,150,135,False
+56,California,West,Technology,Machines,0.2,29492.016000000003,4175.408699999997,0.14157759510234894,23,23,False
+621,Washington,West,Technology,Accessories,0.0,15119.16,4263.2735999999995,0.2819782051383807,53,48,False
+429,New York,East,Office Supplies,Storage,0.0,26928.35,4338.2179,0.16110225468697487,98,89,False
+637,Washington,West,Furniture,Tables,0.0,25062.32,4875.99,0.1945546142575787,21,21,False
+99,Delaware,East,Technology,Copiers,0.0,10499.97,5039.9856,0.48000000000000004,1,1,False
+54,California,West,Furniture,Furnishings,0.0,19996.48,5611.5606,0.280627420425995,191,176,False
+415,New York,East,Technology,Accessories,0.0,19597.54,5627.5702,0.2871569697012992,76,68,False
+135,Georgia,South,Office Supplies,Binders,0.0,11672.32,5717.3075,0.4898175769684176,24,23,False
+421,New York,East,Technology,Copiers,0.2,17199.84,5839.949999999999,0.33953513521056006,7,7,False
+300,Minnesota,Central,Office Supplies,Binders,0.0,12470.24,6041.276,0.4844554715867537,16,13,False
+624,Washington,West,Office Supplies,Binders,0.2,18156.128,6061.8114,0.3338713738964607,86,76,False
+58,California,West,Technology,Phones,0.2,67964.53600000001,6309.1197,0.09282958541790089,172,161,False
+46,California,West,Office Supplies,Appliances,0.0,24175.92,6992.2318,0.2892229871707054,94,93,False
+420,New York,East,Furniture,Chairs,0.1,46634.247,7111.011899999999,0.15248475867960296,76,71,False
+59,California,West,Office Supplies,Storage,0.0,45112.29,7204.137199999999,0.15969344939039892,160,151,False
+51,California,West,Technology,Copiers,0.2,24559.52,7889.8519,0.3212543201170055,17,17,False
+57,California,West,Office Supplies,Paper,0.0,16757.95,7977.5395,0.47604507114533695,289,249,False
+180,Indiana,Central,Technology,Copiers,0.0,18499.929999999997,8849.966999999999,0.4783784046750447,2,2,False
+627,Washington,West,Technology,Copiers,0.0,20249.83,9442.4242,0.46629646767404953,5,5,False
+48,California,West,Office Supplies,Binders,0.2,28473.168,10002.153699999999,0.35128348556086203,276,234,False
+283,Michigan,Central,Office Supplies,Binders,0.0,22821.969999999998,11079.505,0.4854753993629823,43,36,False
+45,California,West,Technology,Accessories,0.0,37255.01,11095.6565,0.2978299160300856,147,135,False
+418,New York,East,Office Supplies,Binders,0.2,32456.912000000004,11096.025999999998,0.3418694298459446,179,157,False
+428,New York,East,Technology,Phones,0.0,47502.62,13399.1892,0.2820726351514927,109,99,False
+426,New York,East,Technology,Machines,0.0,43183.5,17320.0762,0.40108088042886747,16,16,False

@@ -1,0 +1,5 @@
+region,regional_manager,sales,profit,profit_margin,effective_discount_rate,orders,avg_order_value,share_of_sales,share_of_profit
+West,Sadie Pawthorne,725457.82,108418.45,0.1494,0.1555,1611,450.32,0.3158,0.3785
+East,Chuck Magee,678499.87,91534.84,0.1349,0.1946,1401,484.3,0.2954,0.3196
+South,Fred Suzuki,391721.91,46749.43,0.1193,0.2128,822,476.55,0.1705,0.1632
+Central,Roxanne Rodriguez,501239.89,39706.36,0.0792,0.2456,1175,426.59,0.2182,0.1386

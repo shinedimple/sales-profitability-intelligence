@@ -1,0 +1,6 @@
+pandas>=2.2
+numpy>=1.26
+matplotlib>=3.8
+seaborn>=0.13
+xlrd>=2.0.1      # required to read the legacy .xls source file
+pytest>=8.0      # unit tests

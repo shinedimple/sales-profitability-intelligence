@@ -1,0 +1,11 @@
+profit_rank,product_label,category,sub_category,sales,profit,profit_margin,units,orders
+1,Canon imageCLASS 2200 Advanced Copier [TEC-CO-10004722],Technology,Copiers,61599.82,25199.93,0.4091,20,5
+2,Fellowes PB500 Electric Punch Plastic Comb Binding Machine with Manual Bind [OFF-BI-10003527],Office Supplies,Binders,27453.38,7753.04,0.2824,31,10
+3,Hewlett Packard LaserJet 3310 Copier [TEC-CO-10001449],Technology,Copiers,18839.69,6983.88,0.3707,38,8
+4,Canon PC1060 Personal Laser Copier [TEC-CO-10003763],Technology,Copiers,11619.83,4570.93,0.3934,19,4
+5,"HP Designjet T520 Inkjet Large Format Printer - 24"" Color [TEC-MA-10001127]",Technology,Machines,18374.9,4094.98,0.2229,12,3
+6,Ativa V4110MDD Micro-Cut Shredder [TEC-MA-10003979],Technology,Machines,7699.89,3772.95,0.49,11,2
+7,"3D Systems Cube Printer, 2nd Generation, Magenta [TEC-MA-10001047]",Technology,Machines,14299.89,3717.97,0.26,11,2
+8,Plantronics Savi W720 Multi-Device Wireless Headset System [TEC-AC-10002049],Technology,Accessories,9367.29,3696.28,0.3946,24,7
+9,Ibico EPK-21 Electric Binding System [OFF-BI-10001120],Office Supplies,Binders,15875.92,3345.28,0.2107,13,3
+10,Zebra ZM400 Thermal Label Printer [TEC-MA-10000045],Technology,Machines,6965.7,3343.54,0.48,6,2

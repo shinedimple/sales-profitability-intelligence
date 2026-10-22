@@ -1,0 +1,5 @@
+priority,focus,units,revenue,loss_at_stake,order_lines,evidence,main_sub_categories
+1,Discount rules above 40% (all loss-making),32 rules,128632.25200000001,-99558.59050000002,933,High,"Binders, Machines, Tables"
+2,Loss-making rules at 21-40% discount,23 rules,213180.4188,-38314.421400000014,445,High,"Tables, Chairs, Phones"
+3,Loss-making rules at 1-20% discount,24 rules,142165.984,-7849.3579000000045,485,High,"Storage, Supplies, Tables"
+4,Cross-cutting: loss-making Machines products (overlaps the rules above),24 products,79845.40899999999,-25405.370300000006,41,Medium,"Machines (few, high-value transactions)"

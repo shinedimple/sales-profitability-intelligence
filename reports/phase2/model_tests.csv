@@ -1,0 +1,25 @@
+test,failures,status
+fact grain - one fact row per staging row,0,PASS
+fact grain - sales_line_id is unique,0,PASS
+reconciliation - revenue equals staging,0,PASS
+reconciliation - profit equals staging,0,PASS
+reconciliation - units equal staging,0,PASS
+reconciliation - distinct orders equal staging,0,PASS
+integrity - no orphan customer keys,0,PASS
+integrity - no orphan product keys,0,PASS
+integrity - no orphan location keys,0,PASS
+integrity - no orphan order or ship dates,0,PASS
+dim_date - continuous calendar (no missing days),0,PASS
+dim_date - starts 1 Jan and ends 31 Dec (complete years for time intelligence),0,PASS
+dim_customer - one name and one segment per customer in staging,0,PASS
+dim_customer - customer flags constant across a customer's lines,0,PASS
+dim_product - one category and sub-category per product,0,PASS
+dim_location - one region per location and every region has a manager,0,PASS
+dim_ship_mode - every ship mode has a service level rank,0,PASS
+dim_discount - all levels within the defined band range (0 to 80%),0,PASS
+derived - gross_sales >= sales and discount_amount >= 0,0,PASS
+derived - gross_sales minus discount_amount equals sales,0,PASS
+derived - order-level attributes identical on every line of an order,0,PASS
+returns - every returned order is flagged in the fact table,0,PASS
+scope - every clone copy is outside the core scope,0,PASS
+break-even - implied list margin is constant within each product (core scope),0,PASS

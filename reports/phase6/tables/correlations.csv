@@ -1,0 +1,10 @@
+relationship,level,n,spearman_rho,strength
+Discount vs line margin,Order line,9993,-0.6448433507306076,Strong
+"Discount vs line margin, within sub-category (median of 17)",Order line,9993,-0.8124135340716636,Strong
+Discount vs units per line,Order line,9993,-0.0007370415373447317,None / negligible
+Discount vs line revenue,Order line,9993,-0.05711430942175562,None / negligible
+Effective discount vs margin,Customer,792,-0.8134162775546393,Strong
+Effective discount vs margin,State (30+ orders),28,-0.872130446202074,Strong
+Effective discount vs revenue growth 2023-2026,State (30+ orders),28,-0.08237096747792402,None / negligible
+Relative discount vs share of the state's purchases (revenue),State x sub-category,405,0.0277798733116414,None / negligible
+Relative discount vs share of the state's purchases (units),State x sub-category,405,0.05586477518098464,None / negligible

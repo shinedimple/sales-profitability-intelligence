@@ -1,0 +1,34 @@
+check,expected,actual,status
+Raw file unchanged (SHA-256 before = after),5045ed4fec49,5045ed4fec49,PASS
+Rows: clean = raw - removed,10192,10192,PASS
+Total sales: clean = raw - removed,2326153.8623,2326153.8623,PASS
+Total profit: clean = raw - removed,292273.459,292273.459,PASS
+Total quantity: clean = raw - removed,38644,38644,PASS
+Distinct orders unchanged (no order lost entirely),5111,5111,PASS
+Every remaining row_id existed in raw,True,True,PASS
+Sales/quantity/discount/profit values unchanged per row,True,True,PASS
+row_id unique,0,0,PASS
+No nulls in processed orders,0,0,PASS
+No near-duplicate lines remain,0,0,PASS
+US postal codes are 5-digit text,True,True,PASS
+Canadian postal codes are 3-char FSA text,True,True,PASS
+All customer_id values match format,0,0,PASS
+No customer-name words start lower-case,0,0,PASS
+Customer count unchanged by ID case fix,804,804,PASS
+ship_mode within expected domain,True,True,PASS
+segment within expected domain,True,True,PASS
+region within expected domain,True,True,PASS
+country within expected domain,True,True,PASS
+category within expected domain,True,True,PASS
+Final data types as specified,True,True,PASS
+dq_is_identity_anomaly matches audit rows (DQ05),10,10,PASS
+dq_is_placeholder_customer matches audit rows (DQ06),15,15,PASS
+dq_is_value_copy_suspect matches audit rows (DQ08),2,2,PASS
+dq_is_price_anomaly matches audit rows (DQ09),60,60,PASS
+dq_is_clone_copy matches audit rows (DQ18),101,101,PASS
+All flag columns are boolean with no nulls,True,True,PASS
+Every returned order exists in clean orders,0,0,PASS
+Every region has a regional manager,True,True,PASS
+CSV round-trip: same row count,10192,10192,PASS
+CSV round-trip: postal codes identical (leading zeros kept),True,True,PASS
+CSV round-trip: sales total identical,2326153.8623,2326153.8623,PASS

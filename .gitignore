@@ -1,0 +1,19 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.ipynb_checkpoints/
+.venv/
+.DS_Store
+~$*
+data/warehouse/*.sqlite
+
+# Local data and system files
+.DS_Store
+data/**/*.sqlite
+data/**/*.db
+.env
+.env.*
+!.env.example
+
+# Exclude the original raw dataset
+data/raw/

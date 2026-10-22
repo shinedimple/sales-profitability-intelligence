@@ -1,0 +1,5 @@
+scheme,bands,eta_squared,share_of_level_detail_retained,smallest_band_lines,max_margin_range_within_band,boundary_at_break_even_20_30
+A. Proposed: 0 | 1-10 | 10-20 | 20-30 | 30+,5,0.5442832527574202,0.7141842135602513,94,1.635271734484234,True
+B. Model bands: 0 | 1-20 | 21-40 | 41-60 | 61-80,5,0.7189839637888823,0.943418696312248,215,0.8136673071870701,True
+C. Alternative: 0 | 1-20 | 21-40 | 41-50 | 51-80,5,0.7234458235871747,0.9492733497760755,77,0.905606069268226,True
+Reference: 12 raw discount levels,12,0.7621048497335658,1.0,11,0.0,True

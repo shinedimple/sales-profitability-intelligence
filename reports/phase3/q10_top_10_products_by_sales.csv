@@ -1,0 +1,11 @@
+sales_rank,product_label,category,sub_category,sales,profit,profit_margin,units,orders
+1,Canon imageCLASS 2200 Advanced Copier [TEC-CO-10004722],Technology,Copiers,61599.82,25199.93,0.4091,20,5
+2,Fellowes PB500 Electric Punch Plastic Comb Binding Machine with Manual Bind [OFF-BI-10003527],Office Supplies,Binders,27453.38,7753.04,0.2824,31,10
+3,Cisco TelePresence System EX90 Videoconferencing Unit [TEC-MA-10002412],Technology,Machines,22638.48,-1811.08,-0.08,6,1
+4,HON 5400 Series Task Chairs for Big and Tall [FUR-CH-10002024],Furniture,Chairs,21870.58,0.0,0.0,39,8
+5,GBC DocuBind TL300 Electric Binding System [OFF-BI-10001359],Office Supplies,Binders,19823.48,2233.51,0.1127,37,11
+6,GBC Ibimaster 500 Manual ProClick Binding System [OFF-BI-10000545],Office Supplies,Binders,19024.5,760.98,0.04,48,9
+7,Hewlett Packard LaserJet 3310 Copier [TEC-CO-10001449],Technology,Copiers,18839.69,6983.88,0.3707,38,8
+8,"HP Designjet T520 Inkjet Large Format Printer - 24"" Color [TEC-MA-10001127]",Technology,Machines,18374.9,4094.98,0.2229,12,3
+9,GBC DocuBind P400 Electric Binding System [OFF-BI-10004995],Office Supplies,Binders,17965.07,-1878.17,-0.1045,27,6
+10,High Speed Automatic Electric Letter Opener [OFF-SU-10000151],Office Supplies,Supplies,17030.31,-262.0,-0.0154,11,3

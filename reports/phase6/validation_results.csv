@@ -1,0 +1,15 @@
+check,expected,actual,status
+Revenue = SQL Q01,2296919.49,2296919.4883,PASS
+Profit = SQL Q01,286409.08,286409.0804999999,PASS
+Distribution revenue sums to total,2296919.4883,2296919.4883000003,PASS
+Headroom bands profit sums to total,286409.0804999999,286409.0804999999,PASS
+Beyond-break-even profit = all line losses,-156119.22690000004,-156119.22690000004,PASS
+Price-arithmetic identity: max error,0.0,1.3322676295501878e-15,PASS
+Model-band profit = SQL Q15,286409.06999999995,286409.0805,PASS
+"Rules that changed over time (expected 0, Phase 4)",0.0,0.0,PASS
+Band scheme sums to revenue: A.,2296919.4883,2296919.4883000003,PASS
+Band scheme sums to revenue: B.,2296919.4883,2296919.4883000003,PASS
+Band scheme sums to revenue: C.,2296919.4883,2296919.4883,PASS
+category profit sums to total,286409.0804999999,286409.0804999999,PASS
+region profit sums to total,286409.0804999999,286409.0804999999,PASS
+segment profit sums to total,286409.0804999999,286409.0804999999,PASS

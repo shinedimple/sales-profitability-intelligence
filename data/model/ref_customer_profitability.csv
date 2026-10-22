@@ -1,0 +1,805 @@
+customer_key,profitability_segment,profitability_label
+1,C2,C2 Margin-dilutive
+2,C3,C3 Efficient small
+3,C3,C3 Efficient small
+4,C1,C1 Core
+5,C3,C3 Efficient small
+6,C1,C1 Core
+7,C1,C1 Core
+8,C3,C3 Efficient small
+9,C3,C3 Efficient small
+10,C3,C3 Efficient small
+11,C4,C4 Low-value
+12,C4,C4 Low-value
+13,C1,C1 Core
+14,C2,C2 Margin-dilutive
+15,C4,C4 Low-value
+16,C1,C1 Core
+17,C3,C3 Efficient small
+18,C4,C4 Low-value
+19,C1,C1 Core
+20,C3,C3 Efficient small
+21,C4,C4 Low-value
+22,C3,C3 Efficient small
+23,C3,C3 Efficient small
+24,C4,C4 Low-value
+25,C2,C2 Margin-dilutive
+26,C4,C4 Low-value
+27,C2,C2 Margin-dilutive
+28,C3,C3 Efficient small
+29,C2,C2 Margin-dilutive
+30,C4,C4 Low-value
+31,C4,C4 Low-value
+32,C1,C1 Core
+33,C2,C2 Margin-dilutive
+34,C4,C4 Low-value
+35,C1,C1 Core
+36,C1,C1 Core
+37,C2,C2 Margin-dilutive
+38,C1,C1 Core
+39,C3,C3 Efficient small
+40,C4,C4 Low-value
+41,C3,C3 Efficient small
+42,C1,C1 Core
+43,NA,Limited history
+44,C3,C3 Efficient small
+45,C1,C1 Core
+46,C4,C4 Low-value
+47,C4,C4 Low-value
+48,C3,C3 Efficient small
+49,C1,C1 Core
+50,NA,Limited history
+51,C2,C2 Margin-dilutive
+52,C2,C2 Margin-dilutive
+53,C2,C2 Margin-dilutive
+54,NA,Limited history
+55,C1,C1 Core
+56,C4,C4 Low-value
+57,C2,C2 Margin-dilutive
+58,C3,C3 Efficient small
+59,C4,C4 Low-value
+60,C1,C1 Core
+61,C4,C4 Low-value
+62,C2,C2 Margin-dilutive
+63,C3,C3 Efficient small
+64,C4,C4 Low-value
+65,C4,C4 Low-value
+66,C1,C1 Core
+67,C2,C2 Margin-dilutive
+68,C1,C1 Core
+69,C1,C1 Core
+70,NA,Limited history
+71,C1,C1 Core
+72,C3,C3 Efficient small
+73,C3,C3 Efficient small
+74,C3,C3 Efficient small
+75,C3,C3 Efficient small
+76,C1,C1 Core
+77,C3,C3 Efficient small
+78,C4,C4 Low-value
+79,C3,C3 Efficient small
+80,C4,C4 Low-value
+81,C2,C2 Margin-dilutive
+82,C3,C3 Efficient small
+83,C1,C1 Core
+84,C3,C3 Efficient small
+85,C4,C4 Low-value
+86,C2,C2 Margin-dilutive
+87,C4,C4 Low-value
+88,C4,C4 Low-value
+89,EX,Excluded or no core-scope sales
+90,C1,C1 Core
+91,C4,C4 Low-value
+92,C2,C2 Margin-dilutive
+93,C4,C4 Low-value
+94,C1,C1 Core
+95,C4,C4 Low-value
+96,C3,C3 Efficient small
+97,C3,C3 Efficient small
+98,C2,C2 Margin-dilutive
+99,NA,Limited history
+100,C3,C3 Efficient small
+101,C1,C1 Core
+102,C3,C3 Efficient small
+103,C2,C2 Margin-dilutive
+104,C4,C4 Low-value
+105,C2,C2 Margin-dilutive
+106,C1,C1 Core
+107,C2,C2 Margin-dilutive
+108,C1,C1 Core
+109,C2,C2 Margin-dilutive
+110,C2,C2 Margin-dilutive
+111,NA,Limited history
+112,C1,C1 Core
+113,C4,C4 Low-value
+114,C4,C4 Low-value
+115,NA,Limited history
+116,C1,C1 Core
+117,C1,C1 Core
+118,C3,C3 Efficient small
+119,C4,C4 Low-value
+120,C1,C1 Core
+121,C3,C3 Efficient small
+122,C1,C1 Core
+123,C3,C3 Efficient small
+124,C2,C2 Margin-dilutive
+125,C3,C3 Efficient small
+126,C2,C2 Margin-dilutive
+127,C2,C2 Margin-dilutive
+128,C3,C3 Efficient small
+129,C1,C1 Core
+130,C4,C4 Low-value
+131,C1,C1 Core
+132,C2,C2 Margin-dilutive
+133,C1,C1 Core
+134,C1,C1 Core
+135,C4,C4 Low-value
+136,C3,C3 Efficient small
+137,C1,C1 Core
+138,C4,C4 Low-value
+139,C1,C1 Core
+140,C3,C3 Efficient small
+141,C4,C4 Low-value
+142,NA,Limited history
+143,C3,C3 Efficient small
+144,C4,C4 Low-value
+145,C3,C3 Efficient small
+146,C3,C3 Efficient small
+147,NA,Limited history
+148,C2,C2 Margin-dilutive
+149,C2,C2 Margin-dilutive
+150,C2,C2 Margin-dilutive
+151,C3,C3 Efficient small
+152,C4,C4 Low-value
+153,C3,C3 Efficient small
+154,C1,C1 Core
+155,C4,C4 Low-value
+156,C3,C3 Efficient small
+157,NA,Limited history
+158,C3,C3 Efficient small
+159,C2,C2 Margin-dilutive
+160,C4,C4 Low-value
+161,C3,C3 Efficient small
+162,C1,C1 Core
+163,C3,C3 Efficient small
+164,C1,C1 Core
+165,C2,C2 Margin-dilutive
+166,C3,C3 Efficient small
+167,C2,C2 Margin-dilutive
+168,C2,C2 Margin-dilutive
+169,C4,C4 Low-value
+170,C3,C3 Efficient small
+171,C3,C3 Efficient small
+172,C4,C4 Low-value
+173,C3,C3 Efficient small
+174,C3,C3 Efficient small
+175,C2,C2 Margin-dilutive
+176,C3,C3 Efficient small
+177,C3,C3 Efficient small
+178,C1,C1 Core
+179,C1,C1 Core
+180,C2,C2 Margin-dilutive
+181,NA,Limited history
+182,C4,C4 Low-value
+183,C2,C2 Margin-dilutive
+184,C2,C2 Margin-dilutive
+185,C1,C1 Core
+186,C4,C4 Low-value
+187,C3,C3 Efficient small
+188,C2,C2 Margin-dilutive
+189,C3,C3 Efficient small
+190,C3,C3 Efficient small
+191,C2,C2 Margin-dilutive
+192,C2,C2 Margin-dilutive
+193,C2,C2 Margin-dilutive
+194,C4,C4 Low-value
+195,C1,C1 Core
+196,C3,C3 Efficient small
+197,C3,C3 Efficient small
+198,C2,C2 Margin-dilutive
+199,C3,C3 Efficient small
+200,C3,C3 Efficient small
+201,C2,C2 Margin-dilutive
+202,C4,C4 Low-value
+203,C3,C3 Efficient small
+204,C1,C1 Core
+205,C2,C2 Margin-dilutive
+206,C1,C1 Core
+207,C1,C1 Core
+208,C4,C4 Low-value
+209,C3,C3 Efficient small
+210,C1,C1 Core
+211,C1,C1 Core
+212,C1,C1 Core
+213,C1,C1 Core
+214,C4,C4 Low-value
+215,C1,C1 Core
+216,NA,Limited history
+217,C2,C2 Margin-dilutive
+218,C2,C2 Margin-dilutive
+219,C3,C3 Efficient small
+220,C2,C2 Margin-dilutive
+221,C3,C3 Efficient small
+222,C3,C3 Efficient small
+223,C2,C2 Margin-dilutive
+224,C3,C3 Efficient small
+225,C4,C4 Low-value
+226,C1,C1 Core
+227,C1,C1 Core
+228,C3,C3 Efficient small
+229,C3,C3 Efficient small
+230,C4,C4 Low-value
+231,C3,C3 Efficient small
+232,C3,C3 Efficient small
+233,C3,C3 Efficient small
+234,NA,Limited history
+235,C2,C2 Margin-dilutive
+236,C1,C1 Core
+237,C1,C1 Core
+238,C1,C1 Core
+239,C4,C4 Low-value
+240,C2,C2 Margin-dilutive
+241,C4,C4 Low-value
+242,C2,C2 Margin-dilutive
+243,C4,C4 Low-value
+244,C1,C1 Core
+245,C3,C3 Efficient small
+246,C4,C4 Low-value
+247,C2,C2 Margin-dilutive
+248,C2,C2 Margin-dilutive
+249,C2,C2 Margin-dilutive
+250,C1,C1 Core
+251,C2,C2 Margin-dilutive
+252,C4,C4 Low-value
+253,C4,C4 Low-value
+254,C2,C2 Margin-dilutive
+255,C3,C3 Efficient small
+256,C3,C3 Efficient small
+257,C1,C1 Core
+258,C4,C4 Low-value
+259,C1,C1 Core
+260,C4,C4 Low-value
+261,C3,C3 Efficient small
+262,C4,C4 Low-value
+263,C2,C2 Margin-dilutive
+264,C3,C3 Efficient small
+265,C3,C3 Efficient small
+266,C1,C1 Core
+267,C4,C4 Low-value
+268,NA,Limited history
+269,C2,C2 Margin-dilutive
+270,C3,C3 Efficient small
+271,C4,C4 Low-value
+272,C3,C3 Efficient small
+273,C3,C3 Efficient small
+274,C1,C1 Core
+275,C4,C4 Low-value
+276,C3,C3 Efficient small
+277,C2,C2 Margin-dilutive
+278,C4,C4 Low-value
+279,C1,C1 Core
+280,C2,C2 Margin-dilutive
+281,C1,C1 Core
+282,C1,C1 Core
+283,C1,C1 Core
+284,C3,C3 Efficient small
+285,C1,C1 Core
+286,C3,C3 Efficient small
+287,C1,C1 Core
+288,C2,C2 Margin-dilutive
+289,C2,C2 Margin-dilutive
+290,C2,C2 Margin-dilutive
+291,C2,C2 Margin-dilutive
+292,C2,C2 Margin-dilutive
+293,C3,C3 Efficient small
+294,C1,C1 Core
+295,C4,C4 Low-value
+296,C4,C4 Low-value
+297,C1,C1 Core
+298,C4,C4 Low-value
+299,C4,C4 Low-value
+300,C2,C2 Margin-dilutive
+301,C1,C1 Core
+302,NA,Limited history
+303,NA,Limited history
+304,C1,C1 Core
+305,C2,C2 Margin-dilutive
+306,C1,C1 Core
+307,C3,C3 Efficient small
+308,C2,C2 Margin-dilutive
+309,C2,C2 Margin-dilutive
+310,NA,Limited history
+311,NA,Limited history
+312,C2,C2 Margin-dilutive
+313,C1,C1 Core
+314,C4,C4 Low-value
+315,C4,C4 Low-value
+316,C1,C1 Core
+317,C1,C1 Core
+318,C3,C3 Efficient small
+319,C2,C2 Margin-dilutive
+320,C4,C4 Low-value
+321,C3,C3 Efficient small
+322,C2,C2 Margin-dilutive
+323,C3,C3 Efficient small
+324,C2,C2 Margin-dilutive
+325,C1,C1 Core
+326,NA,Limited history
+327,C3,C3 Efficient small
+328,C1,C1 Core
+329,C1,C1 Core
+330,C1,C1 Core
+331,C3,C3 Efficient small
+332,EX,Excluded or no core-scope sales
+333,EX,Excluded or no core-scope sales
+334,EX,Excluded or no core-scope sales
+335,EX,Excluded or no core-scope sales
+336,EX,Excluded or no core-scope sales
+337,C3,C3 Efficient small
+338,C3,C3 Efficient small
+339,C1,C1 Core
+340,C1,C1 Core
+341,C4,C4 Low-value
+342,C3,C3 Efficient small
+343,C1,C1 Core
+344,C1,C1 Core
+345,C2,C2 Margin-dilutive
+346,C2,C2 Margin-dilutive
+347,C4,C4 Low-value
+348,C4,C4 Low-value
+349,C3,C3 Efficient small
+350,C2,C2 Margin-dilutive
+351,C4,C4 Low-value
+352,NA,Limited history
+353,C2,C2 Margin-dilutive
+354,C3,C3 Efficient small
+355,C4,C4 Low-value
+356,C1,C1 Core
+357,C4,C4 Low-value
+358,C3,C3 Efficient small
+359,C1,C1 Core
+360,C3,C3 Efficient small
+361,C1,C1 Core
+362,C1,C1 Core
+363,C2,C2 Margin-dilutive
+364,C1,C1 Core
+365,C3,C3 Efficient small
+366,C4,C4 Low-value
+367,C3,C3 Efficient small
+368,C3,C3 Efficient small
+369,C4,C4 Low-value
+370,C1,C1 Core
+371,C3,C3 Efficient small
+372,C1,C1 Core
+373,C4,C4 Low-value
+374,C3,C3 Efficient small
+375,C4,C4 Low-value
+376,C4,C4 Low-value
+377,C4,C4 Low-value
+378,C2,C2 Margin-dilutive
+379,C4,C4 Low-value
+380,C3,C3 Efficient small
+381,NA,Limited history
+382,C1,C1 Core
+383,C3,C3 Efficient small
+384,C2,C2 Margin-dilutive
+385,C1,C1 Core
+386,C1,C1 Core
+387,C2,C2 Margin-dilutive
+388,C1,C1 Core
+389,C2,C2 Margin-dilutive
+390,C4,C4 Low-value
+391,C3,C3 Efficient small
+392,C4,C4 Low-value
+393,C1,C1 Core
+394,C2,C2 Margin-dilutive
+395,C1,C1 Core
+396,C2,C2 Margin-dilutive
+397,C3,C3 Efficient small
+398,C3,C3 Efficient small
+399,C3,C3 Efficient small
+400,C3,C3 Efficient small
+401,C1,C1 Core
+402,C1,C1 Core
+403,C1,C1 Core
+404,C4,C4 Low-value
+405,C3,C3 Efficient small
+406,EX,Excluded or no core-scope sales
+407,C3,C3 Efficient small
+408,C1,C1 Core
+409,C3,C3 Efficient small
+410,NA,Limited history
+411,NA,Limited history
+412,C3,C3 Efficient small
+413,EX,Excluded or no core-scope sales
+414,C4,C4 Low-value
+415,C4,C4 Low-value
+416,C1,C1 Core
+417,C4,C4 Low-value
+418,C2,C2 Margin-dilutive
+419,EX,Excluded or no core-scope sales
+420,C1,C1 Core
+421,C4,C4 Low-value
+422,C4,C4 Low-value
+423,C3,C3 Efficient small
+424,C1,C1 Core
+425,C4,C4 Low-value
+426,C3,C3 Efficient small
+427,C1,C1 Core
+428,C3,C3 Efficient small
+429,C3,C3 Efficient small
+430,C1,C1 Core
+431,C3,C3 Efficient small
+432,C1,C1 Core
+433,C3,C3 Efficient small
+434,C1,C1 Core
+435,C3,C3 Efficient small
+436,C3,C3 Efficient small
+437,C1,C1 Core
+438,C1,C1 Core
+439,C1,C1 Core
+440,C2,C2 Margin-dilutive
+441,C1,C1 Core
+442,C1,C1 Core
+443,C2,C2 Margin-dilutive
+444,C2,C2 Margin-dilutive
+445,C3,C3 Efficient small
+446,C1,C1 Core
+447,C3,C3 Efficient small
+448,C1,C1 Core
+449,C2,C2 Margin-dilutive
+450,C4,C4 Low-value
+451,C3,C3 Efficient small
+452,C4,C4 Low-value
+453,C2,C2 Margin-dilutive
+454,C2,C2 Margin-dilutive
+455,C1,C1 Core
+456,C3,C3 Efficient small
+457,C1,C1 Core
+458,C3,C3 Efficient small
+459,C2,C2 Margin-dilutive
+460,C2,C2 Margin-dilutive
+461,C1,C1 Core
+462,C2,C2 Margin-dilutive
+463,C2,C2 Margin-dilutive
+464,C4,C4 Low-value
+465,C2,C2 Margin-dilutive
+466,NA,Limited history
+467,C3,C3 Efficient small
+468,C4,C4 Low-value
+469,C2,C2 Margin-dilutive
+470,C4,C4 Low-value
+471,C3,C3 Efficient small
+472,C4,C4 Low-value
+473,C3,C3 Efficient small
+474,C1,C1 Core
+475,C4,C4 Low-value
+476,C3,C3 Efficient small
+477,C3,C3 Efficient small
+478,C2,C2 Margin-dilutive
+479,C2,C2 Margin-dilutive
+480,C4,C4 Low-value
+481,C2,C2 Margin-dilutive
+482,C2,C2 Margin-dilutive
+483,C3,C3 Efficient small
+484,C4,C4 Low-value
+485,C3,C3 Efficient small
+486,C3,C3 Efficient small
+487,C2,C2 Margin-dilutive
+488,C4,C4 Low-value
+489,C1,C1 Core
+490,C3,C3 Efficient small
+491,C1,C1 Core
+492,C1,C1 Core
+493,C2,C2 Margin-dilutive
+494,C3,C3 Efficient small
+495,C4,C4 Low-value
+496,C1,C1 Core
+497,C1,C1 Core
+498,C3,C3 Efficient small
+499,C2,C2 Margin-dilutive
+500,C4,C4 Low-value
+501,C4,C4 Low-value
+502,C1,C1 Core
+503,C4,C4 Low-value
+504,C4,C4 Low-value
+505,C2,C2 Margin-dilutive
+506,C4,C4 Low-value
+507,C1,C1 Core
+508,C4,C4 Low-value
+509,C4,C4 Low-value
+510,C4,C4 Low-value
+511,C3,C3 Efficient small
+512,C2,C2 Margin-dilutive
+513,C4,C4 Low-value
+514,C4,C4 Low-value
+515,C4,C4 Low-value
+516,C3,C3 Efficient small
+517,C2,C2 Margin-dilutive
+518,NA,Limited history
+519,C2,C2 Margin-dilutive
+520,C3,C3 Efficient small
+521,C1,C1 Core
+522,C4,C4 Low-value
+523,C4,C4 Low-value
+524,C1,C1 Core
+525,C2,C2 Margin-dilutive
+526,C1,C1 Core
+527,C4,C4 Low-value
+528,C3,C3 Efficient small
+529,EX,Excluded or no core-scope sales
+530,C1,C1 Core
+531,C2,C2 Margin-dilutive
+532,C3,C3 Efficient small
+533,C3,C3 Efficient small
+534,NA,Limited history
+535,C3,C3 Efficient small
+536,C2,C2 Margin-dilutive
+537,C2,C2 Margin-dilutive
+538,C4,C4 Low-value
+539,C2,C2 Margin-dilutive
+540,C4,C4 Low-value
+541,C4,C4 Low-value
+542,NA,Limited history
+543,C1,C1 Core
+544,C1,C1 Core
+545,C2,C2 Margin-dilutive
+546,C3,C3 Efficient small
+547,C2,C2 Margin-dilutive
+548,C3,C3 Efficient small
+549,C3,C3 Efficient small
+550,C2,C2 Margin-dilutive
+551,C4,C4 Low-value
+552,C4,C4 Low-value
+553,C1,C1 Core
+554,C4,C4 Low-value
+555,C4,C4 Low-value
+556,C3,C3 Efficient small
+557,C1,C1 Core
+558,NA,Limited history
+559,C3,C3 Efficient small
+560,C2,C2 Margin-dilutive
+561,C3,C3 Efficient small
+562,C1,C1 Core
+563,NA,Limited history
+564,C4,C4 Low-value
+565,C1,C1 Core
+566,C4,C4 Low-value
+567,C1,C1 Core
+568,C4,C4 Low-value
+569,EX,Excluded or no core-scope sales
+570,C2,C2 Margin-dilutive
+571,C1,C1 Core
+572,C2,C2 Margin-dilutive
+573,C3,C3 Efficient small
+574,C3,C3 Efficient small
+575,C3,C3 Efficient small
+576,C3,C3 Efficient small
+577,C1,C1 Core
+578,C3,C3 Efficient small
+579,C3,C3 Efficient small
+580,C1,C1 Core
+581,C3,C3 Efficient small
+582,C1,C1 Core
+583,C1,C1 Core
+584,C3,C3 Efficient small
+585,C2,C2 Margin-dilutive
+586,C4,C4 Low-value
+587,C2,C2 Margin-dilutive
+588,C2,C2 Margin-dilutive
+589,C1,C1 Core
+590,C1,C1 Core
+591,C4,C4 Low-value
+592,C2,C2 Margin-dilutive
+593,C3,C3 Efficient small
+594,C3,C3 Efficient small
+595,C3,C3 Efficient small
+596,C3,C3 Efficient small
+597,NA,Limited history
+598,C3,C3 Efficient small
+599,NA,Limited history
+600,C2,C2 Margin-dilutive
+601,C2,C2 Margin-dilutive
+602,C3,C3 Efficient small
+603,C2,C2 Margin-dilutive
+604,C3,C3 Efficient small
+605,NA,Limited history
+606,C3,C3 Efficient small
+607,C3,C3 Efficient small
+608,NA,Limited history
+609,C1,C1 Core
+610,C4,C4 Low-value
+611,C4,C4 Low-value
+612,C1,C1 Core
+613,C3,C3 Efficient small
+614,C2,C2 Margin-dilutive
+615,C1,C1 Core
+616,C1,C1 Core
+617,C4,C4 Low-value
+618,C1,C1 Core
+619,C3,C3 Efficient small
+620,C4,C4 Low-value
+621,C3,C3 Efficient small
+622,C1,C1 Core
+623,C4,C4 Low-value
+624,C1,C1 Core
+625,C1,C1 Core
+626,C1,C1 Core
+627,C1,C1 Core
+628,C1,C1 Core
+629,C1,C1 Core
+630,C2,C2 Margin-dilutive
+631,C4,C4 Low-value
+632,NA,Limited history
+633,C1,C1 Core
+634,C1,C1 Core
+635,C1,C1 Core
+636,C3,C3 Efficient small
+637,C3,C3 Efficient small
+638,C4,C4 Low-value
+639,C2,C2 Margin-dilutive
+640,C4,C4 Low-value
+641,C4,C4 Low-value
+642,C2,C2 Margin-dilutive
+643,C1,C1 Core
+644,C1,C1 Core
+645,C3,C3 Efficient small
+646,C3,C3 Efficient small
+647,C1,C1 Core
+648,C4,C4 Low-value
+649,NA,Limited history
+650,C3,C3 Efficient small
+651,C1,C1 Core
+652,C3,C3 Efficient small
+653,C3,C3 Efficient small
+654,C1,C1 Core
+655,C1,C1 Core
+656,NA,Limited history
+657,C4,C4 Low-value
+658,C3,C3 Efficient small
+659,C2,C2 Margin-dilutive
+660,C3,C3 Efficient small
+661,C1,C1 Core
+662,NA,Limited history
+663,C2,C2 Margin-dilutive
+664,C4,C4 Low-value
+665,C2,C2 Margin-dilutive
+666,C3,C3 Efficient small
+667,NA,Limited history
+668,C1,C1 Core
+669,C1,C1 Core
+670,C1,C1 Core
+671,NA,Limited history
+672,C1,C1 Core
+673,C1,C1 Core
+674,C1,C1 Core
+675,C1,C1 Core
+676,C4,C4 Low-value
+677,C1,C1 Core
+678,C2,C2 Margin-dilutive
+679,C2,C2 Margin-dilutive
+680,EX,Excluded or no core-scope sales
+681,C1,C1 Core
+682,C2,C2 Margin-dilutive
+683,C1,C1 Core
+684,C2,C2 Margin-dilutive
+685,C2,C2 Margin-dilutive
+686,C3,C3 Efficient small
+687,C4,C4 Low-value
+688,C3,C3 Efficient small
+689,C1,C1 Core
+690,C1,C1 Core
+691,C2,C2 Margin-dilutive
+692,C3,C3 Efficient small
+693,NA,Limited history
+694,C1,C1 Core
+695,C1,C1 Core
+696,C3,C3 Efficient small
+697,C2,C2 Margin-dilutive
+698,C1,C1 Core
+699,C1,C1 Core
+700,C4,C4 Low-value
+701,C1,C1 Core
+702,C4,C4 Low-value
+703,C1,C1 Core
+704,C4,C4 Low-value
+705,NA,Limited history
+706,C2,C2 Margin-dilutive
+707,C4,C4 Low-value
+708,C4,C4 Low-value
+709,C3,C3 Efficient small
+710,C1,C1 Core
+711,C4,C4 Low-value
+712,C2,C2 Margin-dilutive
+713,NA,Limited history
+714,C2,C2 Margin-dilutive
+715,C4,C4 Low-value
+716,C1,C1 Core
+717,C2,C2 Margin-dilutive
+718,C4,C4 Low-value
+719,C2,C2 Margin-dilutive
+720,C3,C3 Efficient small
+721,C1,C1 Core
+722,C2,C2 Margin-dilutive
+723,C2,C2 Margin-dilutive
+724,C1,C1 Core
+725,C3,C3 Efficient small
+726,C2,C2 Margin-dilutive
+727,C3,C3 Efficient small
+728,C3,C3 Efficient small
+729,C4,C4 Low-value
+730,C3,C3 Efficient small
+731,C1,C1 Core
+732,C2,C2 Margin-dilutive
+733,C2,C2 Margin-dilutive
+734,C3,C3 Efficient small
+735,C4,C4 Low-value
+736,C4,C4 Low-value
+737,C3,C3 Efficient small
+738,C4,C4 Low-value
+739,C1,C1 Core
+740,NA,Limited history
+741,C2,C2 Margin-dilutive
+742,C1,C1 Core
+743,C3,C3 Efficient small
+744,C1,C1 Core
+745,C3,C3 Efficient small
+746,C3,C3 Efficient small
+747,C3,C3 Efficient small
+748,C3,C3 Efficient small
+749,C1,C1 Core
+750,C2,C2 Margin-dilutive
+751,C4,C4 Low-value
+752,C1,C1 Core
+753,C1,C1 Core
+754,NA,Limited history
+755,C1,C1 Core
+756,C4,C4 Low-value
+757,C3,C3 Efficient small
+758,C4,C4 Low-value
+759,C1,C1 Core
+760,C3,C3 Efficient small
+761,C2,C2 Margin-dilutive
+762,C2,C2 Margin-dilutive
+763,C4,C4 Low-value
+764,C2,C2 Margin-dilutive
+765,C1,C1 Core
+766,C3,C3 Efficient small
+767,C2,C2 Margin-dilutive
+768,C1,C1 Core
+769,C2,C2 Margin-dilutive
+770,C4,C4 Low-value
+771,C3,C3 Efficient small
+772,NA,Limited history
+773,C4,C4 Low-value
+774,C1,C1 Core
+775,C4,C4 Low-value
+776,C1,C1 Core
+777,C4,C4 Low-value
+778,C4,C4 Low-value
+779,C2,C2 Margin-dilutive
+780,C2,C2 Margin-dilutive
+781,C1,C1 Core
+782,C3,C3 Efficient small
+783,C3,C3 Efficient small
+784,C1,C1 Core
+785,C1,C1 Core
+786,C3,C3 Efficient small
+787,C3,C3 Efficient small
+788,C1,C1 Core
+789,C4,C4 Low-value
+790,C3,C3 Efficient small
+791,C4,C4 Low-value
+792,C1,C1 Core
+793,C3,C3 Efficient small
+794,C3,C3 Efficient small
+795,C2,C2 Margin-dilutive
+796,C4,C4 Low-value
+797,NA,Limited history
+798,C2,C2 Margin-dilutive
+799,C2,C2 Margin-dilutive
+800,C1,C1 Core
+801,C1,C1 Core
+802,C1,C1 Core
+803,C2,C2 Margin-dilutive
+804,C3,C3 Efficient small

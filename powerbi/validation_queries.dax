@@ -1,0 +1,71 @@
+// ==========================================================================
+// Validation queries - run in Power BI Desktop: DAX query view (or DAX Studio).
+// Report-level filters do NOT apply in the DAX query view, so every query adds
+// the core-scope filter explicitly. Compare results with
+// reports/phase9/dax_expected_values.csv (generated from the SQL warehouse).
+// ==========================================================================
+
+// Query 1: all years (growth measures must be BLANK here)
+EVALUATE
+CALCULATETABLE (
+    ROW (
+        "Revenue", [Revenue],
+        "Profit", [Profit],
+        "Profit Margin %", [Profit Margin %],
+        "Orders", [Orders],
+        "Customers", [Customers],
+        "Valid Customers", [Valid Customers],
+        "Units Sold", [Units Sold],
+        "Average Order Value", [Average Order Value],
+        "Effective Discount %", [Effective Discount %],
+        "Average Line Discount %", [Average Line Discount %],
+        "Profit per Order", [Profit per Order],
+        "Profit per Customer", [Profit per Customer],
+        "Revenue PY", [Revenue PY],
+        "Revenue Growth %", [Revenue Growth %],
+        "Profit Growth %", [Profit Growth %],
+        "Margin Change pp", [Margin Change pp]
+    ),
+    fct_sales[is_core_scope] = 1
+)
+
+// Query 2: by year (growth BLANK for 2023, the first year)
+EVALUATE
+SUMMARIZECOLUMNS (
+    dim_date[year],
+    TREATAS ( { 1 }, fct_sales[is_core_scope] ),
+    "Revenue", [Revenue],
+    "Profit", [Profit],
+    "Profit Margin %", [Profit Margin %],
+    "Orders", [Orders],
+    "Customers", [Customers],
+    "Valid Customers", [Valid Customers],
+    "Units Sold", [Units Sold],
+    "Average Order Value", [Average Order Value],
+    "Effective Discount %", [Effective Discount %],
+    "Average Line Discount %", [Average Line Discount %],
+    "Profit per Order", [Profit per Order],
+    "Profit per Customer", [Profit per Customer],
+    "Revenue PY", [Revenue PY],
+    "Revenue Growth %", [Revenue Growth %],
+    "Profit Growth %", [Profit Growth %],
+    "Margin Change pp", [Margin Change pp]
+)
+ORDER BY dim_date[year]
+
+// Query 3: filter context check - category totals must add up to Revenue and Profit,
+// but Orders and Customers must NOT (one order/customer spans several categories).
+EVALUATE
+SUMMARIZECOLUMNS (
+    dim_product[category],
+    TREATAS ( { 1 }, fct_sales[is_core_scope] ),
+    "Revenue", [Revenue], "Profit", [Profit], "Orders", [Orders], "Customers", [Customers],
+    "Profit Margin %", [Profit Margin %]
+)
+
+// Expected values (from SQL):
+//   All years: Revenue = 2,296,919; Profit = 286,409; Profit Margin % = 12.47%; Orders = 5,009; Revenue Growth % = (blank); Profit Growth % = (blank)
+//   2023: Revenue = 483,966; Profit = 49,556; Profit Margin % = 10.24%; Orders = 969; Revenue Growth % = (blank); Profit Growth % = (blank)
+//   2024: Revenue = 470,533; Profit = 61,619; Profit Margin % = 13.10%; Orders = 1,038; Revenue Growth % = -2.78%; Profit Growth % = 24.34%
+//   2025: Revenue = 609,206; Profit = 81,795; Profit Margin % = 13.43%; Orders = 1,315; Revenue Growth % = 29.47%; Profit Growth % = 32.74%
+//   2026: Revenue = 733,215; Profit = 93,439; Profit Margin % = 12.74%; Orders = 1,687; Revenue Growth % = 20.36%; Profit Growth % = 14.24%

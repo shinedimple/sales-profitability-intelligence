@@ -1,0 +1,16 @@
+step,issue_code,rows_affected,note
+Rename columns to snake_case,-,0,21 columns renamed
+Trim whitespace in text columns,-,0,
+Postal code to text; zero-pad US codes to 5 digits,DQ02,438,
+Upper-case customer_id,DQ03,43,
+Capitalise lower-case starts of customer name words,DQ04,35,
+Remove near-duplicate order lines,DQ01,2,"removed row_ids [392, 1700]; sales 380.4920, profit 23.3556"
+Flag: dq_is_identity_anomaly,DQ05,10,
+Flag: dq_is_placeholder_customer,DQ06,15,
+Flag: dq_is_value_copy_suspect,DQ08,2,
+Flag: dq_is_price_anomaly,DQ09,60,
+Flag: dq_is_clone_copy,DQ18,101,
+Flag: dq_is_sales_outlier,DQ10,679,
+Flag: dq_is_profit_outlier,DQ10,1184,
+Flag: exclude_from_customer_analysis,DQ05+DQ06,25,
+Enforce final data types,-,0,

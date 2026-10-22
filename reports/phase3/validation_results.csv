@@ -1,0 +1,43 @@
+check,expected,actual,tolerance,status
+Q01 total sales = fact table,2296919.4883,2296919.49,0.01,PASS
+Q01 total profit = fact table,286409.0805,286409.08,0.01,PASS
+Q01 orders = fact table,5009.0,5009.0,0.0,PASS
+Q02 sales sum to total,2296919.4883,2296919.5,0.03,PASS
+Q02 profit sums to total,286409.0805,286409.07,0.03,PASS
+Q03 sales sum to total,2296919.4883,2296919.48,0.25,PASS
+Q03 profit sums to total,286409.0805,286409.11,0.25,PASS
+Q05 sales sum to total,2296919.4883,2296919.48,0.025,PASS
+Q05 profit sums to total,286409.0805,286409.08,0.025,PASS
+Q06 sales sum to total,2296919.4883,2296919.48,0.095,PASS
+Q06 profit sums to total,286409.0805,286409.09,0.095,PASS
+Q07 sales sum to total,2296919.4883,2296919.49,0.03,PASS
+Q07 profit sums to total,286409.0805,286409.08,0.03,PASS
+Q08 sales sum to total,2296919.4883,2296919.47,0.255,PASS
+Q08 profit sums to total,286409.0805,286409.1,0.255,PASS
+Q09 sales sum to total,2296919.4883,2296919.49,0.025,PASS
+Q09 profit sums to total,286409.0805,286409.08,0.025,PASS
+Q15 sales sum to total,2296919.4883,2296919.49,0.035,PASS
+Q15 profit sums to total,286409.0805,286409.07,0.035,PASS
+Q16 sales sum to total,2296919.4883,2296919.48,0.06999999999999999,PASS
+Q16 profit sums to total,286409.0805,286409.07,0.06999999999999999,PASS
+Q17 sales sum to total,2296919.4883,2296919.48,0.075,PASS
+Q17 profit sums to total,286409.0805,286409.08,0.075,PASS
+Q05 sales shares sum to 1,1.0,0.9999,0.0013,PASS
+Q06 sales shares sum to 1,1.0,1.0001,0.0027,PASS
+Q07 sales shares sum to 1,1.0,0.9999,0.0014,PASS
+Q09 sales shares sum to 1,1.0,0.9999,0.0013,PASS
+Q02 orders sum to total orders (orders belong to one year),5009.0,5009.0,0.0,PASS
+Q18 one row per valid customer,792.0,792.0,0.0,PASS
+Q18 profit = valid-customer profit,285397.3362,285397.42,3.96,PASS
+Q18 cumulative share ends at 1,1.0,1.0,0.0001,PASS
+Q19 customers sum to valid customers,792.0,792.0,0.0,PASS
+Q20 customers sum to valid customers,792.0,792.0,0.0,PASS
+Q21 customers sum to valid customers,792.0,792.0,0.0,PASS
+Q14 one row per sub-category (17),17.0,17.0,0.0,PASS
+pandas: Technology profit,145454.9481,145454.95,0.01,PASS
+pandas: Furniture profit,18463.3316,18463.33,0.01,PASS
+pandas: Office Supplies profit,122490.8008,122490.8,0.01,PASS
+pandas: top product by sales,Canon imageCLASS 2200 Advanced Copier [TEC-CO-10004722],Canon imageCLASS 2200 Advanced Copier [TEC-CO-10004722],,PASS
+pandas: retention 2023.0,0.734,0.734,0.0001,PASS
+pandas: retention 2024.0,0.7885,0.7885,0.0001,PASS
+pandas: retention 2025.0,0.8744,0.8744,0.0001,PASS

@@ -1,0 +1,13 @@
+check,expected,actual,status
+Total revenue = SQL Q01,2296919.49,2296919.4883,PASS
+Total profit = SQL Q01,286409.08,286409.0804999999,PASS
+Quadrant revenue sums to total,2296919.4883,2296919.4883,PASS
+Quadrant profit sums to total,286409.0804999999,286409.0804999999,PASS
+Quadrant products = all products,1894.0,1894.0,PASS
+Policy-cell profit sums to total,286409.0804999999,286409.0804999999,PASS
+Rule-band revenue sums to total,2296919.4883,2296919.4883000003,PASS
+Full-price + discounted revenue = product revenue,2296919.4883,2296919.4883,PASS
+Loss diagnosis covers all loss products,306.0,306.0,PASS
+Every policy cell has one discount rule,656.0,656.0,PASS
+"Eta-squared within [0, 1]",1.0,1.0,PASS
+No loss-making full-price lines (premise of diagnosis),0.0,0.0,PASS

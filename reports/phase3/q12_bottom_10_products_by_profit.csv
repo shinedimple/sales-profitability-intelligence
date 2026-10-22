@@ -1,0 +1,11 @@
+loss_rank,product_label,category,sub_category,sales,profit,profit_margin,effective_discount_rate,lines,loss_lines
+1,Cubify CubeX 3D Printer Double Head Print [TEC-MA-10000418],Technology,Machines,11099.96,-8879.97,-0.8,0.5889,3,2
+2,Lexmark MX611dhe Monochrome Laser Printer [TEC-MA-10000822],Technology,Machines,16829.9,-4589.97,-0.2727,0.45,4,3
+3,Cubify CubeX 3D Printer Triple Head Print [TEC-MA-10004125],Technology,Machines,7999.98,-3839.99,-0.48,0.5,1,1
+4,Chromcraft Bull-Nose Wood Oval Conference Tables & Bases [FUR-TA-10000198],Furniture,Tables,9917.64,-2876.12,-0.29,0.3333,5,4
+5,Bush Advantage Collection Racetrack Conference Table [FUR-TA-10001889],Furniture,Tables,9544.73,-1934.4,-0.2027,0.3182,7,6
+6,GBC DocuBind P400 Electric Binding System [OFF-BI-10004995],Office Supplies,Binders,17965.07,-1878.17,-0.1045,0.5111,6,3
+7,Cisco TelePresence System EX90 Videoconferencing Unit [TEC-MA-10002412],Technology,Machines,22638.48,-1811.08,-0.08,0.5,1,1
+8,Martin Yale Chadless Opener Electric Letter Opener [OFF-SU-10002881],Office Supplies,Supplies,16656.2,-1299.18,-0.078,0.0909,6,3
+9,Balt Solid Wood Round Tables [FUR-TA-10001950],Furniture,Tables,6518.75,-1201.06,-0.1842,0.2316,4,2
+10,BoxOffice By Design Rectangular and Half-Moon Meeting Room Tables [FUR-TA-10004289],Furniture,Tables,1706.25,-1148.44,-0.6731,0.48,3,3

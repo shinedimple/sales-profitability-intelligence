@@ -1,0 +1,4 @@
+segment,sales,profit,profit_margin,orders,valid_customers,avg_order_value,orders_per_customer,sales_per_customer,profit_per_customer,share_of_sales,share_of_profit
+Consumer,1161401.34,134119.21,0.1155,2586,409,449.11,6.32,2839.61,327.92,0.5056,0.4683
+Corporate,706146.37,91979.13,0.1303,1514,236,466.41,6.42,2992.15,389.74,0.3074,0.3211
+Home Office,429371.78,60310.74,0.1405,909,147,472.36,6.12,2889.44,403.39,0.1869,0.2106

@@ -1,0 +1,28 @@
+// ==========================================================================
+// Optional measures - NOT part of the dashboard (kept out of the main library
+// so the model only contains measures that are used).
+// Add them only if a future page needs them; each note explains why it was removed.
+// ==========================================================================
+
+// Returns: recorded per order only (DQ14), so these describe orders that had a
+// return, not the value returned. Not used on any dashboard page.
+Returned Orders =
+CALCULATE ( [Orders], fct_sales[is_returned_order] = 1 )
+
+Order Return Rate % =
+DIVIDE ( [Returned Orders], [Orders] )
+
+Revenue in Returned Orders =
+CALCULATE ( [Revenue], fct_sales[is_returned_order] = 1 )
+
+// Operations: shipping is outside the profitability question of this dashboard.
+Average Days to Ship =
+AVERAGEX ( VALUES ( fct_sales[order_id] ), CALCULATE ( MAX ( fct_sales[days_to_ship] ) ) )
+
+// Year-to-date: every dataset year is complete, so YTD equals the yearly total
+// and adds nothing. Useful only if partial-year data is loaded later.
+Revenue YTD =
+TOTALYTD ( [Revenue], dim_date[date] )
+
+Profit YTD =
+TOTALYTD ( [Profit], dim_date[date] )

@@ -1,0 +1,66 @@
+section,check,status,n_affected,detail,issue_code
+Structure,"All expected Orders columns present, no unexpected columns",PASS,0,"missing=[], unexpected=[]",
+Data types,Postal code stored as a consistent text type,WARN,438,"python types in column: {'int': 9983, 'str': 211}; US codes that lost a leading zero: 438",DQ02
+Data types,Order Date parsed as datetime,PASS,0,datetime64[us],
+Data types,Ship Date parsed as datetime,PASS,0,datetime64[us],
+Data types,Sales is numeric,PASS,0,float64,
+Data types,Quantity is numeric,PASS,0,int64,
+Data types,Discount is numeric,PASS,0,float64,
+Data types,Profit is numeric,PASS,0,float64,
+Missing values,No null values in any table,PASS,0,"nulls per table: {'orders': 0, 'returns': 0, 'people': 0}",
+Missing values,No blank / whitespace-only text values,PASS,0,,
+Duplicates,No fully identical rows,PASS,0,,
+Duplicates,row_id is unique (primary key),PASS,0,,
+Duplicates,No rows identical in every business column (ignoring row_id),WARN,2,"copies: row 392 (US-2023-150119), row 1700 (CA-2023-153623)",DQ01
+Duplicates,Same product on several lines of one order (not exact copies),INFO,18,9 order-product pairs; 7 with identical unit price (split lines); inconsistent in orders ['CA-2023-123625'],DQ16
+Duplicates,Returns: Order ID unique,PASS,0,,
+Dates,Ship date never before order date,PASS,0,,
+Dates,Shipping time <= 30 days,PASS,0,max days = 11,
+Dates,Order dates not later than today (2026-10-01),WARN,1239,latest order date 2026-12-30: dataset years are synthetic,DQ13
+Dates,Year embedded in Order ID matches order date year,PASS,0,,
+Dates,"Order date, ship date and ship mode consistent within each order",PASS,0,,
+Impossible values,sales > 0,PASS,0,,
+Impossible values,quantity >= 1,PASS,0,,
+Impossible values,quantity is a whole number,PASS,0,,
+Impossible values,0 <= discount < 1,PASS,0,,
+Impossible values,profit <= sales (margin cannot exceed 100%),PASS,0,,
+Unusual values,Lines with profit exactly 0,INFO,65,"0.6% of lines; discounts on these lines: [0.0, 0.2, 0.3]",DQ15
+Unusual values,Lines where loss exceeds the line's sales (margin < -100%),INFO,352,min margin -275%; minimum discount on these lines 60%,DQ17
+Unusual values,Loss-making lines with zero discount (plausibility),INFO,0,noted for Phase 3; not interpreted here,
+Unusual values,Implied list price within 50% of product median,WARN,60,45 products affected; max ratio to median 436x,DQ09
+Outliers,sales: values beyond 3 x IQR fences,INFO,679,"fences [-559.62, 786.34]; these rows hold 50.8% of total sales",DQ10
+Outliers,profit: values beyond 3 x IQR fences,INFO,1184,"fences [-80.85, 111.91]; these rows hold 56.8% of total profit",DQ10
+Categorical consistency,ship_mode values within expected domain,PASS,0,unexpected: [],
+Categorical consistency,segment values within expected domain,PASS,0,unexpected: [],
+Categorical consistency,region values within expected domain,PASS,0,unexpected: [],
+Categorical consistency,country values within expected domain,PASS,0,unexpected: [],
+Categorical consistency,category values within expected domain,PASS,0,unexpected: [],
+Categorical consistency,No leading/trailing whitespace,PASS,0,,
+Categorical consistency,No case-variant spellings in city,PASS,0,,
+Categorical consistency,No case-variant spellings in state_province,PASS,0,,
+Categorical consistency,No case-variant spellings in product_name,PASS,0,,
+Categorical consistency,No case-variant spellings in sub_category,PASS,0,,
+Categorical consistency,Each sub_category maps to one category,PASS,0,,
+Categorical consistency,Each state_province maps to one region,PASS,0,,
+Categorical consistency,Each state_province maps to one country,PASS,0,,
+Categorical consistency,Each customer_id maps to one segment,PASS,0,,
+Categorical consistency,Customer names consistently capitalised,WARN,35,"examples: ['Dean percer', 'Dorris liebe']",DQ04
+Categorical consistency,City names that exist in several states,INFO,58,real geography; use city + state,DQ12
+Categorical consistency,Each postal code maps to one city,WARN,1,postal codes: ['92024'],DQ11
+Referential integrity,Every region has a regional manager,PASS,0,,
+Identifiers,order_id matches expected format,PASS,0,examples: [],
+Identifiers,product_id matches expected format,PASS,0,examples: [],
+Identifiers,customer_id matches expected format,WARN,43,"examples: ['Co-12640', 'Dl-13600', 'Dp-13240']",DQ03
+Identifiers,Upper-casing customer_id creates no collisions,PASS,0,,
+Identifiers,Product ID prefix agrees with category,PASS,0,,
+Identifiers,Order ID prefix agrees with country,PASS,0,,
+Identifiers,Each product_id belongs to one category/sub-category,PASS,0,,
+Identifiers,product_id and product_name are one-to-one,WARN,667,32 IDs with 2+ names; 17 names with 2+ IDs,DQ07
+Identifiers,Each customer_id has one name,PASS,0,,
+Identifiers,Each customer name has one ID and each order has one customer,WARN,10,"names with several IDs: ['Harry Olson']; orders with several customers: ['CA-2025-121465', 'CA-2026-130494']",DQ05
+Identifiers,No placeholder / test customer names,WARN,15,"names: ['Sample Company A']; sales 4,624.57",DQ06
+Identifiers,Different products in one order do not share identical financial values,WARN,2,orders: ['CA-2023-123625'],DQ08
+Identifiers,Each order ships to one location,WARN,2,"orders: ['CA-2023-131807', 'CA-2026-131807']",DQ19
+Identifiers,No order lines copied across different orders,WARN,101,"144 lines in clone groups; 101 non-US copies (sales 16,113.13 = 55% of Canadian sales); 43 US lines are the matching originals",DQ18
+Referential integrity,Every returned Order ID exists in Orders,PASS,0,,
+Referential integrity,"Returns are recorded per order, not per line",INFO,296,800 order lines belong to returned orders,DQ14
